@@ -37,7 +37,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
+<!--
 <item>
 <title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Wolverhampton Wanderers vs Tottenham Hotspur[/B][/COLOR]</title>
 <link>
@@ -74,6 +74,7 @@ sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-2/chunks.m3u8 ::LISTNAME:[CO
 <thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
 <fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
 </item>
+
 <item>
 <title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Wolves vs Tottenham[/B][/COLOR] [COLOR orange][B]NBCSN.720p3[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -103,8 +104,7 @@ sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-2/chunks.m3u8 ::LISTNAME:[CO
 <link>
 sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR blue][B]Sky Sports Main Event RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR blue][B]Sky Sports Main Event RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls4/live.m3u8 ::LISTNAME:[COLOR blue][B]SuperSprts 3 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls4/live.m3u8 ::LISTNAME:[COLOR blue][B]SuperSprts 3 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR blue][B]Sky Sports Main Event RESOLUTION=1280x720p[/B][/COLOR]::#
 
 sublink:LISTSOURCE:http://cdn.60fps.live/live/sme/playlist.m3u8 ::LISTNAME:[COLOR gold][B]Sky Sports Main Event RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://cdn.60fps.live/live/sme/chunks.m3u8 ::LISTNAME:[COLOR gold][B]Sky Sports Main Event RESOLUTION=1280x720p[/B][/COLOR]::#
@@ -151,23 +151,29 @@ sublink:LISTSOURCE:http://103.194.171.4/live/S-4/chunks.m3u8 ::LISTNAME:[COLOR r
 <thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
 <fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
 </item>
-
+-->
 <item>
 <title>[COLOR lime][B]18:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Arsenal vs Manchester City[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR blue][B]Sky Sports Main Event RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR blue][B]Sky Sports Main Event RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://cdn.60fps.live/live/ssme/playlist.m3u8 ::LISTNAME:[COLOR gold][B]]Sky Sports Main Event RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/ssme/chunks.m3u8 ::LISTNAME:[COLOR gold][B]]Sky Sports Main Event RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/ssme/playlist.m3u8 ::LISTNAME:[COLOR gold][B]]Sky Sports Main Event RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/ssme/chunks.m3u8 ::LISTNAME:[COLOR gold][B]]Sky Sports Main Event RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/nbcsn/playlist.m3u8 ::LISTNAME:[COLOR gold][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/nbcsn/chunks.m3u8 ::LISTNAME:[COLOR gold][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/sme/playlist.m3u8 ::LISTNAME:[COLOR gold][B]Sky Sports Main Event RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/sme/chunks.m3u8 ::LISTNAME:[COLOR gold][B]Sky Sports Main Event RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://103.194.171.4/abr/abr-S-1/live/S-1_source/playlist.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1920x1080p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/abr/abr-S-1/live/S-1_source/chunks.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1920x1080p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/abr/abr-S-1/live/S-1_480p/playlist.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=854x480p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/abr/abr-S-1/live/S-1_480p/chunks.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=854x480p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-3/playlist.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-2/playlist.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-3/chunks.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-2/chunks.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://103.194.171.4/live/S-4/playlist.m3u8 ::LISTNAME:[COLOR red][B]Sky Sports Premier League RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-4/chunks.m3u8 ::LISTNAME:[COLOR red][B]Sky Sports Premier League RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-4/playlist.m3u8 ::LISTNAME:[COLOR red][B]Sky Sports Premier League RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-4/chunks.m3u8 ::LISTNAME:[COLOR red][B]Sky Sports Premier League RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
 <fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
@@ -200,7 +206,7 @@ sublink:LISTSOURCE:http://103.194.171.4/abr/abr-S-1/live/S-1_480p/chunks.m3u8 ::
 <item>
 <title>[COLOR lime][B]18:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Arsenal vs Man City[/B][/COLOR] [COLOR orange][B]NBCSN.720p2[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1ktsd/raw</externallink>mnl
+<externallink>https://textuploader.com/1ti2o/raw</externallink>weak
 <thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
 <fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
 </item>
@@ -208,23 +214,15 @@ sublink:LISTSOURCE:http://103.194.171.4/abr/abr-S-1/live/S-1_480p/chunks.m3u8 ::
 <item>
 <title>[COLOR lime][B]18:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Arsenal vs Man City[/B][/COLOR] [COLOR orange][B]NBCSN.720p3[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/11xky/raw</externallink>f1
-<thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
-<fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
+<externallink>https://textuploader.com/1ota3/raw</externallink>mnl
+<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
+<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR lime][B]18:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Arsenal vs Man City[/B][/COLOR] [COLOR orange][B]NBCSN.720p4[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1kcrd/raw</externallink>thebaldstreamer
-<thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
-<fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]18:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Arsenal vs Man City[/B][/COLOR] [COLOR orange][B]NBCSN.720p3[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1rj28/raw</externallink>bellwoodstreams
+<externallink>https://textuploader.com/1kv2h/raw</externallink>f1
 <thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
 <fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
 </item>
@@ -232,7 +230,47 @@ sublink:LISTSOURCE:http://103.194.171.4/abr/abr-S-1/live/S-1_480p/chunks.m3u8 ::
 <item>
 <title>[COLOR lime][B]18:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Arsenal vs Man City[/B][/COLOR] [COLOR orange][B]NBCSN.720p5[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1kt5u/raw</externallink>cr7
+<externallink>https://textuploader.com/1o2hj/raw</externallink>btstream
+<thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
+<fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Wolves vs Tottenham[/B][/COLOR] [COLOR orange][B]NBCSN.720p6[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/1o2hc/raw</externallink>cr7
+<thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
+<fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]18:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Arsenal vs Man City[/B][/COLOR] [COLOR orange][B]Sky Sports Main Event.720p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/1rora/raw</externallink>weak
+<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
+<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]18:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Arsenal vs Man City[/B][/COLOR] [COLOR orange][B]Sky Sports Main Event.720p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/10ebc/raw</externallink>mnl
+<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
+<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]18:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Arsenal vs Man City[/B][/COLOR] [COLOR orange][B]Sky Sports Main Event.720p3[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/1ktah/raw</externallink>f1
+<thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
+<fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Man United vs Everton[/B][/COLOR] [COLOR orange][B]Sky Sports Premier League.720p[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/1o2ho/raw</externallink>cr7
 <thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
 <fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
 </item>
