@@ -1,5 +1,4 @@
 
-
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layouttype>thumbnail</layouttype>
@@ -579,56 +578,27 @@ sublink:LISTSOURCE:http://cdn.60fps.live/live/yp3/chunks.m3u8 ::LISTNAME:[COLOR 
 <item>
 <title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Wolfsburg vs Borussia M'gladbach[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://cdn.60fps.live/live/ssb1/playlist.m3u8 ::LISTNAME:[COLOR blue][B]Sky Sport Bundesliga RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/ssb1/chunks.m3u8 ::LISTNAME:[COLOR blue][B]Sky Sport Bundesliga RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/ssb1/playlist.m3u8 ::LISTNAME:[COLOR blue][B]Sky Sport Bundesliga RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/ssb1/chunks.m3u8 ::LISTNAME:[COLOR blue][B]Sky Sport Bundesliga RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/18372|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.5.ARA FHD[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/18684|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.5.ARA HEVC[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/431|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.5.ARA HD[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9129|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.5.ARA SD[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/bt1/playlist.m3u8 ::LISTNAME:[COLOR blue][B]BT Sport 1 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/bt1/chunks.m3u8 ::LISTNAME:[COLOR blue][B]BT Sport 1 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/bt1/playlist.m3u8 ::LISTNAME:[COLOR blue][B]BT Sport 1 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/bt1/chunks.m3u8 ::LISTNAME:[COLOR blue][B]BT Sport 1 RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
 <fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Wolfsburg vs Borussia M'gladbach[/B][/COLOR] [COLOR orange][B]Fox Sports 1 USA.720p1[/B][/COLOR]</title>
+<title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Wolfsburg vs Borussia M'gladbach[/B][/COLOR] [COLOR orange][B]BT Sport 1.720p[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/11f7m/raw</externallink>weak
+<externallink>https://textuploader.com/1r6ws/raw</externallink>weak
 <thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
 <fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Wolfsburg vs Borussia M'gladbach[/B][/COLOR] [COLOR orange][B]Fox Sports 1 USA.720p2[/B][/COLOR]</title>
+<title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Wolfsburg vs Borussia M'gladbach[/B][/COLOR] [COLOR orange][B]Fox Sports 1 USA.720p[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://textuploader.com/1dqcq/raw</externallink>mnl
-<thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
-<fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Wolfsburg vs Borussia M'gladbach[/B][/COLOR] [COLOR orange][B]Fox Sports 1 USA.720p3[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>http://dpaste.com/3RS3WB2.txt</externallink>RainoStream
-<thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
-<fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Wolfsburg vs Borussia M'gladbach[/B][/COLOR] [COLOR orange][B]ELEVEN SPORTS 2 FRENCH[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://pastebin.com/raw/i0pyUVpa</externallink>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
-<fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Wolfsburg vs Borussia M'gladbach[/B][/COLOR] [COLOR orange][B]ELEVEN SPORTS 2 DUTCH[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://pastebin.com/raw/mga7f6WG</externallink>
 <thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
 <fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
 </item>
@@ -1062,4 +1032,3 @@ sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9128|User-Agent=RE
 <thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
-
