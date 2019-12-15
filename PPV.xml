@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layouttype>thumbnail</layouttype>
+
+<item>
+<title>[COLOR red][B]I[/B][/COLOR][COLOR white][B]F EVENT NOT DISPLAYED HERE,[/B][/COLOR]</title>
+<link>.</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]T[/B][/COLOR][COLOR white][B]WEET ME [/B][/COLOR][COLOR lime][B]@mullafabz[/B][/COLOR]</title>
+<link>.</link>  
+<thumbnail></thumbnail>
+<fanart></fanart> 
+</item>
+
+<item>
+<title>[COLOR purple][B]~[/B][/COLOR][COLOR yellow][B]Help supporting server costs[/B][/COLOR]:</title>
+<link>http://bit.ly</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR turquoise][B]https://paypal.me/[/B][/COLOR][COLOR lime][B]areagodo[/B][/COLOR][COLOR purple][B]~[/B][/COLOR]</title>
+<link>http://bit.ly</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>  </title>
+<link>http://www.google.com</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]===========>[/B][/COLOR][COLOR gold][B]LIVE[/B][/COLOR][COLOR white][B]<================[/B][/COLOR]</title>
+<link>http</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]UFC[/B][/COLOR] [COLOR blue][B]245[/B][/COLOR]:[COLOR white][B]Prelims+Main Card[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR green][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://xide.paisy.xyz/streams/hls/live/live.m3u8 ::LISTNAME:[COLOR green][B]FIGHT PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR green][B]ESPN2 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR green][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://xide.paisy.xyz/streams/hls/live/live.m3u8 ::LISTNAME:[COLOR green][B]FIGHT PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR green][B]ESPN2 RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://lococontigo.jinglemingle.xyz/hls/ufc/playlist.m3u8 ::LISTNAME:[COLOR red][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://lococontigo.jinglemingle.xyz/hls/ufc/chunks.m3u8 ::LISTNAME:[COLOR red][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.67.23.31/hls/ufc.m3u8 ::LISTNAME:[COLOR red][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.67.23.31/hls/ufc.m3u8 ::LISTNAME:[COLOR red][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://edisantos1.s3-accelerate.amazonaws.com/hls/ufc.m3u8 ::LISTNAME:[COLOR gold][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://edisantos1.s3-accelerate.amazonaws.com/hls/ufc.m3u8 ::LISTNAME:[COLOR gold][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls/BOX/playlist.m3u8 ::LISTNAME:[COLOR green][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-1/playlist.m3u8 ::LISTNAME:[COLOR green][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls/BOX/chunks.m3u8 ::LISTNAME:[COLOR green][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-1/chunks.m3u8 ::LISTNAME:[COLOR green][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+</link>
+<thumbnail>https://espnpressroom.com/us/files/2019/12/050854_245_SG_1920x1080_Endpage_Eng-1024x576.jpg</thumbnail>
+<fanart>https://espnpressroom.com/us/files/2019/12/050854_245_SG_1920x1080_Endpage_Eng.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]UFC[/B][/COLOR] [COLOR blue][B]245[/B][/COLOR]:[COLOR white][B]Prelims+Main Card[/B][/COLOR] [COLOR orange][B]BT Sport 1.MultiRes[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://wowzaprod215-i.akamaihd.net/hls/live/876763/643b6a70/643b6a70_1_2728/chunklist.m3u8 ::LISTNAME:[COLOR green][B]BT.Sport.1 RESOLUTION=1364x768p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://wowzaprod215-i.akamaihd.net/hls/live/876763/643b6a70/643b6a70_1_1728/chunklist.m3u8 ::LISTNAME:[COLOR green][B]BT.Sport.1 RESOLUTION=852x480p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://wowzaprod215-i.akamaihd.net/hls/live/876763/643b6a70/643b6a70_1_1152/chunklist.m3u8 ::LISTNAME:[COLOR green][B]BT.Sport.1 RESOLUTION=640x360p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://wowzaprod215-i.akamaihd.net/hls/live/876763/643b6a70/643b6a70_1_640/chunklist.m3u8 ::LISTNAME:[COLOR green][B]BT.Sport.1 RESOLUTION=512x288p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://wowzaprod215-i.akamaihd.net/hls/live/876763/643b6a70/643b6a70_1_448/chunklist.m3u8 ::LISTNAME:[COLOR green][B]BT.Sport.1 RESOLUTION=320x180p[/B][/COLOR]::#
+</link>
+<thumbnail>https://espnpressroom.com/us/files/2019/12/050854_245_SG_1920x1080_Endpage_Eng-1024x576.jpg</thumbnail>
+<fanart>https://espnpressroom.com/us/files/2019/12/050854_245_SG_1920x1080_Endpage_Eng.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]UFC[/B][/COLOR] [COLOR blue][B]245[/B][/COLOR]:[COLOR white][B]Prelims+Main Card[/B][/COLOR] [COLOR orange][B]BT.Sport 1.720p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/1doxr/raw</externallink>f1
+<thumbnail>https://espnpressroom.com/us/files/2019/12/050854_245_SG_1920x1080_Endpage_Eng-1024x576.jpg</thumbnail>
+<fanart>https://espnpressroom.com/us/files/2019/12/050854_245_SG_1920x1080_Endpage_Eng.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]UFC[/B][/COLOR] [COLOR blue][B]245[/B][/COLOR]:[COLOR white][B]Prelims+Main Card[/B][/COLOR] [COLOR orange][B]BT.Sport 1.720p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/1o241/raw</externallink>dubs
+<thumbnail>https://espnpressroom.com/us/files/2019/12/050854_245_SG_1920x1080_Endpage_Eng-1024x576.jpg</thumbnail>
+<fanart>https://espnpressroom.com/us/files/2019/12/050854_245_SG_1920x1080_Endpage_Eng.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]UFC[/B][/COLOR] [COLOR blue][B]245[/B][/COLOR]:[COLOR white][B]Prelims+Main Card[/B][/COLOR] [COLOR orange][B]BT.Sport 1.720p3[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/1o24t/raw</externallink>
+<thumbnail>https://espnpressroom.com/us/files/2019/12/050854_245_SG_1920x1080_Endpage_Eng-1024x576.jpg</thumbnail>
+<fanart>https://espnpressroom.com/us/files/2019/12/050854_245_SG_1920x1080_Endpage_Eng.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]UFC[/B][/COLOR] [COLOR blue][B]245[/B][/COLOR]:[COLOR white][B]Prelims+Main Card[/B][/COLOR] [COLOR orange][B]BT.Sport 1.720p4[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/1o24r/raw</externallink>
+<thumbnail>https://espnpressroom.com/us/files/2019/12/050854_245_SG_1920x1080_Endpage_Eng-1024x576.jpg</thumbnail>
+<fanart>https://espnpressroom.com/us/files/2019/12/050854_245_SG_1920x1080_Endpage_Eng.jpg</fanart>
+</item>
+
+<item>
+<title>  </title>
+<link>http://www.google.com</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]WORLD[/B][/COLOR] [COLOR pink][B]WELTERWEIGHT[/B][/COLOR]:[COLOR white][B]Terence Crawford vs Egis Kavaliauskas[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR white][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR white][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR white][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://103.194.171.4/live/H1/playlist.m3u8 ::LISTNAME:[COLOR red][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H1/chunks.m3u8 ::LISTNAME:[COLOR red][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H1/playlist.m3u8 ::LISTNAME:[COLOR red][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H1/chunks.m3u8 ::LISTNAME:[COLOR red][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+</link>
+<thumbnail>https://www.101greatgoals.com/wp-content/uploads/2019/12/ELj8v4zU0AAAizW-640x1024.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]WORLD[/B][/COLOR] [COLOR pink][B]WELTERWEIGHT[/B][/COLOR]:[COLOR white][B]Terence Crawford vs Egis Kavaliauskas[/B][/COLOR] [COLOR orange][B]ESPN+.720p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/1o24o/raw</externallink>
+<thumbnail>https://www.101greatgoals.com/wp-content/uploads/2019/12/ELj8v4zU0AAAizW-640x1024.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]WORLD[/B][/COLOR] [COLOR pink][B]WELTERWEIGHT[/B][/COLOR]:[COLOR white][B]Terence Crawford vs Egis Kavaliauskas[/B][/COLOR] [COLOR orange][B]ESPN+.720p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/1dmvg/raw</externallink>
+<thumbnail>https://www.101greatgoals.com/wp-content/uploads/2019/12/ELj8v4zU0AAAizW-640x1024.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]===========>[/B][/COLOR][COLOR gold][B]UPCOMING[/B][/COLOR][COLOR white][B]<================[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<!--
+<item>
+<title>[COLOR lime][B][/B][/COLOR] [COLOR blue][B][/B][/COLOR] [COLOR red][B][/B][/COLOR]:[COLOR white][B][/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+-->
