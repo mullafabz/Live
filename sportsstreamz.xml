@@ -155,9 +155,10 @@ sublink:LISTSOURCE:http://103.194.171.4/live/S-4/chunks.m3u8 ::LISTNAME:[COLOR r
 <item>
 <title>[COLOR lime][B]18:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Arsenal vs Manchester City[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR blue][B]Sky Sports Main Event RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR blue][B]Sky Sports Main Event RESOLUTION=1280x720p[/B][/COLOR]::#
 
 sublink:LISTSOURCE:http://cdn.60fps.live/live/nbcsn/playlist.m3u8 ::LISTNAME:[COLOR gold][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://cdn.60fps.live/live/nbcsn/chunks.m3u8 ::LISTNAME:[COLOR gold][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
@@ -491,15 +492,19 @@ sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/chunks.m3u8 ::LISTNAME:[COLOR 
 <item>
 <title>[COLOR lime][B]22:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Valencia vs Real Madrid[/B][/COLOR]</title>
 <link>
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls6/live.m3u8 ::LISTNAME:[COLOR red][B]BEIN SPORTS USA RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls6/live.m3u8 ::LISTNAME:[COLOR red][B]BEIN SPORTS USA RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls6/live.m3u8 ::LISTNAME:[COLOR red][B]BEIN SPORTS USA RESOLUTION=1280x720p[/B][/COLOR]::#
+
 sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/playlist.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/playlist.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/18373|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN Sports 3 FHD[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/18686|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN Sports 3 HEVC[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/433|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN Sports 3 HD[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9127|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN Sports 3 SD[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-6/playlist.m3u8 ::LISTNAME:[COLOR gold][B]BEIN SPORTS USA RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-6/chunks.m3u8 ::LISTNAME:[COLOR gold][B]BEIN SPORTS USA RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-6/playlist.m3u8 ::LISTNAME:[COLOR gold][B]BEIN SPORTS USA RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-6/chunks.m3u8 ::LISTNAME:[COLOR gold][B]BEIN SPORTS USA RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
@@ -516,7 +521,7 @@ sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9127|User-Agent=RE
 <item>
 <title>[COLOR lime][B]22:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Valencia vs Real Madrid[/B][/COLOR] [COLOR orange][B]Premier Sports 2.720p2[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/11lfw/raw/</externallink>mnl
+<externallink>https://textuploader.com/10mn8/raw/</externallink>mnl
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
@@ -978,7 +983,7 @@ sublink:LISTSOURCE:http://103.194.171.4/live/S-1/chunks.m3u8 ::LISTNAME:[COLOR g
 <item>
 <title>[COLOR lime][B]21:45[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Fiorentina vs Internazionale[/B][/COLOR] [COLOR orange][B]SERIEA PASS Multi-Res[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>http://dpaste.com/32M8P1R.txt</externallink>
+<externallink>http://dpaste.com/37F5590.txt</externallink>
 <thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
@@ -986,15 +991,19 @@ sublink:LISTSOURCE:http://103.194.171.4/live/S-1/chunks.m3u8 ::LISTNAME:[COLOR g
 <item>
 <title>[COLOR lime][B]21:45[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Fiorentina vs Internazionale[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://cdn.60fps.live/live/e1/playlist.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/e1/chunks.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/e1/playlist.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/e1/chunks.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR red][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR red][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR red][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9139|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.4.ARA FHD[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/18685|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.4.ARA HEVC[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/432|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.4.ARA HD[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9128|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.4.ARA SD[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e/playlist.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e/chunks.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e/playlist.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e/chunks.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-5/playlist.m3u8 ::LISTNAME:[COLOR blue][B]Premier Sports 2 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-7/playlist.m3u8 ::LISTNAME:[COLOR blue][B]Premier Sports 2 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-5/chunks.m3u8 ::LISTNAME:[COLOR blue][B]Premier Sports 2 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-7/chunks.m3u8 ::LISTNAME:[COLOR blue][B]Premier Sports 2 RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
@@ -1017,17 +1026,9 @@ sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9128|User-Agent=RE
 </item>
 
 <item>
-<title>[COLOR lime][B]]21:45[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Fiorentina vs Internazionale[/B][/COLOR] [COLOR orange][B]ELEVEN SPORTS 1 FRENCH[/B][/COLOR]</title>
+<title>[COLOR lime][B]21:45[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Fiorentina vs Internazionale[/B][/COLOR] [COLOR orange][B]Premier Sport 1.720p3[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://pastebin.com/raw/RyVKV4qq</externallink>
-<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
-<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]]21:45[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Fiorentina vs Internazionale[/B][/COLOR] [COLOR orange][B]ELEVEN SPORTS 1 DUTCH[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://pastebin.com/raw/TraY1xY7</externallink>
+<externallink>https://textuploader.com/1o2hv/raw</externallink>mnl
 <thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
