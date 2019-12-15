@@ -47,7 +47,7 @@ sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;
 </item>
 
 <item>
-<title>[COLOR white][B]****[/B][/COLOR][COLOR lime][B]FRI[/B][/COLOR][COLOR white][B]DAY[/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
+<title>[COLOR white][B]****[/B][/COLOR][COLOR lime][B]SUN[/B][/COLOR][COLOR white][B]DAY[/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
 <link>
 sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=&amp;name=[COLOR white][B]NBA: @ [/B][/COLOR] ::LISTNAME:[COLOR gold][B]LINK 1[/B][/COLOR]::#
 </link>
