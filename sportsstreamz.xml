@@ -365,7 +365,7 @@ sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/chunks.m3u8 ::LISTNAME:[COLOR 
 <item>
 <title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Espanyol vs Real Betis[/B][/COLOR] [COLOR orange][B]LA.LIGA.MultiRes[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>http://dpaste.com/0HMC4BH.txt</externallink>
+<externallink>http://dpaste.com/3GMT13V.txt</externallink>
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
@@ -377,11 +377,6 @@ sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/playlist.m3u8 ::LISTNAME:[COLO
 sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/playlist.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/18373|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN Sports 3 FHD[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/18686|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN Sports 3 HEVC[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/433|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN Sports 3 HD[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9127|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN Sports 3 SD[/B][/COLOR]::#
 </link>
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
@@ -396,9 +391,9 @@ sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9127|User-Agent=RE
 </item>
 
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Espanyol vs Real Betis[/B][/COLOR] [COLOR orange][B]ELEVEN SPORTS 1 PORTUGAL[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Espanyol vs Real Betis[/B][/COLOR] [COLOR orange][B]Premier Sports 2.720p2[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://pastebin.com/raw/VB83zM2R</externallink>
+<externallink>https://textuploader.com/10mn8/raw/</externallink>mnl
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
