@@ -948,7 +948,7 @@ sublink:LISTSOURCE:http://103.194.171.52:1935/hls/BOX/chunks.m3u8 ::LISTNAME:[CO
 <item>
 <title>[COLOR lime][B]19:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Roma vs SPAL[/B][/COLOR] [COLOR orange][B]SERIEA PASS Multi-Res[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>http://dpaste.com/08AR7QT.txt</externallink>
+<externallink>http://dpaste.com/0EF1ZSA.txt</externallink>
 <thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
@@ -956,15 +956,15 @@ sublink:LISTSOURCE:http://103.194.171.52:1935/hls/BOX/chunks.m3u8 ::LISTNAME:[CO
 <item>
 <title>[COLOR lime][B]19:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Roma vs SPAL[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://cdn.60fps.live/live/e1/playlist.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/e1/chunks.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/e1/playlist.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/e1/chunks.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e/playlist.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e/chunks.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e/playlist.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e/chunks.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9139|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.4.ARA FHD[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/18685|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.4.ARA HEVC[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/432|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.4.ARA HD[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9128|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.4.ARA SD[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-1/playlist.m3u8 ::LISTNAME:[COLOR gold][B]Premier Sports 1 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-1/playlist.m3u8 ::LISTNAME:[COLOR gold][B]Premier Sports 1 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-1/chunks.m3u8 ::LISTNAME:[COLOR gold][B]Premier Sports 1 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-1/chunks.m3u8 ::LISTNAME:[COLOR gold][B]Premier Sports 1 RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
@@ -979,7 +979,7 @@ sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9128|User-Agent=RE
 </item>
 
 <item>
-<title>[COLOR lime][B]19:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Roma vs SPAL[/B][/COLOR] [COLOR orange][B]Premier Sports 1.720p2[/B][/COLOR]</title>
+<title>[COLOR lime][B]19:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Roma vs SPAL[/B][/COLOR] [COLOR orange][B]Premier Sports 1.720p1[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://textuploader.com/1dt7j/raw</externallink>mnl
 <thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
@@ -987,17 +987,9 @@ sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9128|User-Agent=RE
 </item>
 
 <item>
-<title>[COLOR lime][B]19:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Roma vs SPAL[/B][/COLOR] [COLOR orange][B]ELEVEN SPORTS 1 FRENCH[/B][/COLOR]</title>
+<title>[COLOR lime][B]19:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Roma vs SPAL[/B][/COLOR] [COLOR orange][B]Premier Sports 1.720p1[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://pastebin.com/raw/RyVKV4qq</externallink>
-<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
-<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]19:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Roma vs SPAL[/B][/COLOR] [COLOR orange][B]ELEVEN SPORTS 1 DUTCH[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://pastebin.com/raw/TraY1xY7</externallink>
+<externallink>https://textuploader.com/1o2hv/raw</externallink>mnl
 <thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
