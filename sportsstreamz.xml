@@ -432,7 +432,7 @@ sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/chunks.m3u8 ::LISTNAME:[COLOR 
 <item>
 <title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Sevilla vs Villarreal[/B][/COLOR] [COLOR orange][B]LA.LIGA.MultiRes[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>http://dpaste.com/3BKQ7RQ.txt</externallink>
+<externallink>http://dpaste.com/3A6RQ9T.txt</externallink>
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
@@ -444,11 +444,6 @@ sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/playlist.m3u8 ::LISTNAME:[COLO
 sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/playlist.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/18373|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN Sports 3 FHD[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/18686|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN Sports 3 HEVC[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/433|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN Sports 3 HD[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9127|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN Sports 3 SD[/B][/COLOR]::#
 </link>
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
@@ -465,15 +460,7 @@ sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9127|User-Agent=RE
 <item>
 <title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Sevilla vs Villarreal[/B][/COLOR] [COLOR orange][B]Premier Sports 2.720p2[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/11lfw/raw/</externallink>mnl
-<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
-<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Sevilla vs Villarreal[/B][/COLOR] [COLOR orange][B]ELEVEN SPORTS 1 FRENCH[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://pastebin.com/raw/RyVKV4qq</externallink>
+<externallink>https://textuploader.com/10mn8/raw/</externallink>mnl
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
@@ -715,30 +702,25 @@ sublink:LISTSOURCE:http://cdn.60fps.live/live/b1f/chunks.m3u8 ::LISTNAME:[COLOR 
 <item>
 <title>[COLOR lime][B]18:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lyon vs Rennes[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://cdn.60fps.live/live/bt/playlist.m3u8 ::LISTNAME:[COLOR blue][B]BT.Sports ESPN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/bt/chunks.m3u8 ::LISTNAME:[COLOR blue][B]BT.Sports ESPN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/bt/playlist.m3u8 ::LISTNAME:[COLOR blue][B]BT.Sports ESPN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/bt/chunks.m3u8 ::LISTNAME:[COLOR blue][B]BT.Sports ESPN RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/14127|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.6.ARA FHD[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/18683|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.6.ARA HEVC[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/259|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.6.ARA HD[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9130|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.6.ARA SD[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/b1f/playlist.m3u8 ::LISTNAME:[COLOR blue][B]beIN.Sports 1 FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/b1f/chunks.m3u8 ::LISTNAME:[COLOR blue][B]beIN.Sports 1 FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/b1f/playlist.m3u8 ::LISTNAME:[COLOR blue][B]beIN.Sports 1 FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/b1f/chunks.m3u8 ::LISTNAME:[COLOR blue][B]beIN.Sports 1 FR RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
 <fanart>https://i.imgur.com/fO2g544.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]18:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lyon vs Rennes[/B][/COLOR] [COLOR orange][B]BT Sport 2.720p1[/B][/COLOR]</title>
+<title>[COLOR lime][B]18:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lyon vs Rennes[/B][/COLOR] [COLOR orange][B]BT Sport 3.720p1[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1r6nb/raw</externallink>weak
+<externallink>https://textuploader.com/11pur/raw</externallink>weak
 <thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
 <fanart>https://i.imgur.com/fO2g544.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]18:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lyon vs Rennes[/B][/COLOR] [COLOR orange][B]BT Sport 2.720p2[/B][/COLOR]</title>
+<title>[COLOR lime][B]18:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lyon vs Rennes[/B][/COLOR] [COLOR orange][B]BT Sport 3.720p2[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://textuploader.com/1r6ne/raw</externallink>mnl
 <thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
