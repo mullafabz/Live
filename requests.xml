@@ -662,31 +662,63 @@ sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/ebe5ce99_lbc
 </item>
 
 <item>
-<title>[COLOR lime][B]4:25PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B][/B][/COLOR]</title>
+<title>[COLOR lime][B]4:25PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Falcons @ 49ers[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE: ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE: ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:/playlist.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
-sublink:LISTSOURCE:/chunks.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls5/live.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls5/live.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://adhnvbfkrsehj.opfdnmnruedwj.xyz/live/2/playlist.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://adhnvbfkrsehj.opfdnmnruedwj.xyz/live/2/chunks.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://cdn.60fps.live/live//playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live//chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://aws.pikuss.xyz/hls//playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://aws.pikuss.xyz/hls//chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/49ers/playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/49ers/chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://aws.pikuss.xyz/hls/49ers/playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://aws.pikuss.xyz/hls/49ers/chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
 <link>
 <thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
 <fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
 </item>
  
 <item>
-<title>[COLOR lime][B]4:25PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B][/B][/COLOR] [COLOR orange][B]MultiRes[/B][/COLOR]</title>
+<title>[COLOR lime][B]4:25PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Falcons @ 49ers[/B][/COLOR] [COLOR orange][B]MultiRes[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:_hd_400_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=400x224p[/B][/COLOR]::#
-sublink:LISTSOURCE:_hd_800_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=640x360p[/B][/COLOR]::#
-sublink:LISTSOURCE:_hd_1600_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=960x540p[/B][/COLOR]::#
-sublink:LISTSOURCE:_hd_4500_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:_hd_3000_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:_hd_4500_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/d8faece6_lb49ers_hd_400_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=400x224p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/d8faece6_lb49ers_hd_800_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=640x360p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/d8faece6_lb49ers_hd_1600_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=960x540p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/d8faece6_lb49ers_hd_4500_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/d8faece6_lb49ers_hd_3000_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/d8faece6_lb49ers_hd_4500_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+<link>
+<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
+<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR lime][B]4:25PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Rams @ Cowboys[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls4/live.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls4/live.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://adhnvbfkrsehj.opfdnmnruedwj.xyz/live/1/playlist.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://adhnvbfkrsehj.opfdnmnruedwj.xyz/live/1/chunks.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://cdn.60fps.live/live/Rams/playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/Rams/chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://aws.pikuss.xyz/hls/cowboys/playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://aws.pikuss.xyz/hls/cowboys/chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+<link>
+<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
+<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime][B]4:25PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Rams @ Cowboys[/B][/COLOR] [COLOR orange][B]MultiRes[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/4c769412_lbcowboys_hd_400_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=400x224p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/4c769412_lbcowboys_hd_800_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=640x360p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/4c769412_lbcowboys_hd_1600_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=960x540p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/4c769412_lbcowboys_hd_4500_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/4c769412_lbcowboys_hd_3000_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/4c769412_lbcowboys_hd_4500_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
 <link>
 <thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
 <fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
