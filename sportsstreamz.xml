@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layouttype>thumbnail</layouttype>
@@ -138,7 +139,7 @@ sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-1/chunks.m3u8 ::LISTNAME:[CO
 <item>
 <title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Man United vs Everton[/B][/COLOR] [COLOR orange][B]Sky Sports Main Event.720p3[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1dsvv/raw</externallink>f1
+<externallink>https://textuploader.com/1ktah/raw</externallink>f1
 <thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
 <fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
 </item>
@@ -1031,3 +1032,4 @@ sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9128|User-Agent=RE
 <thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
+
