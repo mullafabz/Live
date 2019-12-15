@@ -567,33 +567,95 @@ sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/f5780041_lbb
 <thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
 <fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
 </item>
-<!--
-<item>
-<title>[COLOR lime][B]4:05PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Chargers @ Jaguars[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE: ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE: ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:/playlist.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
-sublink:LISTSOURCE:/chunks.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://cdn.60fps.live/live//playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live//chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://aws.pikuss.xyz/hls//playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://aws.pikuss.xyz/hls//chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+<item>
+<title>[COLOR lime][B]4:05PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Jaguars @ Raiders[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://adhnvbfkrsehj.opfdnmnruedwj.xyz/live/10/playlist.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://adhnvbfkrsehj.opfdnmnruedwj.xyz/live/10/chunks.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://cdn.60fps.live/live/Jaguars/playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/Jaguars/chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://aws.pikuss.xyz/hls/raiders/playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://aws.pikuss.xyz/hls/raiders/chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
 <link>
 <thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
 <fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]4:05PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Chargers @ Jaguars[/B][/COLOR] [COLOR orange][B]MultiRes[/B][/COLOR]</title>
+<title>[COLOR lime][B]4:05PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Jaguars @ Raiders[/B][/COLOR] [COLOR orange][B]MultiRes[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:_hd_400_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=400x224p[/B][/COLOR]::#
-sublink:LISTSOURCE:_hd_800_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=640x360p[/B][/COLOR]::#
-sublink:LISTSOURCE:_hd_1600_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=960x540p[/B][/COLOR]::#
-sublink:LISTSOURCE:_hd_4500_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:_hd_3000_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:_hd_4500_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/da5ee226_lbraiders_hd_400_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=400x224p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/da5ee226_lbraiders_hd_800_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=640x360p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/da5ee226_lbraiders_hd_1600_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=960x540p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/da5ee226_lbraiders_hd_4500_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/da5ee226_lbraiders_hd_3000_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/da5ee226_lbraiders_hd_4500_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+<link>
+<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
+<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]4:05PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Browns @ Cardinals[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls9/live.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls9/live.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://adhnvbfkrsehj.opfdnmnruedwj.xyz/live/9/playlist.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://adhnvbfkrsehj.opfdnmnruedwj.xyz/live/9/chunks.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://cdn.60fps.live/live/Cardinals/playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/Cardinals/chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://aws.pikuss.xyz/hls/browns/playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://aws.pikuss.xyz/hls/browns/chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+<link>
+<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
+<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]4:05PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Browns @ Cardinals[/B][/COLOR] [COLOR orange][B]MultiRes[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/7182d3c9_lbcardinals_hd_400_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=400x224p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/7182d3c9_lbcardinals_hd_800_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=640x360p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/7182d3c9_lbcardinals_hd_1600_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=960x540p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/7182d3c9_lbcardinals_hd_4500_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/7182d3c9_lbcardinals_hd_3000_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/7182d3c9_lbcardinals_hd_4500_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+<link>
+<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
+<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]4:05PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Vikings @ Chargers[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://adhnvbfkrsehj.opfdnmnruedwj.xyz/live/11/playlist.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://adhnvbfkrsehj.opfdnmnruedwj.xyz/live/11/chunks.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://cdn.60fps.live/live/Chargers/playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/Chargers/chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://aws.pikuss.xyz/hls/vikings/playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://aws.pikuss.xyz/hls/vikings/chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+<link>
+<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
+<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]4:05PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Vikings @ Chargers[/B][/COLOR] [COLOR orange][B]MultiRes[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/ebe5ce99_lbchargers_hd_400_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=400x224p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/ebe5ce99_lbchargers_hd_800_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=640x360p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/ebe5ce99_lbchargers_hd_1600_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=960x540p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/ebe5ce99_lbchargers_hd_4500_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/ebe5ce99_lbchargers_hd_3000_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/ebe5ce99_lbchargers_hd_4500_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
 <link>
 <thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
 <fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
