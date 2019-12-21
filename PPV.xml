@@ -56,6 +56,17 @@ sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls9/live.m3u8 ::LISTNAME:[COLOR red][
 </item>
 
 <item>
+<title>[COLOR lime][B]SUPER[/B][/COLOR] [COLOR blue][B]WELTER[/B][/COLOR][COLOR red][B]WEIGHT[/B][/COLOR]:[COLOR white][B]Tony Harrison Vs. Jermell Charlo II[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR white][B]PPV RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR white][B]PPV RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR white][B]PPV RESOLUTION=1280x720p[/B][/COLOR]::#
+</link>
+<thumbnail>https://roundbyroundboxing.com/wp-content/uploads/2019/11/C6BA72A7-BC9A-4AB9-ABEB-0500FA3EAF38.jpeg</thumbnail>
+<fanart>https://www.premierboxingchampions.com/sites/default/files/12.21_Web_0.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR white][B]===========>[/B][/COLOR][COLOR gold][B]UPCOMING[/B][/COLOR][COLOR white][B]<================[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
