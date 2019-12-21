@@ -996,19 +996,24 @@ sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9130|User-Agent=RE
 <item>
 <title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Amiens SC[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://34.102.158.163/live//playlist.m3u8 ::LISTNAME:[COLOR white][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live//chunks.m3u8 ::LISTNAME:[COLOR white][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live//playlist.m3u8 ::LISTNAME:[COLOR white][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live//chunks.m3u8 ::LISTNAME:[COLOR white][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/bt3/playlist.m3u8 ::LISTNAME:[COLOR white][B]BT Sport 3 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/bt3/chunks.m3u8 ::LISTNAME:[COLOR white][B]BT Sport 3 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/tv5/playlist.m3u8 ::LISTNAME:[COLOR white][B]TV5MONDE RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/tv5/chunks.m3u8 ::LISTNAME:[COLOR white][B]TV5MONDE RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://103.194.171.4/live/S-2/playlist.m3u8 ::LISTNAME:[COLOR red][B]BT Sport 3 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-3/playlist.m3u8 ::LISTNAME:[COLOR red][B]BT Sport 3 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-2/chunks.m3u8 ::LISTNAME:[COLOR red][B]BT Sport 3 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-3/chunks.m3u8 ::LISTNAME:[COLOR red][B]BT Sport 3 RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
 <fanart>https://i.imgur.com/fO2g544.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Amiens SC[/B][/COLOR] [COLOR orange][B].720p[/B][/COLOR]</title>
+<title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Amiens SC[/B][/COLOR] [COLOR orange][B]BT Sport 3 HD.720p[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>http://dpaste.com/.txt</externallink>
+<externallink>https://textuploader.com/1on2i/raw</externallink>
 <thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
 <fanart>https://i.imgur.com/fO2g544.jpg</fanart>
 </item>
@@ -1016,19 +1021,11 @@ sublink:LISTSOURCE:http://34.102.158.163/live//chunks.m3u8 ::LISTNAME:[COLOR whi
 <item>
 <title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Nîmes[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://34.102.158.163/live//playlist.m3u8 ::LISTNAME:[COLOR white][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live//chunks.m3u8 ::LISTNAME:[COLOR white][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live//playlist.m3u8 ::LISTNAME:[COLOR white][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live//chunks.m3u8 ::LISTNAME:[COLOR white][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/cd/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/cd/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/cd/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/cd/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
-<thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
-<fanart>https://i.imgur.com/fO2g544.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Nîmes[/B][/COLOR] [COLOR orange][B].720p[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>http://dpaste.com/.txt</externallink>
 <thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
 <fanart>https://i.imgur.com/fO2g544.jpg</fanart>
 </item>
@@ -1036,19 +1033,11 @@ sublink:LISTSOURCE:http://34.102.158.163/live//chunks.m3u8 ::LISTNAME:[COLOR whi
 <item>
 <title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Reims vs Lyon[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://34.102.158.163/live//playlist.m3u8 ::LISTNAME:[COLOR white][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live//chunks.m3u8 ::LISTNAME:[COLOR white][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live//playlist.m3u8 ::LISTNAME:[COLOR white][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live//chunks.m3u8 ::LISTNAME:[COLOR white][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l6/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l6/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l6/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l6/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
-<thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
-<fanart>https://i.imgur.com/fO2g544.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Reims vs Lyon[/B][/COLOR] [COLOR orange][B].720p[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>http://dpaste.com/.txt</externallink>
 <thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
 <fanart>https://i.imgur.com/fO2g544.jpg</fanart>
 </item>
@@ -1056,8 +1045,10 @@ sublink:LISTSOURCE:http://34.102.158.163/live//chunks.m3u8 ::LISTNAME:[COLOR whi
 <item>
 <title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Strasbourg vs Saint-Étienne[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://95.216.2.179/live/722040/331173/339/22660|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo ::LISTNAME:[COLOR blue][B]beIN Sports 2 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/722040/331173/339/22660|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo ::LISTNAME:[COLOR blue][B]beIN Sports 2 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l4/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l4/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l4/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l4/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
 <fanart>https://i.imgur.com/fO2g544.jpg</fanart>
@@ -1066,8 +1057,10 @@ sublink:LISTSOURCE:http://95.216.2.179/live/722040/331173/339/22660|User-Agent=R
 <item>
 <title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Monaco vs Lille[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://95.216.2.179/live/722040/331173/339/22660|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo ::LISTNAME:[COLOR blue][B]beIN Sports 3 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/722040/331173/339/22660|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo ::LISTNAME:[COLOR blue][B]beIN Sports 3 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l5/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l5/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l5/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l5/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
 <fanart>https://i.imgur.com/fO2g544.jpg</fanart>
@@ -1077,8 +1070,10 @@ sublink:LISTSOURCE:http://95.216.2.179/live/722040/331173/339/22660|User-Agent=R
 <item>
 <title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Dijon vs Metz[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://95.216.2.179/live/722040/331173/339/22660|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo ::LISTNAME:[COLOR blue][B]beIN Sports Max 4 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/722040/331173/339/22660|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo ::LISTNAME:[COLOR blue][B]beIN Sports Max 4 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l2/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l2/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l2/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l2/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
 <fanart>https://i.imgur.com/fO2g544.jpg</fanart>
@@ -1087,13 +1082,10 @@ sublink:LISTSOURCE:http://95.216.2.179/live/722040/331173/339/22660|User-Agent=R
 <item>
 <title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Montpellier vs Brest[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://95.216.2.179/live/722040/331173/339/22661|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo ::LISTNAME:[COLOR blue][B]beIN Sports Max 5 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/722040/331173/339/22661|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo ::LISTNAME:[COLOR blue][B]beIN Sports Max 5 RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/14127|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.6 FHD[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/18683|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.6 HEVC[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/259|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.6 HD[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9130|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.6 SD[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l1/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l1/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l1/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l1/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
 <fanart>https://i.imgur.com/fO2g544.jpg</fanart>
@@ -1102,27 +1094,11 @@ sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9130|User-Agent=RE
 <item>
 <title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Nantes vs Angers SCO[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://34.102.158.163/live/btx1/playlist.m3u8 ::LISTNAME:[COLOR blue][B]BT Sports Xtra RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/btx1/chunks.m3u8 ::LISTNAME:[COLOR blue][B]BT Sports Xtra RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/btx1/playlist.m3u8 ::LISTNAME:[COLOR blue][B]BT Sports Xtra RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/btx1/chunks.m3u8 ::LISTNAME:[COLOR blue][B]BT Sports Xtra RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://95.216.2.179/live/722040/331173/339/22662|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo ::LISTNAME:[COLOR blue][B]beIN Sports Max 6 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/722040/331173/339/22662|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo ::LISTNAME:[COLOR blue][B]beIN Sports Max 6 RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://95.216.2.179/live/722040/331173/339/31761|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]beIN.Sports.10 FHD[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/722040/331173/339/18679|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]beIN.Sports.10 HEVC[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/722040/331173/339/264|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]beIN.Sports.10 HD[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/722040/331173/339/9134|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]beIN.Sports.10 SD[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l7/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l7/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l7/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l7/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
-<thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
-<fanart>https://i.imgur.com/fO2g544.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Nantes vs Angers SCO[/B][/COLOR] [COLOR orange][B].[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>http://dpaste.com/.txt</externallink>
 <thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
 <fanart>https://i.imgur.com/fO2g544.jpg</fanart>
 </item>
@@ -1130,17 +1106,11 @@ sublink:LISTSOURCE:http://95.216.2.179/live/722040/331173/339/9134|User-Agent=RE
 <item>
 <title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Nice vs Toulouse[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://95.216.2.179/live/722040/331173/339/22663|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo ::LISTNAME:[COLOR blue][B]beIN Sports Max 7 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/722040/331173/339/22663|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo ::LISTNAME:[COLOR blue][B]beIN Sports Max 7 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l8/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l8/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l8/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l8/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
-<thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
-<fanart>https://i.imgur.com/fO2g544.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Nice vs Toulouse[/B][/COLOR] [COLOR orange][B]beIN Sports HD 13.[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>http://dpaste.com/2E5E6EW.txt</externallink>
 <thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
 <fanart>https://i.imgur.com/fO2g544.jpg</fanart>
 </item>
@@ -1148,26 +1118,23 @@ sublink:LISTSOURCE:http://95.216.2.179/live/722040/331173/339/22663|User-Agent=R
 <item>
 <title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Rennes vs Bordeaux[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://95.216.2.179/live/722040/331173/339/18157|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo ::LISTNAME:[COLOR blue][B]beIN Sports Max 8 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/722040/331173/339/18157|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo ::LISTNAME:[COLOR blue][B]beIN Sports Max 8 RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/14184|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.8.ARA FHD[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/18681|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.8.ARA HEVC[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/5572|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.8.ARA HD[/B][/COLOR]::#
-sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9132|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.8.ARA SD[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l3/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l3/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l3/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/l3/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
 <fanart>https://i.imgur.com/fO2g544.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Rennes vs Bordeaux[/B][/COLOR] [COLOR orange][B]beIN Sports HD 8.720p[/B][/COLOR]</title>
+<title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Rennes vs Bordeaux[/B][/COLOR] [COLOR orange][B]beIN Sports HD 13.720p[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>http://dpaste.com/3WDDFMP.txt</externallink>
+<externallink>https://textuploader.com/10ebl/raw</externallink>
 <thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
 <fanart>https://i.imgur.com/fO2g544.jpg</fanart>
 </item>
--->
+
 <item>
 <title>                           </title>
 <link>.</link>
