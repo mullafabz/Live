@@ -5,21 +5,6 @@
 <channels>
 
 <channel>
-<name>[COLOR pink][B]S[/B][/COLOR][COLOR white][B]ports[/B][/COLOR] [COLOR red][B]C[/B][/COLOR][COLOR white][B]hannels[/B][/COLOR]</name>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/Live-Sport-Channel-TV.jpg</thumbnail>
-<externallink>http://bit.ly/SPORTZZ</externallink>
-<fanart>http://mullafabz.xyz/HOST/Icons/promo.jpg</fanart>
-<info></info>
-</channel>
-<!--
-<channel>
-<name>[COLOR pink][B]C[/B][/COLOR][COLOR white][B]ountry[/B][/COLOR] [COLOR red][B]C[/B][/COLOR][COLOR white][B]hannels[/B][/COLOR]</name>
-<externallink>http://bit.ly/NEW_COUNTRY</externallink>
-<thumbnail>https://i.imgur.com/vxcBTpG.jpg</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/4/4a/World_Flag_Map_V._2.3.png</fanart>
-</channel>
--->
-<channel>
 <name>[COLOR purple][B]~[/B][/COLOR][COLOR yellow][B]For supporting server costs[/B][/COLOR]:</name>
 <externallink>http://bit.ly/PPVX</externallink>
 <thumbnail></thumbnail>
@@ -34,9 +19,17 @@
 </channel>
 
 <channel>
+<name>[COLOR pink][B]S[/B][/COLOR][COLOR white][B]ports[/B][/COLOR] [COLOR red][B]C[/B][/COLOR][COLOR white][B]hannels[/B][/COLOR]</name>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/Live-Sport-Channel-TV.jpg</thumbnail>
+<externallink>http://bit.ly/SPORTZZ</externallink>http://bit.ly/SPORTZZ1
+<fanart>http://mullafabz.xyz/HOST/Icons/promo.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
 <name>[COLOR pink][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR] [COLOR red][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR]</name>
 <thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
-<externallink>http://bit.ly/FOOTYSTRMZ</externallink>
+<externallink>http://bit.ly/FOOTYSTRMZ1</externallink>http://bit.ly/FOOTYSTRMZ
 <fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 <info></info>
 </channel>
@@ -44,14 +37,14 @@
 <channel>
 <name>[COLOR pink][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR] [COLOR red][B]P[/B][/COLOR][COLOR white][B]PV[/B][/COLOR] [COLOR pink][B]E[/B][/COLOR][COLOR white][B]vents[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/XcIr4P6.png</thumbnail>
-<externallink>http://bit.ly/PPVXMLZ</externallink>https://raw.githubusercontent.com/mullafabz/Live/master/PPV.xml
+<externallink>http://bit.ly/PPVXMLZ1</externallink>http://bit.ly/PPVXMLZ
 <fanart>https://cleeng.com/blog/wp-content/uploads/2017/02/Live-PPV-piracy-e1487848574731.jpg</fanart>
 </channel>
 
 <channel>
 <name>[COLOR pink][B]E[/B][/COLOR][COLOR white][B]xtra [/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR] [COLOR red][B]C[/B][/COLOR][COLOR white][B]ontent[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/Gcj6XL7.jpg</thumbnail>
-<externallink>http://bit.ly/REQUESTSZZ</externallink>https://raw.githubusercontent.com/mullafabz/Live/master/requests.xml
+<externallink>http://bit.ly/REQUESTSZZ1</externallink>http://bit.ly/REQUESTSZZ
 <fanart>https://i.imgur.com/AWutrFY.jpg</fanart>
 </channel>
 
@@ -68,6 +61,13 @@
 <externallink>http://bit.ly</externallink>
 <fanart></fanart>
 <info></info>
+</channel>
+
+<channel>
+<name>[COLOR pink][B]C[/B][/COLOR][COLOR white][B]ountry[/B][/COLOR] [COLOR red][B]C[/B][/COLOR][COLOR white][B]hannels[/B][/COLOR]</name>
+<externallink>http://bit.ly/NEW_COUNTRY</externallink>
+<thumbnail>https://i.imgur.com/vxcBTpG.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/4/4a/World_Flag_Map_V._2.3.png</fanart>
 </channel>
 
 <channel>
@@ -93,29 +93,12 @@
 <fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 <info></info>
 </channel>
-<!--
+
 <channel>
 <name>[COLOR pink][B]A[/B][/COLOR][COLOR white][B]cestream[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR] [COLOR pink][B]E[/B][/COLOR][COLOR white][B]vents[/B][/COLOR]</name>
 <thumbnail>http://mullafabz.xyz/HOST/Icons/acestream.png</thumbnail>
 <externallink>http://bit.ly/SPORTSSCRAZZZ</externallink>
 <fanart>http://mullafabz.xyz/HOST/Icons/acestreamfan.jpg</fanart>
-</channel>
-
-
-
-<channel>
-<name>[COLOR pink][B]N[/B][/COLOR][COLOR white][B]ow[/B][/COLOR] [COLOR red][B]T[/B][/COLOR][COLOR white][B]V[/B][/COLOR]</name>
-<externallink>http://bit.ly/UKNOWHOMEZZ</externallink>
-<thumbnail>https://i.imgur.com/Uv1QIXG.png</thumbnail>
-<fanart>https://i.imgur.com/pHVKCtC.jpg</fanart>
-</channel>
-
-<channel>
-<name>[COLOR pink][B]S[/B][/COLOR][COLOR white][B]ports[/B][/COLOR] [COLOR red][B]R[/B][/COLOR][COLOR white][B]eplays[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/INWK4yA.png</thumbnail>
-<externallink>plugin://plugin.video.replayme</externallink>
-<fanart>https://i.imgur.com/d5S3ZhB.jpg</fanart>
-<info></info>
 </channel>
 
 <channel>
