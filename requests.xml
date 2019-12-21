@@ -195,6 +195,28 @@ sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/uta.m3u8 ::LISTNAM
 <thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
 <fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Atlanta Hawks at Brooklyn Nets[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.98.92.203/live/nba2/playlist.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.98.92.203/live/nba2/chunks.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://103.194.171.4/live/H3/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H3/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://asdfghjkllkjhgf.dynu.net/hls/atl-bkn.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://asdfghjkllkjhgf.dynu.net/hls/atl-bkn.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/bkn.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/bkn.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/bkn.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/bkn.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+</link>
+<thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
+<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
+</item>
 <!--
 <item>
 <title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B][/B][/COLOR]</title>
