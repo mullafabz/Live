@@ -718,7 +718,7 @@ sublink:LISTSOURCE:http://34.102.158.163/live/lll/chunks.m3u8 ::LISTNAME:[COLOR 
 <item>
 <title>[COLOR lime][B]22:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Valladolid vs Valencia[/B][/COLOR] [COLOR orange][B]LA.LIGA.MultiRes[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>http://dpaste.com/3HG765G.txt</externallink>
+<externallink>http://dpaste.com/22ATJ3M.txt</externallink>
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
@@ -730,11 +730,6 @@ sublink:LISTSOURCE:http://34.102.158.163/live/lll/playlist.m3u8 ::LISTNAME:[COLO
 sublink:LISTSOURCE:http://34.102.158.163/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]LaLiga TV RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://34.102.158.163/live/lll/playlist.m3u8 ::LISTNAME:[COLOR blue][B]LaLiga TV RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://34.102.158.163/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]LaLiga TV RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://103.194.171.4/live/S-2/playlist.m3u8 ::LISTNAME:[COLOR red][B]beIN.Sports.USA RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/S-2/chunks.m3u8 ::LISTNAME:[COLOR red][B]beIN.Sports.USA RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-1/playlist.m3u8 ::LISTNAME:[COLOR red][B]beIN.Sports.USA RESOLUTION=960x540p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-1/chunks.m3u8 ::LISTNAME:[COLOR red][B]beIN.Sports.USA RESOLUTION=960x540p[/B][/COLOR]::#
 </link>
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
@@ -749,41 +744,9 @@ sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-1/chunks.m3u8 ::LISTNAME:[CO
 </item>
 
 <item>
-<title>[COLOR lime][B]22:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Valladolid vs Valencia[/B][/COLOR] [COLOR orange][B]beIN SPORTS USA.720p2[/B][/COLOR]</title>
+<title>[COLOR lime][B]22:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Valladolid vs Valencia[/B][/COLOR] [COLOR orange][B]SuperSprt 7.720p[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1rj77/raw/</externallink>mnl
-<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
-<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]22:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Valladolid vs Valencia[/B][/COLOR] [COLOR orange][B].720p[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com//raw/</externallink>
-<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
-<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]22:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Valladolid vs Valencia[/B][/COLOR] [COLOR orange][B]ELEVEN SPORTS 1 FRENCH[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://pastebin.com/raw/RyVKV4qq</externallink>
-<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
-<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]22:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Valladolid vs Valencia[/B][/COLOR] [COLOR orange][B]ELEVEN SPORTS 1 DUTCH[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://pastebin.com/raw/TraY1xY7</externallink>
-<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
-<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]22:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Valladolid vs Valencia[/B][/COLOR] [COLOR orange][B]ELEVEN SPORTS 1 PORTUGAL[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://pastebin.com/raw/VB83zM2R</externallink>
+<externallink>https://textuploader.com/1d405/raw/</externallink>mnl
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
@@ -1241,7 +1204,7 @@ sublink:LISTSOURCE:http://103.194.171.52:1935/hls/MMA/chunks.m3u8 ::LISTNAME:[CO
 <item>
 <title>[COLOR lime][B]21:45[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Torino vs SPAL[/B][/COLOR] [COLOR orange][B]SERIEA PASS Multi-Res[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>http://dpaste.com/2VT3C34.txt</externallink>
+<externallink>http://dpaste.com/1XZQQ1X.txt</externallink>
 <thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
