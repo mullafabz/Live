@@ -175,193 +175,199 @@ sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;
 </item>
 -->
 <item>
-<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]San Antonio Spurs at Phoenix Suns[/B][/COLOR]</title>
+<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Utah Jazz at Charlotte Hornets[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls4/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls4/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://oliviamarefalsab.gcdn.co/lv1/1.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=960x540p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://oliviamarefalsab.gcdn.co/lv1/1.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=960x540p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.98.92.203/live/nba1/playlist.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.98.92.203/live/nba1/chunks.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://cdn.60fps.live/live/nbatv/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/nbatv/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/NFL/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/NFL/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-2/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-2/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://oliviamarefalsab.gcdn.co/lv3/3.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://oliviamarefalsab.gcdn.co/lv3/3.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/phx.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/phx.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/sas.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/sas.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/uta.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/uta.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/uta.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/uta.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
 <fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Brooklyn Nets at Toronto Raptors[/B][/COLOR]</title>
+<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Atlanta Hawks at Brooklyn Nets[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls4/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls4/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://oliviamarefalsab.gcdn.co/lv1/1.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=960x540p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://oliviamarefalsab.gcdn.co/lv1/1.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=960x540p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.98.92.203/live/nba2/playlist.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.98.92.203/live/nba2/chunks.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://cdn.60fps.live/live/nbatv/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/nbatv/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/NFL/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/NFL/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/tor.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/tor.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/bkn.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/bkn.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
-<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Los Angeles Clippers at Chicago Bulls[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls5/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls5/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://oliviamarefalsab.gcdn.co/lv2/2.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=960x540p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://oliviamarefalsab.gcdn.co/lv2/2.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=960x540p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://cdn.60fps.live/live/Bulls/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/Bulls/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://103.194.171.4/live/H3/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://103.194.171.4/live/H3/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://asdfghjkllkjhgf.dynu.net/hls/atl-bkn.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://asdfghjkllkjhgf.dynu.net/hls/atl-bkn.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/chi.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/chi.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/lac.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/lac.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/bkn.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/bkn.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/bkn.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/bkn.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
 <fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Washington Wizards at Memphis Grizzlies[/B][/COLOR]</title>
+<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Chicago Bulls at Detroit Pistons[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://cdn.60fps.live/live/Grizzlies/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/Grizzlies/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/Grizzlies/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/Grizzlies/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.98.92.203/live/nba3/playlist.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.98.92.203/live/nba3/chunks.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/mem.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/mem.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/was.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/was.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H4/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H4/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://asdfghjkllkjhgf.dynu.net/hls/chi-det.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://asdfghjkllkjhgf.dynu.net/hls/chi-det.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/det.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/det.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/chi.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/chi.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
 <fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Miami Heat at Dallas Mavericks[/B][/COLOR]</title>
+<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Washington Wizards at Philadelphia 76ers[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://cdn.60fps.live/live/Mavericks/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/Mavericks/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/Mavericks/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/Mavericks/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls4/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls4/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.98.92.203/live/nba4/playlist.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.98.92.203/live/nba4/chunks.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/dal.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/dal.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/mia.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/mia.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H5/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H5/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://asdfghjkllkjhgf.dynu.net/hls/was-phi.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://asdfghjkllkjhgf.dynu.net/hls/was-phi.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/phi.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/phi.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/was.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/was.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
 <fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Cleveland Cavaliers at Milwaukee Bucks[/B][/COLOR]</title>
+<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Milwaukee Bucks at New York Knicks[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls5/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls5/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.98.92.203/live/nba5/playlist.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.98.92.203/live/nba5/chunks.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://103.194.171.4/live/H6/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H6/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H6/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H6/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/nyk.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/nyk.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/mil.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/mil.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+</link>
+<thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
+<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Sacramento Kings at Memphis Grizzlies[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls6/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls6/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.98.92.203/live/nba6/playlist.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.98.92.203/live/nba6/chunks.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://103.194.171.4/live/H7/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H7/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H7/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H7/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/mem.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/mem.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/sac.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/sac.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+</link>
+<thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
+<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Los Angeles Clippers at San Antonio Spurs[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls7/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls7/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.98.92.203/live/nba7/playlist.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.98.92.203/live/nba7/chunks.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://103.194.171.4/live/H8/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H8/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H8/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H8/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/sas.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/sas.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/lac.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/lac.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+</link>
+<thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
+<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Houston Rockets at Phoenix Suns[/B][/COLOR]</title>
 <link>
 sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls8/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls8/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://oliviamarefalsab.gcdn.co/lv5/5.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=960x540p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://oliviamarefalsab.gcdn.co/lv5/5.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=960x540p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.98.92.203/live/nba8/playlist.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.98.92.203/live/nba8/chunks.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://cdn.60fps.live/live/Bucks/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/Bucks/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/Bucks/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/Bucks/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H9/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H9/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H9/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H9/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/mia.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/mia.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/cle.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/cle.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/phx.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/phx.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/hou.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/hou.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
 <fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Oklahoma City Thunder at Denver Nuggets[/B][/COLOR]</title>
+<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Minnesota Timberwolves at Portland Trail Blazers [/B][/COLOR]</title>
 <link>
 sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls9/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls9/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://oliviamarefalsab.gcdn.co/lv6/6.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=960x540p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://oliviamarefalsab.gcdn.co/lv6/6.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=960x540p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.98.92.203/live/nba9/playlist.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.98.92.203/live/nba9/chunks.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://cdn.60fps.live/live/Nuggets/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/Nuggets/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/Nuggets/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/Nuggets/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-2/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-2/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-2/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-2/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/den.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/den.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/okc.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/okc.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/por.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/por.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/min.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/min.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
-<thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
-<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Detroit Pistons at Houston Rockets[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls10/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls10/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://oliviamarefalsab.gcdn.co/lv7/7.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=960x540p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://oliviamarefalsab.gcdn.co/lv7/7.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=960x540p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://cdn.60fps.live/live/Rockets/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/Rockets/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/Rockets/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/Rockets/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/hou.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/hou.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/det.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/det.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
-<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
-</item>
-<!--
-<item>
-<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B][/B][/COLOR] [COLOR orange][B]HOME.720p[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]</link>
-<regex>
-<name>get_sxstream</name>
-<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://crackstreams.ga/nba//1.php</page>
-<referer>http://crackstreams.ga/nba//1.php</referer>
-</regex>
-<thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
-<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B][/B][/COLOR] [COLOR orange][B]AWAY.720p[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]</link>
-<regex>
-<name>get_sxstream</name>
-<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://crackstreams.ga/nba//1.php</page>
-<referer>http://crackstreams.ga/nba//1.php</referer>
-</regex>
 <thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
 <fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
 </item>
@@ -371,13 +377,13 @@ sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba/det.m3u8 ::LISTNAME:[COLOR 
 <link>
 sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live//playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live//chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.youpits.com/live//playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.youpits.com/live//chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live//playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live//chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba//playlist.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba//chunks.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba//playlist.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba//chunks.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
 <fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
@@ -396,10 +402,10 @@ sublink:LISTSOURCE:/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTIO
 sublink:LISTSOURCE:/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba//playlist.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba//chunks.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba//playlist.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba//chunks.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
 <fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
@@ -412,15 +418,15 @@ sublink:LISTSOURCE: ::LISTNAME:[COLOR green][B]NBA.LP RESOLUTION=1280x720p[/B][/
 sublink:LISTSOURCE: ::LISTNAME:[COLOR green][B]NBA.LP RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE: ::LISTNAME:[COLOR green][B]NBA.LP RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba//playlist.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba//chunks.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba//playlist.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba//chunks.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
 <fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
 </item>
-<!--
+-->
 <item>
 <title>                </title>
 <link>http://ignore.me<link>
@@ -433,20 +439,18 @@ sublink:LISTSOURCE:http://allenz.xyz/neinz/video/nba//chunks.m3u8 ::LISTNAME:[CO
 <link>
 sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls10/live.m3u8 ::LISTNAME:[COLOR gold][B]REDZONE.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls10/live.m3u8 ::LISTNAME:[COLOR gold][B]REDZONE.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://furfewerughursisei.dfieieudjufeakde.xyz/live/r/playlist.m3u8 ::LISTNAME:[COLOR gold][B]REDZONE.Hanson RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://furfewerughursisei.dfieieudjufeakde.xyz/live/r/chunks.m3u8 ::LISTNAME:[COLOR gold][B]REDZONE.Hanson RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://furfewerughursisei.dfieieudjufeakde.xyz/live/r/playlist.m3u8 ::LISTNAME:[COLOR gold][B]REDZONE.Siciliano RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://furfewerughursisei.dfieieudjufeakde.xyz/live/r/chunks.m3u8 ::LISTNAME:[COLOR gold][B]REDZONE.Siciliano RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://wsndhgvjsfhcvhserj.rdggknsdfheiks.xyz/live/r/playlist.m3u8 ::LISTNAME:[COLOR gold][B]REDZONE.Hanson RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://wsndhgvjsfhcvhserj.rdggknsdfheiks.xyz/live/r/chunks.m3u8 ::LISTNAME:[COLOR gold][B]REDZONE.Hanson RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://cdn.youpits.com/live/redh/playlist.m3u8 ::LISTNAME:[COLOR blue][B]REDZONE Hanson RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.youpits.com/live/redh/chunks.m3u8 ::LISTNAME:[COLOR blue][B]REDZONE Hanson RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.youpits.com/live/reds/playlist.m3u8 ::LISTNAME:[COLOR blue][B]REDZONE Siciliano RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.youpits.com/live/reds/chunks.m3u8 ::LISTNAME:[COLOR blue][B]REDZONE Siciliano RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/redh/playlist.m3u8 ::LISTNAME:[COLOR blue][B]REDZONE Hanson RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/redh/chunks.m3u8 ::LISTNAME:[COLOR blue][B]REDZONE Hanson RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/reds/playlist.m3u8 ::LISTNAME:[COLOR blue][B]REDZONE Siciliano RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/reds/chunks.m3u8 ::LISTNAME:[COLOR blue][B]REDZONE Siciliano RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://gec.4make5.xyz/hls/redzone/playlist.m3u8 ::LISTNAME:[COLOR white][B]REDZONE Hanson RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://gec.4make5.xyz/hls/redzone/chunks.m3u8 ::LISTNAME:[COLOR white][B]REDZONE Hanson RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://gec.4make5.xyz/hls/redzone/playlist.m3u8 ::LISTNAME:[COLOR white][B]REDZONE Hanson RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://gec.4make5.xyz/hls/redzone/chunks.m3u8 ::LISTNAME:[COLOR white][B]REDZONE Hanson RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://aws.pikuss.xyz/hls/redzone/playlist.m3u8 ::LISTNAME:[COLOR white][B]REDZONE Hanson RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://aws.pikuss.xyz/hls/redzone/chunks.m3u8 ::LISTNAME:[COLOR white][B]REDZONE Hanson RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://aws.pikuss.xyz/hls/redzone/playlist.m3u8 ::LISTNAME:[COLOR white][B]REDZONE Hanson RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://aws.pikuss.xyz/hls/redzone/chunks.m3u8 ::LISTNAME:[COLOR white][B]REDZONE Hanson RESOLUTION=1280x720p[/B][/COLOR]::#
 <link>
 <thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
 <fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
@@ -455,17 +459,110 @@ sublink:LISTSOURCE:http://gec.4make5.xyz/hls/redzone/chunks.m3u8 ::LISTNAME:[COL
 <item>
 <title>[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR red][B]RED[/B][/COLOR][COLOR blue][B]ZONE[/B][/COLOR] [COLOR orange][B]MultiRes[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:https://tomhkmurphya.s3-accelerate.amazonaws.com/8c1b018c_lbnflxrz_hd_400_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=400x224p[/B][/COLOR]::#
-sublink:LISTSOURCE:https://tomhkmurphya.s3-accelerate.amazonaws.com/8c1b018c_lbnflxrz_hd_800_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=640x360p[/B][/COLOR]::#
-sublink:LISTSOURCE:https://tomhkmurphya.s3-accelerate.amazonaws.com/8c1b018c_lbnflxrz_hd_1600_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=960x540p[/B][/COLOR]::#
-sublink:LISTSOURCE:https://tomhkmurphya.s3-accelerate.amazonaws.com/8c1b018c_lbnflxrz_hd_4500_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:https://tomhkmurphya.s3-accelerate.amazonaws.com/8c1b018c_lbnflxrz_hd_3000_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:https://tomhkmurphya.s3-accelerate.amazonaws.com/8c1b018c_lbnflxrz_hd_4500_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/8c1b018c_lbnflxrz_hd_400_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=400x224p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/8c1b018c_lbnflxrz_hd_800_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=640x360p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/8c1b018c_lbnflxrz_hd_1600_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=960x540p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/8c1b018c_lbnflxrz_hd_4500_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/8c1b018c_lbnflxrz_hd_3000_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://aaronogatesa.s3-accelerate.amazonaws.com/8c1b018c_lbnflxrz_hd_4500_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+<link>
+<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
+<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
+</item>
+-->
+<item>
+<title>[COLOR lime][B]1:00PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Texans @ Buccaneers[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls7/live.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls7/live.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/nfl/playlist.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/nfl/chunks.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://jumanaya.kustos.xyz/hls/buccaneers/playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jumanaya.kustos.xyz/hls/buccaneers/chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H1/playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H1/chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
 <link>
 <thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
 <fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR lime][B]1:00PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Texans @ Buccaneers[/B][/COLOR] [COLOR orange][B]MultiRes[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://lesleyfsmitha.s3-accelerate.amazonaws.com/757c7a24_lbnfltv_hd_400_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=400x224p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://lesleyfsmitha.s3-accelerate.amazonaws.com/757c7a24_lbnfltv_hd_800_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=640x360p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://lesleyfsmitha.s3-accelerate.amazonaws.com/757c7a24_lbnfltv_hd_1600_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=960x540p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://lesleyfsmitha.s3-accelerate.amazonaws.com/757c7a24_lbnfltv_hd_4500_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://lesleyfsmitha.s3-accelerate.amazonaws.com/757c7a24_lbnfltv_hd_3000_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://lesleyfsmitha.s3-accelerate.amazonaws.com/757c7a24_lbnfltv_hd_4500_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+<link>
+<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
+<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]4:30PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Bills @ Patriots[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls7/live.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls7/live.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/nfl/playlist.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/nfl/chunks.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://jumanaya.kustos.xyz/hls/buccaneers/playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jumanaya.kustos.xyz/hls/buccaneers/chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H1/playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H1/chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+<link>
+<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
+<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime][B]4:30PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Bills @ Patriots[/B][/COLOR] [COLOR orange][B]MultiRes[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://lesleyfsmitha.s3-accelerate.amazonaws.com/757c7a24_lbnfltv_hd_400_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=400x224p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://lesleyfsmitha.s3-accelerate.amazonaws.com/757c7a24_lbnfltv_hd_800_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=640x360p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://lesleyfsmitha.s3-accelerate.amazonaws.com/757c7a24_lbnfltv_hd_1600_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=960x540p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://lesleyfsmitha.s3-accelerate.amazonaws.com/757c7a24_lbnfltv_hd_4500_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://lesleyfsmitha.s3-accelerate.amazonaws.com/757c7a24_lbnfltv_hd_3000_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://lesleyfsmitha.s3-accelerate.amazonaws.com/757c7a24_lbnfltv_hd_4500_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+<link>
+<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
+<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]8:15PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Rams @ 49ers[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls7/live.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls7/live.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/nfl/playlist.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/nfl/chunks.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://jumanaya.kustos.xyz/hls/49ers/playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jumanaya.kustos.xyz/hls/49ers/chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H1/playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H1/chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+<link>
+<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
+<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime][B]8:15PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Rams @ 49ers[/B][/COLOR] [COLOR orange][B]MultiRes[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://lesleyfsmitha.s3-accelerate.amazonaws.com/757c7a24_lbnfltv_hd_400_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=400x224p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://lesleyfsmitha.s3-accelerate.amazonaws.com/757c7a24_lbnfltv_hd_800_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=640x360p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://lesleyfsmitha.s3-accelerate.amazonaws.com/757c7a24_lbnfltv_hd_1600_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=960x540p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://lesleyfsmitha.s3-accelerate.amazonaws.com/757c7a24_lbnfltv_hd_4500_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://lesleyfsmitha.s3-accelerate.amazonaws.com/757c7a24_lbnfltv_hd_3000_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://lesleyfsmitha.s3-accelerate.amazonaws.com/757c7a24_lbnfltv_hd_4500_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+<link>
+<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
+<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
+</item>
+<!--
 <item>
 <title>[COLOR lime][B]1:00PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B][/B][/COLOR]</title>
 <link>
@@ -474,10 +571,10 @@ sublink:LISTSOURCE: ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1280x720p
 sublink:LISTSOURCE:/playlist.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
 sublink:LISTSOURCE:/chunks.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://cdn.youpits.com/live//playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.youpits.com/live//chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://gec.4make5.xyz/hls//playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://gec.4make5.xyz/hls//chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live//playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live//chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://aws.pikuss.xyz/hls//playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://aws.pikuss.xyz/hls//chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
 <link>
 <thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
 <fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
@@ -498,24 +595,24 @@ sublink:LISTSOURCE:_hd_4500_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=
 </item>
 <!--
 <item>
-<title>[COLOR lime][B]4:05PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Chargers @ Jaguars[/B][/COLOR]</title>
+<title>[COLOR lime][B]4:05PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B][/B][/COLOR]</title>
 <link>
 sublink:LISTSOURCE: ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE: ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:/playlist.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
 sublink:LISTSOURCE:/chunks.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://cdn.youpits.com/live//playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.youpits.com/live//chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://gec.4make5.xyz/hls//playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://gec.4make5.xyz/hls//chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live//playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live//chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://aws.pikuss.xyz/hls//playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://aws.pikuss.xyz/hls//chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
 <link>
 <thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
 <fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
 </item>
-
+ 
 <item>
-<title>[COLOR lime][B]4:05PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Chargers @ Jaguars[/B][/COLOR] [COLOR orange][B]MultiRes[/B][/COLOR]</title>
+<title>[COLOR lime][B]4:05PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B][/B][/COLOR] [COLOR orange][B]MultiRes[/B][/COLOR]</title>
 <link>
 sublink:LISTSOURCE:_hd_400_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=400x224p[/B][/COLOR]::#
 sublink:LISTSOURCE:_hd_800_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=640x360p[/B][/COLOR]::#
@@ -536,10 +633,10 @@ sublink:LISTSOURCE: ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1280x720p
 sublink:LISTSOURCE:/playlist.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
 sublink:LISTSOURCE:/chunks.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://cdn.youpits.com/live//playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.youpits.com/live//chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://gec.4make5.xyz/hls//playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://gec.4make5.xyz/hls//chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live//playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live//chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://aws.pikuss.xyz/hls//playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://aws.pikuss.xyz/hls//chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
 <link>
 <thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
 <fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
@@ -568,29 +665,33 @@ sublink:LISTSOURCE:https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunk
 sublink:LISTSOURCE:https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b700000.m3u8 ::LISTNAME:[COLOR grey][B]NBC RESOLUTION=840x480p[/B][/COLOR]::#
 sublink:LISTSOURCE:https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b1600000.m3u8 ::LISTNAME:[COLOR grey][B]NBC RESOLUTION=960x576p[/B][/COLOR]::#
 sublink:LISTSOURCE:https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b2500000.m3u8 ::LISTNAME:[COLOR grey][B]NBC RESOLUTION=1280x720p[/B][/COLOR]::#
-<!--
+
 <item>
-<title>[COLOR lime][B]08:20p ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Packers @ 49ers[/B][/COLOR] [COLOR gold][B]FOX.MultiRes[/B][/COLOR]</title>
+<title>[COLOR lime][B]08:20p ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Colts @ Saints[/B][/COLOR] [COLOR gold][B]FOX.MultiRes[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://textuploader.com/1khv5/raw</externallink>
 <thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
 <fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
 </item>
-
+<!--
 <item>
-<title>[COLOR lime][B]08:20p ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Jets @ Ravens[/B][/COLOR]</title>
+<title>[COLOR lime][B]08:20p ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Colts @ Saints[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://cdn.youpits.com/live/Jets/playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.youpits.com/live/Jets/chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.youpits.com/live/Jets/playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.youpits.com/live/Jets/chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/Colts/playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/Colts/chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/Colts/playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/Colts/chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://allenz.xyz/neinz/video/espn/e.m3u8 ::LISTNAME:[COLOR red][B]ESPN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://allenz.xyz/neinz/video/espn/f.m3u8 ::LISTNAME:[COLOR red][B]ESPN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://allenz.xyz/neinz/video/espn/d.m3u8 ::LISTNAME:[COLOR red][B]ESPN RESOLUTION=960x540p[/B][/COLOR]::#
 <link>
 <thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
 <fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
 </item>
-<!--
+
 <item>
-<title>[COLOR lime][B]08:20p ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Jets @ Ravens[/B][/COLOR] [COLOR gold][B]ESPN.MultiRes[/B][/COLOR]</title>
+<title>[COLOR lime][B]08:20p ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Colts @ Saints[/B][/COLOR] [COLOR gold][B]ESPN.MultiRes[/B][/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b300000.m3u8 ::LISTNAME:[COLOR grey][B]ESPN RESOLUTION=254x360p[/B][/COLOR]::#
 sublink:LISTSOURCE:https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b700000.m3u8 ::LISTNAME:[COLOR grey][B]ESPN RESOLUTION=840x480p[/B][/COLOR]::#
@@ -813,10 +914,10 @@ sublink:LISTSOURCE:https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chun
 <item>
 <title>[COLOR blue][B]NCAA[/B][/COLOR] [COLOR red][B]FOOTBALL[/B][/COLOR]:[COLOR white][B]Arizona St. @ UCLA[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://cdn.youpits.com/live/espn/playlist.m3u8 ::LISTNAME:[COLOR red][B]ESPN 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.youpits.com/live/espn/chunks.m3u8 ::LISTNAME:[COLOR red][B]ESPN 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.youpits.com/live/espn/playlist.m3u8 ::LISTNAME:[COLOR red][B]ESPN 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.youpits.com/live/espn/chunks.m3u8 ::LISTNAME:[COLOR red][B]ESPN 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/espn/playlist.m3u8 ::LISTNAME:[COLOR red][B]ESPN 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/espn/chunks.m3u8 ::LISTNAME:[COLOR red][B]ESPN 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/espn/playlist.m3u8 ::LISTNAME:[COLOR red][B]ESPN 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/espn/chunks.m3u8 ::LISTNAME:[COLOR red][B]ESPN 1280x720p[/B][/COLOR]::#
 
 sublink:LISTSOURCE:http://zubacz.xyz/nein/video/espn/d.m3u8 ::LISTNAME:[COLOR gold][B]ESPN RESOLUTION=960x540p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://zubacz.xyz/nein/video/espn/e.m3u8 ::LISTNAME:[COLOR gold][B]ESPN RESOLUTION=1280x720p[/B][/COLOR]::#
@@ -845,10 +946,10 @@ sublink:LISTSOURCE:http://zubacz.xyz/nein/video/espn/f.m3u8 ::LISTNAME:[COLOR go
 <item>
 <title>[COLOR blue][B]NCAA[/B][/COLOR] [COLOR red][B]FOOTBALL[/B][/COLOR]:[COLOR white][B]Michigan St. @ Ohio St@e[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://cdn.youpits.com/live/abc/playlist.m3u8 ::LISTNAME:[COLOR red][B]ABC 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.youpits.com/live/abc/chunks.m3u8 ::LISTNAME:[COLOR red][B]ABC 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.youpits.com/live/abc/playlist.m3u8 ::LISTNAME:[COLOR red][B]ABC 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.youpits.com/live/abc/chunks.m3u8 ::LISTNAME:[COLOR red][B]ABC 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/abc/playlist.m3u8 ::LISTNAME:[COLOR red][B]ABC 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/abc/chunks.m3u8 ::LISTNAME:[COLOR red][B]ABC 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/abc/playlist.m3u8 ::LISTNAME:[COLOR red][B]ABC 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/abc/chunks.m3u8 ::LISTNAME:[COLOR red][B]ABC 1280x720p[/B][/COLOR]::#
 
 sublink:LISTSOURCE:http://zubacz.xyz/nein/video/abc/i.m3u8 ::LISTNAME:[COLOR gold][B]ABC RESOLUTION=1152x648p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://zubacz.xyz/nein/video/abc/h.m3u8 ::LISTNAME:[COLOR gold][B]ABC RESOLUTION=1088x612p[/B][/COLOR]::#
@@ -869,10 +970,10 @@ sublink:LISTSOURCE:http://zubacz.xyz/nein/video/abc/j.m3u8 ::LISTNAME:[COLOR gol
 <item>
 <title>[COLOR blue][B]NCAA[/B][/COLOR] [COLOR red][B]FOOTBALL[/B][/COLOR]:[COLOR white][B]Ohio St@e @ Nebraska[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://cdn.youpits.com/live/abc/playlist.m3u8 ::LISTNAME:[COLOR red][B]ABC 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.youpits.com/live/abc/chunks.m3u8 ::LISTNAME:[COLOR red][B]ABC 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.youpits.com/live/abc/playlist.m3u8 ::LISTNAME:[COLOR red][B]ABC 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.youpits.com/live/abc/chunks.m3u8 ::LISTNAME:[COLOR red][B]ABC 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/abc/playlist.m3u8 ::LISTNAME:[COLOR red][B]ABC 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/abc/chunks.m3u8 ::LISTNAME:[COLOR red][B]ABC 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/abc/playlist.m3u8 ::LISTNAME:[COLOR red][B]ABC 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/abc/chunks.m3u8 ::LISTNAME:[COLOR red][B]ABC 1280x720p[/B][/COLOR]::#
 
 sublink:LISTSOURCE:http://zubacz.xyz/nein/video/abc/i.m3u8 ::LISTNAME:[COLOR gold][B]ABC RESOLUTION=1152x648p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://zubacz.xyz/nein/video/abc/h.m3u8 ::LISTNAME:[COLOR gold][B]ABC RESOLUTION=1088x612p[/B][/COLOR]::#
