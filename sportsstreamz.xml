@@ -18,7 +18,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B]***[/B][/COLOR][COLOR lime][B]SATUR[/B][/COLOR][COLOR white][B]DAY[/B][/COLOR][COLOR white][B] [COLOR gold][B][B]UTC +2 TIME[/B][/COLOR][COLOR white][B]***[/B][/COLOR]</title>
+<title>[COLOR white][B]***[/B][/COLOR][COLOR lime][B]SUN[/B][/COLOR][COLOR white][B]DAY[/B][/COLOR][COLOR white][B] [COLOR gold][B][B]UTC +2 TIME[/B][/COLOR][COLOR white][B]***[/B][/COLOR]</title>
 <link>.</link>
 <thumbnail>http://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
@@ -37,355 +37,9 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<!--
-<item>
-<title>[COLOR lime][B]14:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Everton vs Arsenal[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://34.102.158.163/live/bt1/playlist.m3u8 ::LISTNAME:[COLOR gold][B]BT Sport 1 RESOLUTION=854x480p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/bt1/chunks.m3u8 ::LISTNAME:[COLOR gold][B]BT Sport 1 RESOLUTION=854x480p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/nbcsn/playlist.m3u8 ::LISTNAME:[COLOR gold][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/nbcsn/chunks.m3u8 ::LISTNAME:[COLOR gold][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://103.194.171.4/live/S-1/playlist.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1920x1080p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-1/playlist.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1920x1080p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/S-1/chunks.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1920x1080p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-1/chunks.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1920x1080p[/B][/COLOR]::#
-</link>
-<thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
-<fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
-</item>
 
 <item>
-<title>[COLOR lime][B]14:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Everton vs Arsenal[/B][/COLOR] [COLOR orange][B]BT Sport 1.1080p[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1r0ts/raw</externallink>weak
-<thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
-<fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]14:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Everton vs Arsenal[/B][/COLOR] [COLOR orange][B]NBCSN.720p1[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1ti2o/raw</externallink>weak
-<thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
-<fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]14:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Everton vs Arsenal[/B][/COLOR] [COLOR orange][B]BT.Sport.1.720p1[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1o63y/raw</externallink>c7
-<thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
-<fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]14:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Everton vs Arsenal[/B][/COLOR] [COLOR orange][B]NBCSN.720p2[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1onfc/raw</externallink>bts
-<thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
-<fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]14:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Everton vs Arsenal[/B][/COLOR] [COLOR orange][B]NBCSN.720p3[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1r018/raw</externallink>mnlive
-<thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
-<fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]14:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Everton vs Arsenal[/B][/COLOR] [COLOR orange][B]NBCSN.720p4[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/11xl4/raw</externallink>f1
-<thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
-<fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]14:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Everton vs Arsenal[/B][/COLOR] [COLOR orange][B]NBCSN.720p5[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1onfg/raw</externallink>bald
-<thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
-<fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
-</item>
-<!--
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Norwich City vs Wolverhampton Wanderers[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://34.102.158.163/live/nbcsn/playlist.m3u8 ::LISTNAME:[COLOR gold][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/nbcsn/playlist.m3u8 ::LISTNAME:[COLOR gold][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/nbcsn/playlist.m3u8 ::LISTNAME:[COLOR gold][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/nbcsn/chunks.m3u8 ::LISTNAME:[COLOR gold][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://103.194.171.4/live/S-1/playlist.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1920x1080p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-1/playlist.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1920x1080p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/S-1/chunks.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1920x1080p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-1/chunks.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1920x1080p[/B][/COLOR]::#
-</link>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
-<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Norwich City vs Wolves[/B][/COLOR] [COLOR orange][B]NBCSN.720p1[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1ti2o/raw</externallink>weak
-<thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
-<fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
-</item>
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Norwich City vs Wolves[/B][/COLOR] [COLOR orange][B]NBCSN.720p2[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1onfc/raw</externallink>bts
-<thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
-<fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Norwich City vs Wolves[/B][/COLOR] [COLOR orange][B]NBCSN.720p3[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1r018/raw</externallink>mnlive
-<thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
-<fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Norwich City vs Wolves[/B][/COLOR] [COLOR orange][B]NBCSN.720p4[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/11xl4/raw</externallink>f1
-<thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
-<fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]AFC Bournemouth vs Burnley[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://34.102.158.163/live/n1/playlist.m3u8 ::LISTNAME:[COLOR white][B]1.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/n1/chunks.m3u8 ::LISTNAME:[COLOR white][B]2.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/n1/playlist.m3u8 ::LISTNAME:[COLOR white][B]3.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/n1/chunks.m3u8 ::LISTNAME:[COLOR white][B]4.NBC GOLD 1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://103.194.171.4/live/S-5/playlist.m3u8 ::LISTNAME:[COLOR red][B]SuperSprt 6 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/NFL-1/chunks.m3u8 ::LISTNAME:[COLOR red][B]SuperSprt 6 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/S-5/playlist.m3u8 ::LISTNAME:[COLOR red][B]SuperSprt 6 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/NFL-1/chunks.m3u8 ::LISTNAME:[COLOR red][B]SuperSprt 6 RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
-<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]AFC Bournemouth vs Burnley[/B][/COLOR] [COLOR orange][B]NBC.Gold.720p1[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1oj1v/raw</externallink>weak
-<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
-<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]AFC Bournemouth vs Burnley[/B][/COLOR] [COLOR orange][B]NBC.Gold.720p2[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1onp2/raw</externallink>C7
-<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
-<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]AFC Bournemouth vs Burnley[/B][/COLOR] [COLOR orange][B]SuperSprt6.720p[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1oft4/raw</externallink>mnl
-<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
-<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Aston Villa vs Southampton[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls4/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls4/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls4/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://34.102.158.163/live/n2/playlist.m3u8 ::LISTNAME:[COLOR white][B]1.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/n2/chunks.m3u8 ::LISTNAME:[COLOR white][B]2.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/n2/playlist.m3u8 ::LISTNAME:[COLOR white][B]3.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/n2/chunks.m3u8 ::LISTNAME:[COLOR white][B]4.NBC GOLD 1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://103.194.171.4/live/S-6/playlist.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/NFL/chunks.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/S-6/playlist.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/NFL/chunks.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
-<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Aston Villa vs Southampton[/B][/COLOR] [COLOR orange][B]NBC.Gold.720p1[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1oj17/raw</externallink>weak
-<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
-<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Aston Villa vs Southampton[/B][/COLOR] [COLOR orange][B]NBC.Gold.720p2[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1onpv/raw</externallink>weak
-<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
-<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Aston Villa vs Southampton[/B][/COLOR] [COLOR orange][B]SuperSprt4.720p[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1ofr1/raw</externallink>mnl
-<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
-<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Brighton & Hove Albion vs Sheffield United[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls5/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls5/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls5/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://34.102.158.163/live/n3/playlist.m3u8 ::LISTNAME:[COLOR white][B]1.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/n3/chunks.m3u8 ::LISTNAME:[COLOR white][B]2.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/n3/playlist.m3u8 ::LISTNAME:[COLOR white][B]3.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/n3/chunks.m3u8 ::LISTNAME:[COLOR white][B]4.NBC GOLD 1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://103.194.171.4/live/S-7/playlist.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/NFL-2/chunks.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/S-7/playlist.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/NFL-2/chunks.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
-<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Brighton vs Sheffield[/B][/COLOR] [COLOR orange][B]NBC.Gold.720p1[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1oj1p/raw</externallink>weak
-<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
-<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Brighton vs Sheffield[/B][/COLOR] [COLOR orange][B]NBC.Gold.720p2[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1oj1p/raw</externallink>c7
-<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
-<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Brighton vs Sheffield[/B][/COLOR] [COLOR orange][B]SuperSprt.720p[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1onpn/raw</externallink>mnl
-<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
-<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Newcastle United vs Crystal Palace[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls6/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls6/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls6/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://34.102.158.163/live/n4/playlist.m3u8 ::LISTNAME:[COLOR white][B]1.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/n4/chunks.m3u8 ::LISTNAME:[COLOR white][B]2.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/n4/playlist.m3u8 ::LISTNAME:[COLOR white][B]3.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/n4/chunks.m3u8 ::LISTNAME:[COLOR white][B]4.NBC GOLD 1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://103.194.171.4/live/S-8/playlist.m3u8 ::LISTNAME:[COLOR red][B]SuperSprt 3 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/BOX/chunks.m3u8 ::LISTNAME:[COLOR red][B]SuperSprt 3 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/S-8/playlist.m3u8 ::LISTNAME:[COLOR red][B]SuperSprt 3 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/BOX/chunks.m3u8 ::LISTNAME:[COLOR red][B]SuperSprt 3 RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
-<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Newcastle United vs Crystal Palace[/B][/COLOR] [COLOR orange][B]NBC.Gold.720p1[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1oj1u/raw</externallink>weak
-<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
-<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Newcastle United vs Crystal Palace[/B][/COLOR] [COLOR orange][B]NBC.Gold.720p2[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1onpb/raw</externallink>mnl
-<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
-<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Newcastle United vs Crystal Palace[/B][/COLOR] [COLOR orange][B]beIN Sports HD 11.720p[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/114hc/raw</externallink>mnl
-<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
-<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
-</item>
-<!--
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Watford vs Burnley[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls7/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls7/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls7/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://34.102.158.163/live/g5/playlist.m3u8 ::LISTNAME:[COLOR white][B]1.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/g5/chunks.m3u8 ::LISTNAME:[COLOR white][B]2.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/g5/playlist.m3u8 ::LISTNAME:[COLOR white][B]3.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/g5/chunks.m3u8 ::LISTNAME:[COLOR white][B]4.NBC GOLD 1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://103.194.171.4/live/h9/playlist.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/h9/chunks.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/h9/playlist.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/h9/chunks.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
-<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Watford vs Burnley[/B][/COLOR] [COLOR orange][B]NBC.Gold.720p[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1oj1x/raw</externallink>weak
-<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
-<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Watford vs Burnley[/B][/COLOR] [COLOR orange][B]beIN Sports HD 13.720p[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1oj1d/raw</externallink>mnl
-<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
-<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
-</item>
--->
-<item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Manchester City vs Leicester City[/B][/COLOR]</title>
+<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Watford vs Manchester United[/B][/COLOR]</title>
 <link>
 sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR blue][B]NBC RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR blue][B]NBC RESOLUTION=1280x720p[/B][/COLOR]::#
@@ -406,7 +60,7 @@ sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-1/chunks.m3u8 ::LISTNAME:[CO
 </item>
 
 <item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Man City vs Leicester City[/B][/COLOR] [COLOR orange][B]Sky Sports Main Event.720p1[/B][/COLOR]</title>
+<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Watford vs Man United[/B][/COLOR] [COLOR orange][B]Sky Sports Main Event.720p1[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://textuploader.com/1rora/raw</externallink>weak
 <thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
@@ -414,7 +68,7 @@ sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-1/chunks.m3u8 ::LISTNAME:[CO
 </item>
 
 <item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Man City vs Leicester City[/B][/COLOR] [COLOR orange][B]NBC.720p1[/B][/COLOR]</title>
+<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Watford vs Man United[/B][/COLOR] [COLOR orange][B]NBC.720p1[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://textuploader.com/1ojol/raw</externallink>weak
 <thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
@@ -422,7 +76,7 @@ sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-1/chunks.m3u8 ::LISTNAME:[CO
 </item>
 
 <item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Man City vs Leicester City[/B][/COLOR] [COLOR orange][B]beIN Sports HD 12.720p[/B][/COLOR]</title>
+<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Watford vs Man United[/B][/COLOR] [COLOR orange][B]beIN Sports HD 12.720p[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://textuploader.com/1o9e9/raw</externallink>mnl
 <thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
@@ -430,7 +84,7 @@ sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-1/chunks.m3u8 ::LISTNAME:[CO
 </item>
 
 <item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Man City vs Leicester City[/B][/COLOR] [COLOR orange][B]NBC.720p2[/B][/COLOR]</title>
+<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Watford vs Man United[/B][/COLOR] [COLOR orange][B]NBC.720p2[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://textuploader.com/1on7q/raw</externallink>c7
 <thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
@@ -438,7 +92,7 @@ sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-1/chunks.m3u8 ::LISTNAME:[CO
 </item>
 
 <item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Man City vs Leicester City[/B][/COLOR] [COLOR orange][B]Sky Sports Main Event.720p2[/B][/COLOR]</title>
+<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Watford vs Man United[/B][/COLOR] [COLOR orange][B]Sky Sports Main Event.720p2[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://textuploader.com/1on7h/raw</externallink>bts
 <thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
@@ -446,7 +100,7 @@ sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-1/chunks.m3u8 ::LISTNAME:[CO
 </item>
 
 <item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Man City vs Leicester City[/B][/COLOR] [COLOR orange][B]NBC.720p4[/B][/COLOR]</title>
+<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Watford vs Man United[/B][/COLOR] [COLOR orange][B]NBC.720p4[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://textuploader.com/1on7c/raw</externallink>bald
 <thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
@@ -454,13 +108,96 @@ sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-1/chunks.m3u8 ::LISTNAME:[CO
 </item>
 
 <item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Man City vs Leicester City[/B][/COLOR] [COLOR orange][B]Sky Sports Main Event.720p3[/B][/COLOR]</title>
+<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Watford vs Man United[/B][/COLOR] [COLOR orange][B]Sky Sports Main Event.720p3[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://textuploader.com/1dszz/raw</externallink>f1
 <thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
 <fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
 </item>
 
+<item>
+<title>[COLOR lime][B]18:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Tottenham Hotspur vs Chelsea[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR blue][B]Sky Sports Main Event RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR blue][B]Sky Sports Main Event RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://cdn.60fps.live/live/nbcsn/playlist.m3u8 ::LISTNAME:[COLOR gold][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/nbcsn/chunks.m3u8 ::LISTNAME:[COLOR gold][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/sme/playlist.m3u8 ::LISTNAME:[COLOR gold][B]Sky Sports Main Event RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/sme/chunks.m3u8 ::LISTNAME:[COLOR gold][B]Sky Sports Main Event RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://103.194.171.4/live/S-3/playlist.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-2/playlist.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-3/chunks.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-2/chunks.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://103.194.171.4/live/S-4/playlist.m3u8 ::LISTNAME:[COLOR red][B]Sky Sports Premier League RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-4/chunks.m3u8 ::LISTNAME:[COLOR red][B]Sky Sports Premier League RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-4/playlist.m3u8 ::LISTNAME:[COLOR red][B]Sky Sports Premier League RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-4/chunks.m3u8 ::LISTNAME:[COLOR red][B]Sky Sports Premier League RESOLUTION=1280x720p[/B][/COLOR]::#
+</link>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
+<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]18:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Tottenham vs Chelsea[/B][/COLOR] [COLOR orange][B]Sky Sports Main Event.720p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/1rora/raw</externallink>weak
+<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
+<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]18:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Tottenham vs Chelsea[/B][/COLOR] [COLOR orange][B]Sky Sports Main Event.720p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>/raw</externallink>mnl
+<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
+<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]18:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Tottenham vs Chelsea[/B][/COLOR] [COLOR orange][B]NBCSN.720p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/1ti2o/raw</externallink>weak
+<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
+<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]18:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Tottenham vs Chelsea[/B][/COLOR] [COLOR orange][B]NBCSN.720p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/1ti2o/raw</externallink>weak
+<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
+<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]18:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Tottenham vs Chelsea[/B][/COLOR] [COLOR orange][B]NBCSN.720p3[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/1ota3/raw</externallink>mnl
+<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
+<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]18:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Tottenham vs Chelsea[/B][/COLOR] [COLOR orange][B]NBCSN.720p4[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/1kv2h/raw</externallink>f1
+<thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
+<fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]18:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Tottenham vs Chelsea[/B][/COLOR] [COLOR orange][B]NBCSN.720p5[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/1o2hj/raw</externallink>btstream
+<thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
+<fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
+</item>
+-->
 <item>
 <title>                </title>
 <link>http://Ignoreme</link>
@@ -470,44 +207,13 @@ sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-1/chunks.m3u8 ::LISTNAME:[CO
 </item>
 
 <item>
-<title>[COLOR lime][B]14:30[/B][/COLOR]-[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B]Cardiff City vs Preston North End[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://34.102.158.163/live/sme/playlist.m3u8 ::LISTNAME:[COLOR gold][B]Sky Sports Main Event RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/sme/chunks.m3u8 ::LISTNAME:[COLOR gold][B]Sky Sports Main Event RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/sme/playlist.m3u8 ::LISTNAME:[COLOR gold][B]Sky Sports Main Event RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/sme/chunks.m3u8 ::LISTNAME:[COLOR gold][B]Sky Sports Main Event RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>https://i.imgur.com/Bm6eAYZ.png</thumbnail>
-<fanart>https://i.imgur.com/UeXDHgY.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]14:30[/B][/COLOR]-[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B]Cardiff City vs Preston North End[/B][/COLOR] [COLOR orange][B]Sky Sports Main Event.720p[/B][/COLOR]</title>
+<title>[COLOR lime][B]14:00[/B][/COLOR]-[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B]Sheffield Wednesday vs Bristol City[/B][/COLOR] [COLOR orange][B]Sky Sports Main Event.720p[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/11pkm/raw</externallink>mnl
-<thumbnail>https://i.imgur.com/Bm6eAYZ.png</thumbnail>
-<fanart>https://i.imgur.com/UeXDHgY.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B]Millwall vs Barnsley[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://195.154.114.22/hls/115.m3u8 Middl ::LISTNAME:[COLOR gold][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://195.154.114.22/hls/115.m3u8 Middl ::LISTNAME:[COLOR gold][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://195.154.114.22/hls/115.m3u8 Middl ::LISTNAME:[COLOR gold][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
+<externallink>https://textuploader.com/1d01n/raw</externallink>
 <thumbnail>https://i.imgur.com/Bm6eAYZ.png</thumbnail>
 <fanart>https://i.imgur.com/UeXDHgY.jpg</fanart>
 </item>
 <!--
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B][/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>http://dpaste.com/.txt</externallink>
-<thumbnail>https://i.imgur.com/Bm6eAYZ.png</thumbnail>
-<fanart>https://i.imgur.com/UeXDHgY.jpg</fanart>
-</item>
--->
 <item>
 <title>   </title>
 <link>.</link>
@@ -523,13 +229,21 @@ sublink:LISTSOURCE:http://195.154.114.22/hls/115.m3u8 Middl ::LISTNAME:[COLOR go
 </item>
 
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]SFPL[/B][/COLOR]:[COLOR white][B]Celtic vs Aberdeen[/B][/COLOR]</title>
+<title>[COLOR lime][B]14:00[/B][/COLOR]-[COLOR blue][B]SFPL[/B][/COLOR]:[COLOR white][B]Motherwell vs Rangers[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/10mwm/raw</externallink>
+<externallink>http://dpaste.com/1J8YM8F.txt</externallink>
 <thumbnail>https://i2-prod.dailyrecord.co.uk/incoming/article2089077.ece/ALTERNATES/s298/Scottish-Premishership.jpg</thumbnail>
 <fanart>https://www.007soccerpicks.com/wp-content/uploads/2016/08/Scotland-Premiership.png</fanart>
 </item>
 
+<item>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]SFPL[/B][/COLOR]:[COLOR white][B]Celtic vs Hibernian[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>/raw</externallink>
+<thumbnail>https://i2-prod.dailyrecord.co.uk/incoming/article2089077.ece/ALTERNATES/s298/Scottish-Premishership.jpg</thumbnail>
+<fanart>https://www.007soccerpicks.com/wp-content/uploads/2016/08/Scotland-Premiership.png</fanart>
+</item>
+-->
 <item>
 <title>                </title>
 <link>http://Ignoreme</link>
@@ -546,207 +260,223 @@ sublink:LISTSOURCE:http://195.154.114.22/hls/115.m3u8 Middl ::LISTNAME:[COLOR go
 </item>
 
 <item>
-<title>[COLOR lime][B]14:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Mallorca vs Sevilla[/B][/COLOR] [COLOR orange][B]LA.LIGA.MultiRes[/B][/COLOR]</title>
+<title>[COLOR lime][B]13:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Leganés vs Espanyol[/B][/COLOR] [COLOR orange][B]LA.LIGA.MultiRes[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>http://dpaste.com/3WGWGX9.txt</externallink>
+<externallink>http://dpaste.com/38XJJ3H.txt</externallink>
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]14:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Mallorca vs Sevilla[/B][/COLOR]</title>
+<title>[COLOR lime][B]13:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Leganés vs Espanyol[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://34.102.158.163/live/lll/playlist.m3u8 ::LISTNAME:[COLOR blue][B]LaLiga TV RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]LaLiga TV RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/lll/playlist.m3u8 ::LISTNAME:[COLOR blue][B]LaLiga TV RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]LaLiga TV RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://103.194.171.4/live/S-1/playlist.m3u8 ::LISTNAME:[COLOR pink][B]beIN SPORTS USA RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/S-1/playlist.m3u8 ::LISTNAME:[COLOR pink][B]beIN SPORTS USA RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/S-1/playlist.m3u8 ::LISTNAME:[COLOR pink][B]beIN SPORTS USA RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/S-1/playlist.m3u8 ::LISTNAME:[COLOR pink][B]beIN SPORTS USA RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/playlist.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/playlist.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]14:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Mallorca vs Sevilla[/B][/COLOR] [COLOR orange][B]Premier Sports 2.720p1[/B][/COLOR]</title>
+<title>[COLOR lime][B]15:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Osasuna vs Real Sociedad[/B][/COLOR] [COLOR orange][B]LA.LIGA.MultiRes[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1d4rz/raw/</externallink>mnl
+<externallink>http://dpaste.com/08CT8SK.txt</externallink> 
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]14:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Mallorca vs Sevilla[/B][/COLOR] [COLOR orange][B]Premier Sports 2.720p2[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1onfj/raw/</externallink>weak
-<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
-<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Barcelona vs Deportivo Alavés[/B][/COLOR] [COLOR orange][B]LA.LIGA.MultiRes[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>http://dpaste.com/3VW53TH.txt</externallink>
-<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
-<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Barcelona vs Deportivo Alavés[/B][/COLOR]</title>
+<title>[COLOR lime][B]15:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Osasuna vs Real Sociedad[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR white][B]beIN SPORTS USA RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR white][B]beIN SPORTS USA RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR white][B]beIN SPORTS USA RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://34.102.158.163/live/lll/playlist.m3u8 ::LISTNAME:[COLOR blue][B]LaLiga TV RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]LaLiga TV RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/lll/playlist.m3u8 ::LISTNAME:[COLOR blue][B]LaLiga TV RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]LaLiga TV RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://103.194.171.4/live/S-2/playlist.m3u8 ::LISTNAME:[COLOR pink][B]beIN SPORTS USA RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-3/playlist.m3u8 ::LISTNAME:[COLOR pink][B]beIN SPORTS USA RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/S-2/playlist.m3u8 ::LISTNAME:[COLOR pink][B]beIN SPORTS USA RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-3/playlist.m3u8 ::LISTNAME:[COLOR pink][B]beIN SPORTS USA RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/playlist.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/playlist.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Barcelona vs Deportivo Alavés[/B][/COLOR] [COLOR orange][B]beIN SPORTS USA.720p1[/B][/COLOR]</title>
+<title>[COLOR lime][B]15:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Osasuna vs Real Sociedad[/B][/COLOR] [COLOR orange][B]Premier Sports 2.720p1[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1rorp/raw/</externallink>weak
+<externallink>https://textuploader.com/1ktt6/raw/</externallink>weak
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Barcelona vs Deportivo Alavés[/B][/COLOR] [COLOR orange][B]beIN SPORTS USA.720p2[/B][/COLOR]</title>
+<title>[COLOR lime][B]15:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Osasuna vs Real Sociedad[/B][/COLOR] [COLOR orange][B]Premier Sports 2.720p2[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1ogxp/raw/</externallink>c7
+<externallink>https://textuploader.com/10mn8/raw/</externallink>mnl
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Barcelona vs Deportivo Alavés[/B][/COLOR] [COLOR orange][B]beIN SPORTS USA.720p3[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Betis vs Atlético Madrid[/B][/COLOR] [COLOR orange][B]LA.LIGA.MultiRes[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1onzs/raw/</externallink>bald
+<externallink>http://dpaste.com/3GMT13V.txt</externallink>
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Barcelona vs Deportivo Alavés[/B][/COLOR] [COLOR orange][B]beIN SPORTS USA.720p4[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1dscm/raw/</externallink>f1
-<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
-<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Barcelona vs Deportivo Alavés[/B][/COLOR] [COLOR orange][B]beIN SPORTS USA.720p5[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1ds7u/raw/</externallink>mnl
-<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
-<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Villarreal vs Getafe[/B][/COLOR] [COLOR orange][B]LA.LIGA.MultiRes[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>http://dpaste.com/0N6AY65.txt</externallink>
-<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
-<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Villarreal vs Getafe[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Betis vs Atlético Madrid[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://34.102.158.163/live/lll/playlist.m3u8 ::LISTNAME:[COLOR blue][B]LaLiga TV RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]LaLiga TV RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/lll/playlist.m3u8 ::LISTNAME:[COLOR blue][B]LaLiga TV RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]LaLiga TV RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/playlist.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/playlist.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Villarreal vs Getafe[/B][/COLOR] [COLOR orange][B]beIN SPORTS USA.720p1[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Betis vs Atlético Madrid[/B][/COLOR] [COLOR orange][B]Premier Sports 2.720p[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1rorp/raw/</externallink>weak
+<externallink>https://textuploader.com/1ktt6/raw/</externallink>weak
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Villarreal vs Getafe[/B][/COLOR] [COLOR orange][B]beIN SPORTS USA.720p2[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Betis vs Atlético Madrid[/B][/COLOR] [COLOR orange][B]Premier Sports 2.720p2[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1ogxp/raw/</externallink>c7
+<externallink>https://textuploader.com/10mn8/raw/</externallink>mnl
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Villarreal vs Getafe[/B][/COLOR] [COLOR orange][B]beIN SPORTS USA.720p3[/B][/COLOR]</title>
+<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Levante vs Celta de Vigo[/B][/COLOR] [COLOR orange][B]LA.LIGA.MultiRes[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1onzs/raw/</externallink>bald
+<externallink>http://dpaste.com/3BKQ7RQ.txt</externallink>
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Villarreal vs Getafe[/B][/COLOR] [COLOR orange][B]beIN SPORTS USA.720p4[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1dscm/raw/</externallink>f1
-<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
-<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Villarreal vs Getafe[/B][/COLOR] [COLOR orange][B]beIN SPORTS USA.720p5[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1ds7u/raw/</externallink>mnl
-<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
-<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]22:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Valladolid vs Valencia[/B][/COLOR] [COLOR orange][B]LA.LIGA.MultiRes[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>http://dpaste.com/22ATJ3M.txt</externallink>
-<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
-<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]22:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Valladolid vs Valencia[/B][/COLOR]</title>
+<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Levante vs Celta de Vigo[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://34.102.158.163/live/lll/playlist.m3u8 ::LISTNAME:[COLOR blue][B]LaLiga TV RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]LaLiga TV RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/lll/playlist.m3u8 ::LISTNAME:[COLOR blue][B]LaLiga TV RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]LaLiga TV RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/playlist.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/playlist.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/18373|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN Sports 3 FHD[/B][/COLOR]::#
+sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/18686|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN Sports 3 HEVC[/B][/COLOR]::#
+sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/433|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN Sports 3 HD[/B][/COLOR]::#
+sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9127|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN Sports 3 SD[/B][/COLOR]::#
 </link>
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]22:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Valladolid vs Valencia[/B][/COLOR] [COLOR orange][B]beIN SPORTS USA.720p1[/B][/COLOR]</title>
+<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Levante vs Celta de Vigo[/B][/COLOR] [COLOR orange][B]Premier Sports 2.720p1[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1rorp/raw/</externallink>weak
+<externallink>https://textuploader.com/1ktt6/raw/</externallink>weak
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]22:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Valladolid vs Valencia[/B][/COLOR] [COLOR orange][B]SuperSprt 7.720p[/B][/COLOR]</title>
+<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Levante vs Celta de Vigo[/B][/COLOR] [COLOR orange][B]Premier Sports 2.720p2[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1d405/raw/</externallink>mnl
+<externallink>https://textuploader.com/11lfw/raw/</externallink>mnl
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Levante vs Celta de Vigo[/B][/COLOR] [COLOR orange][B]ELEVEN SPORTS 1 FRENCH[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://pastebin.com/raw/RyVKV4qq</externallink>
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Levante vs Celta de Vigo[/B][/COLOR] [COLOR orange][B]ELEVEN SPORTS 1 DUTCH[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://pastebin.com/raw/TraY1xY7</externallink>
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Levante vs Celta de Vigo[/B][/COLOR] [COLOR orange][B]ELEVEN SPORTS 1 PORTUGAL[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://pastebin.com/raw/VB83zM2R</externallink>
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]22:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Athletic Club[/B][/COLOR] [COLOR orange][B]LA.LIGA.MultiRes[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://dpaste.com/3XEGYZN.txt</externallink>
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]22:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Athletic Club[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/playlist.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/playlist.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/18373|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN Sports 3 FHD[/B][/COLOR]::#
+sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/18686|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN Sports 3 HEVC[/B][/COLOR]::#
+sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/433|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN Sports 3 HD[/B][/COLOR]::#
+sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9127|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN Sports 3 SD[/B][/COLOR]::#
+</link>
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]22:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Athletic Club[/B][/COLOR] [COLOR orange][B]Premier Sports 2.720p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/1ktt6/raw/</externallink>weak
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]22:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Athletic Club[/B][/COLOR] [COLOR orange][B]Premier Sports 2.720p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/11lfw/raw/</externallink>mnl
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]22:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Athletic Club[/B][/COLOR] [COLOR orange][B]ELEVEN SPORTS 1 FRENCH[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://pastebin.com/raw/RyVKV4qq</externallink>
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]22:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Athletic Club[/B][/COLOR] [COLOR orange][B]ELEVEN SPORTS 1 DUTCH[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://pastebin.com/raw/TraY1xY7</externallink>
+<thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]22:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Athletic Club[/B][/COLOR] [COLOR orange][B]ELEVEN SPORTS 1 PORTUGAL[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://pastebin.com/raw/VB83zM2R</externallink>
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
@@ -764,34 +494,82 @@ sublink:LISTSOURCE:http://34.102.158.163/live/lll/chunks.m3u8 ::LISTNAME:[COLOR 
 <thumbnail>http://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 </item>
-
+<!--
 <item>
-<title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Konferenz[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1kux5/raw</externallink>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
-<fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern München vs Wolfsburg[/B][/COLOR]</title>
+<title>[COLOR lime][B]13:00[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Borussia M'gladbach vs Augsburg[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://34.102.158.163/live/fs1/playlist.m3u8 ::LISTNAME:[COLOR blue][B]Fox Sports 1 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/fs1/chunks.m3u8 ::LISTNAME:[COLOR blue][B]Fox Sports 1 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/fs1/playlist.m3u8 ::LISTNAME:[COLOR blue][B]Fox Sports 1 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/fs1/chunks.m3u8 ::LISTNAME:[COLOR blue][B]Fox Sports 1 RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://103.194.171.4/live/S-3/playlist.m3u8 ::LISTNAME:[COLOR red][B]Fox Sports 1 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-2/chunks.m3u8 ::LISTNAME:[COLOR red][B]Fox Sports 1 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/S-3/playlist.m3u8 ::LISTNAME:[COLOR red][B]Fox Sports 1 RESOLUTION=1920x1080p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-2/chunks.m3u8 ::LISTNAME:[COLOR red][B]Fox Sports 1 RESOLUTION=1920x1080p[/B][/COLOR]:#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/yp3/playlist.m3u8 ::LISTNAME:[COLOR blue][B]BT Sports 2 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/yp3/chunks.m3u8 ::LISTNAME:[COLOR blue][B]BT Sports 2 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/yp3/playlist.m3u8 ::LISTNAME:[COLOR blue][B]BT Sports 2 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/yp3/chunks.m3u8 ::LISTNAME:[COLOR blue][B]BT Sports 2 RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
 <fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern München vs Wolfsburg[/B][/COLOR] [COLOR orange][B]Fox Sports 1 USA.720p1[/B][/COLOR]</title>
+<title>[COLOR lime][B]13:00[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Borussia M'gladbach vs Augsburg[/B][/COLOR] [COLOR orange][B]Fox Sports 1 USA.720p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/11f7h/raw</externallink>weak
+<thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
+<fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]13:00[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Borussia M'gladbach vs Augsburg[/B][/COLOR] [COLOR orange][B]BT Sport 2.720p[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/1ktsc/raw</externallink>mnl
+<thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
+<fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
+</item>
+-->
+<item>
+<title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Fortuna Düsseldorf vs Union Berlin[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://cdn.60fps.live/live/bt1/playlist.m3u8 ::LISTNAME:[COLOR blue][B]BT Sport 1 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/bt1/chunks.m3u8 ::LISTNAME:[COLOR blue][B]BT Sport 1 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/bt1/playlist.m3u8 ::LISTNAME:[COLOR blue][B]BT Sport 1 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/bt1/chunks.m3u8 ::LISTNAME:[COLOR blue][B]BT Sport 1 RESOLUTION=1280x720p[/B][/COLOR]::#
+</link>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
+<fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Fortuna Düsseldorf vs Union Berlin[/B][/COLOR] [COLOR orange][B]BT Sport 1.720p[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/1r6ws/raw</externallink>weak
+<thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
+<fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Fortuna Düsseldorf vs Union Berlin[/B][/COLOR] [COLOR orange][B]Fox Sports 1 USA.720p[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/1dqcq/raw</externallink>mnl
+<thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
+<fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]19:00[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Paderborn vs Eintracht Frankfurt[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://cdn.60fps.live/live/ssb1/playlist.m3u8 ::LISTNAME:[COLOR blue][B]Sky Sport Bundesliga RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/ssb1/chunks.m3u8 ::LISTNAME:[COLOR blue][B]Sky Sport Bundesliga RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/ssb1/playlist.m3u8 ::LISTNAME:[COLOR blue][B]Sky Sport Bundesliga RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/ssb1/chunks.m3u8 ::LISTNAME:[COLOR blue][B]Sky Sport Bundesliga RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/18372|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.5.ARA FHD[/B][/COLOR]::#
+sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/18684|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.5.ARA HEVC[/B][/COLOR]::#
+sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/431|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.5.ARA HD[/B][/COLOR]::#
+sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9129|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.5.ARA SD[/B][/COLOR]::#
+</link>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
+<fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]19:00[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Paderborn vs Eintracht Frankfurt[/B][/COLOR] [COLOR orange][B]Fox Sports 1 USA.720p1[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://textuploader.com/11f7m/raw</externallink>weak
 <thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
@@ -799,121 +577,21 @@ sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-2/chunks.m3u8 ::LISTNAME:[CO
 </item>
 
 <item>
-<title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern München vs Wolfsburg[/B][/COLOR] [COLOR orange][B]Fox Sports 1 USA.720p2[/B][/COLOR]</title>
+<title>[COLOR lime][B]19:00[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Paderborn vs Eintracht Frankfurt[/B][/COLOR] [COLOR orange][B]Fox Sports 1 USA.720p2[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1ktsd/raw</externallink>mnl
+<externallink>https://textuploader.com/1dqcq/raw</externallink>mnl
 <thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
 <fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Bayern München vs Wolfsburg[/B][/COLOR] [COLOR orange][B]Fox Sports 1 USA.720p3[/B][/COLOR]</title>
+<title>[COLOR lime][B]19:00[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Paderborn vs Eintracht Frankfurt[/B][/COLOR] [COLOR orange][B]Fox Sports 1 USA.720p3[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1oj5m/raw</externallink>c7
+<externallink>http://dpaste.com/3RS3WB2.txt</externallink>RainoStream
 <thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
 <fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
 </item>
-
-<item>
-<title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Schalke 04 vs Freiburg[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://34.102.158.163/live/g3/playlist.m3u8 ::LISTNAME:[COLOR blue][B]Fox Match Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/g3/chunks.m3u8 ::LISTNAME:[COLOR blue][B]Fox Match Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/g3/playlist.m3u8 ::LISTNAME:[COLOR blue][B]Fox Match Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/g3/chunks.m3u8 ::LISTNAME:[COLOR blue][B]Fox Match Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
-<fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Schalke 04 vs Freiburg[/B][/COLOR] [COLOR orange][B]Fox Soccer Plus.720p1[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1onpx/raw</externallink>mnl
-<thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
-<fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Schalke 04 vs Freiburg[/B][/COLOR] [COLOR orange][B]Fox Soccer Plus.720p2[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1onpg/raw</externallink>c7
-<thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
-<fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Köln vs Werder Bremen[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://34.102.158.163/live/g4/playlist.m3u8 ::LISTNAME:[COLOR blue][B]Fox Match Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/g4/chunks.m3u8 ::LISTNAME:[COLOR blue][B]Fox Match Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/g4/playlist.m3u8 ::LISTNAME:[COLOR blue][B]Fox Match Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/g4/chunks.m3u8 ::LISTNAME:[COLOR blue][B]Fox Match Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
-<fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]RB Leipzig vs Augsburg[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://34.102.158.163/live/g1/playlist.m3u8 ::LISTNAME:[COLOR blue][B]Fox Match Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/g1/chunks.m3u8 ::LISTNAME:[COLOR blue][B]Fox Match Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/g1/playlist.m3u8 ::LISTNAME:[COLOR blue][B]Fox Match Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/g1/chunks.m3u8 ::LISTNAME:[COLOR blue][B]Fox Match Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
-<fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Mainz 05 vs Bayer Leverkusen[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://34.102.158.163/live/g2/playlist.m3u8 ::LISTNAME:[COLOR blue][B]Fox Match Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/g2/chunks.m3u8 ::LISTNAME:[COLOR blue][B]Fox Match Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/g2/playlist.m3u8 ::LISTNAME:[COLOR blue][B]Fox Match Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/g2/chunks.m3u8 ::LISTNAME:[COLOR blue][B]Fox Match Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
-<fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Mainz 05 vs Bayer Leverkusen[/B][/COLOR] [COLOR orange][B]Fox Match Pass.720p[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1onp7/raw</externallink>weak
-<thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
-<fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Hertha BSC vs Borussia M'gladbach[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://34.102.158.163/live/bt2/playlist.m3u8 ::LISTNAME:[COLOR blue][B]BT Sport 2 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/bt2/chunks.m3u8 ::LISTNAME:[COLOR blue][B]BT Sport 2 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/bt2/playlist.m3u8 ::LISTNAME:[COLOR blue][B]BT Sport 2 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/bt2/chunks.m3u8 ::LISTNAME:[COLOR blue][B]BT Sport 2 RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/bundesligathumb.png</thumbnail>
-<fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Hertha BSC vs Borussia M'gladbach[/B][/COLOR] [COLOR orange][B]BT Sport 2.720p[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/10g81/raw</externallink>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
-<fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Hertha BSC vs Borussia M'gladbach[/B][/COLOR] [COLOR orange][B]Fox Soccer Plus.720p[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/10x42/raw</externallink>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
-<fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
-</item>
-
+<!--
 <item>
 <title>                           </title>
 <link>.</link>
@@ -927,14 +605,75 @@ sublink:LISTSOURCE:http://34.102.158.163/live/bt2/chunks.m3u8 ::LISTNAME:[COLOR 
 <thumbnail>http://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 </item>
-<!--
+
 <item>
-<title>[COLOR lime][B]18:30[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lyon vs Nice[/B][/COLOR]</title>
+<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Bordeaux vs Strasbourg[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://34.102.158.163/live/cfr/playlist.m3u8 ::LISTNAME:[COLOR blue][B]Canal+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/cfr/chunks.m3u8 ::LISTNAME:[COLOR blue][B]Canal+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/cfr/playlist.m3u8 ::LISTNAME:[COLOR blue][B]Canal+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/cfr/chunks.m3u8 ::LISTNAME:[COLOR blue][B]Canal+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/b1f/playlist.m3u8 ::LISTNAME:[COLOR blue][B]beIN.Sports 1 FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/b1f/chunks.m3u8 ::LISTNAME:[COLOR blue][B]beIN.Sports 1 FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/b1f/playlist.m3u8 ::LISTNAME:[COLOR blue][B]beIN.Sports 1 FR RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/b1f/chunks.m3u8 ::LISTNAME:[COLOR blue][B]beIN.Sports 1 FR RESOLUTION=1280x720p[/B][/COLOR]::#
+</link>
+<thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
+<fanart>https://i.imgur.com/fO2g544.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Bordeaux vs Strasbourg[/B][/COLOR] [COLOR orange][B]BT Sport 3 HD.720p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/11pur/raw</externallink>weak
+<thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
+<fanart>https://i.imgur.com/fO2g544.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Bordeaux vs Strasbourg[/B][/COLOR] [COLOR orange][B]BT Sport 3 HD.720p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/1r6ne/raw</externallink>mnl
+<thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
+<fanart>https://i.imgur.com/fO2g544.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]18:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lyon vs Rennes[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://cdn.60fps.live/live/bt/playlist.m3u8 ::LISTNAME:[COLOR blue][B]BT.Sports ESPN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/bt/chunks.m3u8 ::LISTNAME:[COLOR blue][B]BT.Sports ESPN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/bt/playlist.m3u8 ::LISTNAME:[COLOR blue][B]BT.Sports ESPN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/bt/chunks.m3u8 ::LISTNAME:[COLOR blue][B]BT.Sports ESPN RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/14127|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.6.ARA FHD[/B][/COLOR]::#
+sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/18683|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.6.ARA HEVC[/B][/COLOR]::#
+sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/259|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.6.ARA HD[/B][/COLOR]::#
+sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9130|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.6.ARA SD[/B][/COLOR]::#
+</link>
+<thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
+<fanart>https://i.imgur.com/fO2g544.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]18:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lyon vs Rennes[/B][/COLOR] [COLOR orange][B]BT Sport 2.720p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/1r6nb/raw</externallink>weak
+<thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
+<fanart>https://i.imgur.com/fO2g544.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]18:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Lyon vs Rennes[/B][/COLOR] [COLOR orange][B]BT Sport 2.720p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/1r6ne/raw</externallink>mnl
+<thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
+<fanart>https://i.imgur.com/fO2g544.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]22:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Saint-Étienne vs PSG[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://cdn.60fps.live/live/cfr/playlist.m3u8 ::LISTNAME:[COLOR blue][B]Canal+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/cfr/chunks.m3u8 ::LISTNAME:[COLOR blue][B]Canal+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/cfr/playlist.m3u8 ::LISTNAME:[COLOR blue][B]Canal+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/cfr/chunks.m3u8 ::LISTNAME:[COLOR blue][B]Canal+ RESOLUTION=1280x720p[/B][/COLOR]::#
 
 sublink:LISTSOURCE:http://95.216.2.179/live/722040/331173/339/38817|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo ::LISTNAME:[COLOR white][B]Canal+ FHD[/B][/COLOR]::#
 sublink:LISTSOURCE:http://95.216.2.179/live/722040/331173/339/13706|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63&amp;mode=36&quo ::LISTNAME:[COLOR white][B]Canal+ HD[/B][/COLOR]::#
@@ -947,157 +686,23 @@ sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9130|User-Agent=RE
 <thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
 <fanart>https://i.imgur.com/fO2g544.jpg</fanart>
 </item>
--->
+
 <item>
-<title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]MultiLigue 1[/B][/COLOR] [COLOR orange][B]beIN.Sports.1.FR[/B][/COLOR]</title>
+<title>[COLOR lime][B]22:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Saint-Étienne vs PSG[/B][/COLOR] [COLOR orange][B]BT Sport 1.720p1[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/11x06/raw</externallink>
+<externallink>https://textuploader.com/1r6ws/raw</externallink>weak
 <thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
 <fanart>https://i.imgur.com/fO2g544.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Amiens SC[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://34.102.158.163/live/bt3/playlist.m3u8 ::LISTNAME:[COLOR white][B]BT Sport 3 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/bt3/chunks.m3u8 ::LISTNAME:[COLOR white][B]BT Sport 3 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/tv5/playlist.m3u8 ::LISTNAME:[COLOR white][B]TV5MONDE RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/tv5/chunks.m3u8 ::LISTNAME:[COLOR white][B]TV5MONDE RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://103.194.171.4/live/S-2/playlist.m3u8 ::LISTNAME:[COLOR red][B]BT Sport 3 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-3/playlist.m3u8 ::LISTNAME:[COLOR red][B]BT Sport 3 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/S-2/chunks.m3u8 ::LISTNAME:[COLOR red][B]BT Sport 3 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-3/chunks.m3u8 ::LISTNAME:[COLOR red][B]BT Sport 3 RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
-<fanart>https://i.imgur.com/fO2g544.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]PSG vs Amiens SC[/B][/COLOR] [COLOR orange][B]BT Sport 3 HD.720p[/B][/COLOR]</title>
+<title>[COLOR lime][B]22:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Saint-Étienne vs PSG[/B][/COLOR] [COLOR orange][B]BT Sport 1.720p2[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1on2i/raw</externallink>
+<externallink>https://textuploader.com/10mwm/raw</externallink>mnlive
 <thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
 <fanart>https://i.imgur.com/fO2g544.jpg</fanart>
 </item>
-
-<item>
-<title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Marseille vs Nîmes[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://34.102.158.163/live/cd/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/cd/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/cd/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/cd/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
-<fanart>https://i.imgur.com/fO2g544.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Reims vs Lyon[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://34.102.158.163/live/l6/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/l6/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/l6/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/l6/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
-<fanart>https://i.imgur.com/fO2g544.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Strasbourg vs Saint-Étienne[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://34.102.158.163/live/l4/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/l4/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/l4/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/l4/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
-<fanart>https://i.imgur.com/fO2g544.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Monaco vs Lille[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://34.102.158.163/live/l5/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/l5/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/l5/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/l5/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
-<fanart>https://i.imgur.com/fO2g544.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Dijon vs Metz[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://34.102.158.163/live/l2/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/l2/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/l2/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/l2/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
-<fanart>https://i.imgur.com/fO2g544.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Montpellier vs Brest[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://34.102.158.163/live/l1/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/l1/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/l1/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/l1/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
-<fanart>https://i.imgur.com/fO2g544.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Nantes vs Angers SCO[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://34.102.158.163/live/l7/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/l7/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/l7/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/l7/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
-<fanart>https://i.imgur.com/fO2g544.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Nice vs Toulouse[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://34.102.158.163/live/l8/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/l8/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/l8/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/l8/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
-<fanart>https://i.imgur.com/fO2g544.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Rennes vs Bordeaux[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://34.102.158.163/live/l3/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/l3/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/l3/playlist.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/l3/chunks.m3u8 ::LISTNAME:[COLOR white][B]Bein Sports FR RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
-<fanart>https://i.imgur.com/fO2g544.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]21:00[/B][/COLOR]-[COLOR red][B]LIGUE[/B][/COLOR][COLOR blue][B]1[/B][/COLOR]:[COLOR white][B]Rennes vs Bordeaux[/B][/COLOR] [COLOR orange][B]beIN Sports HD 13.720p[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/10ebl/raw</externallink>
-<thumbnail>https://i.imgur.com/cQcceA9.jpg</thumbnail>
-<fanart>https://i.imgur.com/fO2g544.jpg</fanart>
-</item>
-
+ -->
 <item>
 <title>                           </title>
 <link>.</link>
@@ -1113,131 +718,147 @@ sublink:LISTSOURCE:http://34.102.158.163/live/l3/chunks.m3u8 ::LISTNAME:[COLOR w
 </item>
 
 <item>
-<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Udinese vs Cagliari[/B][/COLOR] [COLOR orange][B]SERIEA PASS Multi-Res[/B][/COLOR]</title>
+<title>[COLOR lime][B]13:30[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Lecce vs Bologna[/B][/COLOR] [COLOR orange][B]SERIEA PASS Multi-Res[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>http://dpaste.com/0B2BHYX.txt</externallink>
+<externallink>http://dpaste.com/3N5F0ME.txt</externallink>
 <thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Udinese vs Cagliari[/B][/COLOR]</title>
+<title>[COLOR lime][B]13:30[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Lecce vs Bologna[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://34.102.158.163/live/e/playlist.m3u8 ::LISTNAME:[COLOR white][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/e/chunks.m3u8 ::LISTNAME:[COLOR white][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/e/playlist.m3u8 ::LISTNAME:[COLOR white][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/e/chunks.m3u8 ::LISTNAME:[COLOR white][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e/playlist.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e/chunks.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e/playlist.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e/chunks.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Udinese vs Cagliari[/B][/COLOR] [COLOR orange][B]Super Sprt 8.720p[/B][/COLOR]</title>
+<title>[COLOR lime][B]13:30[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Lecce vs Bologna[/B][/COLOR] [COLOR orange][B]Premier Sports 1.720p1[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1onpj/raw</externallink>mnl
+<externallink>https://textuploader.com/1kttx/raw</externallink>weak
 <thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]19:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Internazionale vs Genoa[/B][/COLOR] [COLOR orange][B]SERIEA PASS Multi-Res[/B][/COLOR]</title>
+<title>[COLOR lime][B]13:30[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Lecce vs Bologna[/B][/COLOR] [COLOR orange][B]Premier Sports 1.720p2[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>http://dpaste.com/24NG0SC.txt</externallink>
+<externallink>https://textuploader.com/1kts0/raw</externallink>mnl
 <thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]19:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Internazionale vs Genoa[/B][/COLOR]</title>
+<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Parma vs Brescia[/B][/COLOR] [COLOR orange][B]SERIEA PASS Multi-Res[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://dpaste.com/3B8CGRE.txt</externallink>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Parma vs Brescia[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls9/live.m3u8 ::LISTNAME:[COLOR lime][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls9/live.m3u8 ::LISTNAME:[COLOR lime][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls9/live.m3u8 ::LISTNAME:[COLOR lime][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR red][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR red][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR red][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://34.102.158.163/live/e/playlist.m3u8 ::LISTNAME:[COLOR white][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/e/chunks.m3u8 ::LISTNAME:[COLOR white][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/e/playlist.m3u8 ::LISTNAME:[COLOR white][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/e/chunks.m3u8 ::LISTNAME:[COLOR white][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e/playlist.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e/chunks.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e/playlist.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e/chunks.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://103.194.171.4/live/S-5/playlist.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/MMA/playlist.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/S-5/chunks.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/MMA/chunks.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-1/playlist.m3u8 ::LISTNAME:[COLOR gold][B]Premier Sports 1 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-1/playlist.m3u8 ::LISTNAME:[COLOR gold][B]Premier Sports 1 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-1/chunks.m3u8 ::LISTNAME:[COLOR gold][B]Premier Sports 1 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-1/chunks.m3u8 ::LISTNAME:[COLOR gold][B]Premier Sports 1 RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]19:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Internazionale vs Genoa[/B][/COLOR] [COLOR orange][B]ESPN+.720p1[/B][/COLOR]</title>
+<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Parma vs Brescia[/B][/COLOR] [COLOR orange][B]Premier Sports 1.720p1[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1on7k/raw</externallink>WEAK
+<externallink>https://textuploader.com/1kttx/raw</externallink>weak
 <thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]19:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Internazionale vs Genoa[/B][/COLOR] [COLOR orange][B]SuperSport 8.720p[/B][/COLOR]</title>
+<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Parma vs Brescia[/B][/COLOR] [COLOR orange][B]Premier Sports 1.720p2[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1d01v/raw</externallink>MNL
+<externallink>https://textuploader.com/1dt7j/raw</externallink>mnl
 <thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]19:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Internazionale vs Genoa[/B][/COLOR] [COLOR orange][B]ESPN+.720p2[/B][/COLOR]</title>
+<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Parma vs Brescia[/B][/COLOR] [COLOR orange][B]Premier Sports 1.720p3[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1on7j/raw</externallink>c7
+<externallink>https://textuploader.com/1o2hv/raw</externallink>mnl
 <thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]19:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Internazionale vs Genoa[/B][/COLOR] [COLOR orange][B]beIN Sports HD 4.720p[/B][/COLOR]</title>
+<title>[COLOR lime][B]21:45[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Sassuolo vs Napoli[/B][/COLOR] [COLOR orange][B]SERIEA PASS Multi-Res[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1on76/raw</externallink>bt
+<externallink>http://dpaste.com/32M8P1R.txt</externallink>
 <thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]21:45[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Torino vs SPAL[/B][/COLOR] [COLOR orange][B]SERIEA PASS Multi-Res[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>http://dpaste.com/1XZQQ1X.txt</externallink>
-<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
-<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]21:45[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Torino vs SPAL[/B][/COLOR]</title>
+<title>[COLOR lime][B]21:45[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Sassuolo vs Napoli[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://34.102.158.163/live/e/playlist.m3u8 ::LISTNAME:[COLOR white][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/e/chunks.m3u8 ::LISTNAME:[COLOR white][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/e/playlist.m3u8 ::LISTNAME:[COLOR white][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/e/chunks.m3u8 ::LISTNAME:[COLOR white][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e1/playlist.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e1/chunks.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e1/playlist.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e1/chunks.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://103.194.171.4/live/S-5/playlist.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-4/playlist.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/S-5/playlist.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-4/chunks.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9139|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.4.ARA FHD[/B][/COLOR]::#
+sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/18685|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.4.ARA HEVC[/B][/COLOR]::#
+sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/432|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.4.ARA HD[/B][/COLOR]::#
+sublink:LISTSOURCE:http://95.216.2.179/live/816516/793749/339/9128|User-Agent=REDLINECLIENT GN-CX1200 V2.0.63 ::LISTNAME:[COLOR gold][B]beIN.Sports.4.ARA SD[/B][/COLOR]::#
 </link>
 <thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]21:45[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Torino vs SPAL[/B][/COLOR] [COLOR orange][B]Premier Sports 1.720p1[/B][/COLOR]</title>
+<title>[COLOR lime][B]21:45[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Sassuolo vs Napoli[/B][/COLOR] [COLOR orange][B]Premier Sport 1.720p1[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1kttx/raw</externallink>
+<externallink>https://textuploader.com/1kttx/raw</externallink>weak
 <thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]21:45[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Torino vs SPAL[/B][/COLOR] [COLOR orange][B]Premier Sports 1.720p2[/B][/COLOR]</title>
+<title>[COLOR lime][B]21:45[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Sassuolo vs Napoli[/B][/COLOR] [COLOR orange][B]Premier Sport 1.720p2[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1dttv/raw</externallink>
+<externallink>https://textuploader.com/1dt7j/raw</externallink>mnl
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]]21:45[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Sassuolo vs Napoli[/B][/COLOR] [COLOR orange][B]ELEVEN SPORTS 1 FRENCH[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://pastebin.com/raw/RyVKV4qq</externallink>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]]21:45[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Sassuolo vs Napoli[/B][/COLOR] [COLOR orange][B]ELEVEN SPORTS 1 DUTCH[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://pastebin.com/raw/TraY1xY7</externallink>
 <thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
@@ -1250,61 +871,17 @@ sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-4/chunks.m3u8 ::LISTNAME:[CO
 </item>
 
 <item>
-<title>[COLOR white][B]++=[/B][/COLOR][COLOR green][B]FIFA[/B][/COLOR][COLOR white][B]++=[/B][/COLOR]</title>
-<link>.</link>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
-<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR red][B]CLUB[/COLOR] [COLOR green][B]WORLD[/B][/COLOR] [COLOR gold][B]CUP[/B][/COLOR]:[COLOR white][B]Liverpool vs Flamengo[/B][/COLOR]</title>
+<title>[COLOR lime][B]18:45[/B][/COLOR]-[COLOR red][B]C[/COLOR][COLOR yellow][B]oppa[/B][/COLOR] [COLOR red][B]I[/COLOR][COLOR yellow][B]talia [/B][/COLOR]:[COLOR white][B]Juventus vs Lazio[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR white][B]Fox Sports 1 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR white][B]Fox Sports 1 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR white][B]Fox Sports 1 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/89.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]1.Sport KLUB 3 SR[/B][/COLOR]::#
+sublink:LISTSOURCE:http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiudjkugvkjhb/771.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]2.Sport KLUB 3 SR[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://34.102.158.163/live/tsn4/playlist.m3u8 ::LISTNAME:[COLOR white][B]TSN 4 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/tsn4/chunks.m3u8 ::LISTNAME:[COLOR white][B]TSN 4 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/tsn4/playlist.m3u8 ::LISTNAME:[COLOR white][B]TSN 4 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/tsn4/chunks.m3u8 ::LISTNAME:[COLOR white][B]TSN 4 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/9.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]1.SportTV 3[/B][/COLOR]::#
+sublink:LISTSOURCE:http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiudjkugvkjhb/9.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]2.SportTV 3[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://103.194.171.4/live/S-4/playlist.m3u8 ::LISTNAME:[COLOR red][B]TSN4 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/S-4/chunks.m3u8 ::LISTNAME:[COLOR red][B]TSN4 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/S-4/playlist.m3u8 ::LISTNAME:[COLOR red][B]TSN4 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/S-4/chunks.m3u8 ::LISTNAME:[COLOR red][B]TSN4 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/771.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]3.Sport KLUB 3 SR 1[/B][/COLOR]::#
+sublink:LISTSOURCE:http://s1.wssiptv.com:8000/live/WSS22/oioiehfadojaiudjkugvkjhb/89.ts|User-Agent=freeapppsss&amp;mode=36&quo ::LISTNAME:[COLOR gold][B]4.Sport KLUB 3 SR[/B][/COLOR]::#
 </link>
-<thumbnail>https://img.fifa.com/image/upload/t_s3/v1571387944/dwfbjrnoiosmravrb5eh.jpg</thumbnail>
-<fanart>https://img.fifa.com/image/upload/t_l1/v1571387944/dwfbjrnoiosmravrb5eh.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR red][B]CLUB[/COLOR] [COLOR green][B]WORLD[/B][/COLOR] [COLOR gold][B]CUP[/B][/COLOR]:[COLOR white][B]Liverpool vs Flamengo[/B][/COLOR] [COLOR orange][B]FOX.720p[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1on7f/raw</externallink>
-<thumbnail>https://img.fifa.com/image/upload/t_s3/v1571387944/dwfbjrnoiosmravrb5eh.jpg</thumbnail>
-<fanart>https://img.fifa.com/image/upload/t_l1/v1571387944/dwfbjrnoiosmravrb5eh.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR red][B]CLUB[/COLOR] [COLOR green][B]WORLD[/B][/COLOR] [COLOR gold][B]CUP[/B][/COLOR]:[COLOR white][B]Liverpool vs Flamengo[/B][/COLOR] [COLOR orange][B]beIN Sports HD 11.720p1[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1on77/raw</externallink>
-<thumbnail>https://img.fifa.com/image/upload/t_s3/v1571387944/dwfbjrnoiosmravrb5eh.jpg</thumbnail>
-<fanart>https://img.fifa.com/image/upload/t_l1/v1571387944/dwfbjrnoiosmravrb5eh.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR red][B]CLUB[/COLOR] [COLOR green][B]WORLD[/B][/COLOR] [COLOR gold][B]CUP[/B][/COLOR]:[COLOR white][B]Liverpool vs Flamengo[/B][/COLOR] [COLOR orange][B]beIN Sports HD 11.720p2[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1on72/raw</externallink>
-<thumbnail>https://img.fifa.com/image/upload/t_s3/v1571387944/dwfbjrnoiosmravrb5eh.jpg</thumbnail>
-<fanart>https://img.fifa.com/image/upload/t_l1/v1571387944/dwfbjrnoiosmravrb5eh.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR red][B]CLUB[/COLOR] [COLOR green][B]WORLD[/B][/COLOR] [COLOR gold][B]CUP[/B][/COLOR]:[COLOR white][B]Liverpool vs Flamengo[/B][/COLOR] [COLOR orange][B].720p[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>/raw</externallink>
-<thumbnail>https://img.fifa.com/image/upload/t_s3/v1571387944/dwfbjrnoiosmravrb5eh.jpg</thumbnail>
-<fanart>https://img.fifa.com/image/upload/t_l1/v1571387944/dwfbjrnoiosmravrb5eh.jpg</fanart>
+<thumbnail>https://media.sbs.com.au/twg/leagues/400x400/135.png</thumbnail>
+<fanart>http://www.ntr24.tv/wp-content/uploads/2017/08/tim_cup.jpg</fanart>
 </item>
