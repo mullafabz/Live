@@ -311,7 +311,7 @@ sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/chunks.m3u8 ::LISTNAME:[COLOR 
 <item>
 <title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Betis vs Atlético Madrid[/B][/COLOR] [COLOR orange][B]LA.LIGA.MultiRes[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>http://dpaste.com/3GMT13V.txt</externallink>
+<externallink>http://dpaste.com/1J0DEES.txt</externallink>
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
@@ -323,6 +323,11 @@ sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/playlist.m3u8 ::LISTNAME:[COLO
 sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/playlist.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/chunks.m3u8 ::LISTNAME:[COLOR blue][B]La Liga TV RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://103.194.171.4/live/S-2/playlist.m3u8 ::LISTNAME:[COLOR red][B]beIN Sports USA RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-3/playlist.m3u8 ::LISTNAME:[COLOR red][B]beIN Sports USA RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-2/chunks.m3u8 ::LISTNAME:[COLOR red][B]beIN Sports USA RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-3/chunks.m3u8 ::LISTNAME:[COLOR red][B]beIN Sports USA RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
@@ -339,7 +344,7 @@ sublink:LISTSOURCE:http://cdn.60fps.live/live/lll/chunks.m3u8 ::LISTNAME:[COLOR 
 <item>
 <title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Betis vs Atlético Madrid[/B][/COLOR] [COLOR orange][B]Premier Sports 2.720p2[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/10mn8/raw/</externallink>mnl
+<externallink>https://textuploader.com/1dzej/raw/</externallink>mnl
 <thumbnail>http://i.imgur.com/ua1PgFH.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
@@ -749,7 +754,7 @@ sublink:LISTSOURCE:http://cdn.60fps.live/live/e/chunks.m3u8 ::LISTNAME:[COLOR bl
 <item>
 <title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Lecce vs Bologna[/B][/COLOR] [COLOR orange][B]SERIEA PASS Multi-Res[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>http://dpaste.com/.txt</externallink>
+<externallink>http://dpaste.com/2MMQW95.txt</externallink>
 <thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
@@ -777,7 +782,7 @@ sublink:LISTSOURCE:http://cdn.60fps.live/live/e1/chunks.m3u8 ::LISTNAME:[COLOR b
 <item>
 <title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Parma vs Brescia[/B][/COLOR] [COLOR orange][B]SERIEA PASS Multi-Res[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>http://dpaste.com/.txt</externallink>
+<externallink>http://dpaste.com/2VYAMP1.txt</externallink>
 <thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
