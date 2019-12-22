@@ -111,10 +111,9 @@ sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-2/chunks.m3u8 ::LISTNAME:[CO
 <item>
 <title>[COLOR lime][B]18:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Tottenham Hotspur vs Chelsea[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN1 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN1 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls10/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN2 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls10/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN2 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls10/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls10/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls10/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
 
 sublink:LISTSOURCE:http://cdn.60fps.live/live/sme/playlist.m3u8 ::LISTNAME:[COLOR gold][B]Sky Sports Main Event RESOLUTION=854x480p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://cdn.60fps.live/live/sme/chunks.m3u8 ::LISTNAME:[COLOR gold][B]Sky Sports Main Event RESOLUTION=854x480p[/B][/COLOR]::#
