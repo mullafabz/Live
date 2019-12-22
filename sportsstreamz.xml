@@ -519,27 +519,27 @@ sublink:LISTSOURCE:http://cdn.60fps.live/live/yp3/chunks.m3u8 ::LISTNAME:[COLOR 
 <item>
 <title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Fortuna Düsseldorf vs Union Berlin[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://cdn.60fps.live/live/bt1/playlist.m3u8 ::LISTNAME:[COLOR blue][B]BT Sport 1 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/bt1/chunks.m3u8 ::LISTNAME:[COLOR blue][B]BT Sport 1 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/bt1/playlist.m3u8 ::LISTNAME:[COLOR blue][B]BT Sport 1 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/bt1/chunks.m3u8 ::LISTNAME:[COLOR blue][B]BT Sport 1 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/fs1/playlist.m3u8 ::LISTNAME:[COLOR blue][B]Fox Sports 1 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/fs1/chunks.m3u8 ::LISTNAME:[COLOR blue][B]Fox Sports 1 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/fs1/playlist.m3u8 ::LISTNAME:[COLOR blue][B]Fox Sports 1 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/fs1/chunks.m3u8 ::LISTNAME:[COLOR blue][B]Fox Sports 1 RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
 <fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Fortuna Düsseldorf vs Union Berlin[/B][/COLOR] [COLOR orange][B]BT Sport 1.720p[/B][/COLOR]</title>
+<title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Fortuna Düsseldorf vs Union Berlin[/B][/COLOR] [COLOR orange][B]Fox Sport 1.720p1[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1r6ws/raw</externallink>weak
+<externallink>https://textuploader.com/11f7m/raw</externallink>weak
 <thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
 <fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Fortuna Düsseldorf vs Union Berlin[/B][/COLOR] [COLOR orange][B]Fox Sports 1 USA.720p[/B][/COLOR]</title>
+<title>[COLOR lime][B]16:30[/B][/COLOR]-[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]Fortuna Düsseldorf vs Union Berlin[/B][/COLOR] [COLOR orange][B]Fox Sport 1.720p2[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1dqcq/raw</externallink>mnl
+<externallink>https://textuploader.com/1onin/raw</externallink>mnl
 <thumbnail>http://mullafabz.xyz/HOST/Icons/.png</thumbnail>
 <fanart>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/03/Sky-Bundesliga.jpg</fanart>
 </item>
