@@ -487,6 +487,37 @@ sublink:LISTSOURCE:https://lesleyfsmitha.s3-accelerate.amazonaws.com/757c7a24_lb
 <thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
 <fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR lime][B]8:15PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Rams @ 49ers[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls7/live.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls7/live.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/nfl/playlist.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.158.163/live/nfl/chunks.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED RESOLUTION=1024x576p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://jumanaya.kustos.xyz/hls/49ers/playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jumanaya.kustos.xyz/hls/49ers/chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H1/playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H1/chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+<link>
+<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
+<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime][B]8:15PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Rams @ 49ers[/B][/COLOR] [COLOR orange][B]MultiRes[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://lesleyfsmitha.s3-accelerate.amazonaws.com/757c7a24_lbnfltv_hd_400_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=400x224p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://lesleyfsmitha.s3-accelerate.amazonaws.com/757c7a24_lbnfltv_hd_800_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=640x360p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://lesleyfsmitha.s3-accelerate.amazonaws.com/757c7a24_lbnfltv_hd_1600_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=960x540p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://lesleyfsmitha.s3-accelerate.amazonaws.com/757c7a24_lbnfltv_hd_4500_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://lesleyfsmitha.s3-accelerate.amazonaws.com/757c7a24_lbnfltv_hd_3000_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://lesleyfsmitha.s3-accelerate.amazonaws.com/757c7a24_lbnfltv_hd_4500_pc.m8 ::LISTNAME:[COLOR gold][B]GAMEPASS RESOLUTION=1280x720p[/B][/COLOR]::#
+<link>
+<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
+<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
+</item>
 <!--
 <item>
 <title>[COLOR lime][B]1:00PM ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B][/B][/COLOR]</title>
