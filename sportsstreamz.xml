@@ -754,9 +754,37 @@ sublink:LISTSOURCE:http://cdn.60fps.live/live/e/chunks.m3u8 ::LISTNAME:[COLOR bl
 </item>
 
 <item>
+<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Lecce vs Bologna[/B][/COLOR] [COLOR orange][B]SERIEA PASS Multi-Res[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://dpaste.com/.txt</externallink>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Lecce vs Bologna[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e1/playlist.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e1/chunks.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e1/playlist.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e1/chunks.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+</link>
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Lecce vs Bologna[/B][/COLOR] [COLOR orange][B]FreeSports UK.720p[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/10b2w/raw</externallink>mnl
+<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
 <title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Parma vs Brescia[/B][/COLOR] [COLOR orange][B]SERIEA PASS Multi-Res[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>http://dpaste.com/3B8CGRE.txt</externallink>
+<externallink>http://dpaste.com/.txt</externallink>
 <thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
@@ -764,19 +792,10 @@ sublink:LISTSOURCE:http://cdn.60fps.live/live/e/chunks.m3u8 ::LISTNAME:[COLOR bl
 <item>
 <title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Parma vs Brescia[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR red][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR red][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR red][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://cdn.60fps.live/live/e/playlist.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/e/chunks.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/e/playlist.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/e/chunks.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-1/playlist.m3u8 ::LISTNAME:[COLOR gold][B]Premier Sports 1 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/S-1/playlist.m3u8 ::LISTNAME:[COLOR gold][B]Premier Sports 1 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-1/chunks.m3u8 ::LISTNAME:[COLOR gold][B]Premier Sports 1 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/S-1/chunks.m3u8 ::LISTNAME:[COLOR gold][B]Premier Sports 1 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e2/playlist.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e2/chunks.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e2/playlist.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/e2/chunks.m3u8 ::LISTNAME:[COLOR blue][B]ESPN+ RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
@@ -794,14 +813,6 @@ sublink:LISTSOURCE:http://103.194.171.4/live/S-1/chunks.m3u8 ::LISTNAME:[COLOR g
 <title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Parma vs Brescia[/B][/COLOR] [COLOR orange][B]Premier Sports 1.720p2[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://textuploader.com/1dt7j/raw</externallink>mnl
-<thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
-<fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Parma vs Brescia[/B][/COLOR] [COLOR orange][B]Premier Sports 1.720p3[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1o2hv/raw</externallink>mnl
 <thumbnail>https://i.imgur.com/3hUAGa6.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
