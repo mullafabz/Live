@@ -272,13 +272,57 @@ sublink:LISTSOURCE:http://34.98.92.203/live/nba5/chunks.m3u8 ::LISTNAME:[COLOR g
 
 sublink:LISTSOURCE:http://103.194.171.4/live/H6/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://103.194.171.4/live/H6/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://asdfghjkllkjhgf.dynu.net/hls/.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://asdfghjkllkjhgf.dynu.net/hls/.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H6/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H6/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
 
 sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/nyk.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/nyk.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/mil.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/mil.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+</link>
+<thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
+<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Sacramento Kings at Memphis Grizzlies[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls6/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls6/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.98.92.203/live/nba6/playlist.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.98.92.203/live/nba6/chunks.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://103.194.171.4/live/H7/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H7/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H7/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H7/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/mem.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/mem.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/sac.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/sac.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+</link>
+<thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
+<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Los Angeles Clippers at San Antonio Spurs[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls7/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls7/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.98.92.203/live/nba7/playlist.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.98.92.203/live/nba7/chunks.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://103.194.171.4/live/H8/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H8/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H8/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/H8/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/sas.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/sas.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/lac.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://jurgenkergiell.s3.amazonaws.com/hls/lac.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Away RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
 <fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
