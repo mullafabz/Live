@@ -41,19 +41,19 @@
 <item>
 <title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Watford vs Manchester United[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR blue][B]NBC RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR blue][B]NBC RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR blue][B]NBC RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://34.102.158.163/live/sme/playlist.m3u8 ::LISTNAME:[COLOR gold][B]Sky Sports Main Event RESOLUTION=854x480p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/sme/chunks.m3u8 ::LISTNAME:[COLOR gold][B]Sky Sports Main Event RESOLUTION=854x480p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/sme/playlist.m3u8 ::LISTNAME:[COLOR gold][B]Sky Sports Main Event RESOLUTION=854x480p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.158.163/live/sme/chunks.m3u8 ::LISTNAME:[COLOR gold][B]Sky Sports Main Event RESOLUTION=854x480p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/sme/playlist.m3u8 ::LISTNAME:[COLOR gold][B]Sky Sports Main Event RESOLUTION=854x480p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/sme/chunks.m3u8 ::LISTNAME:[COLOR gold][B]Sky Sports Main Event RESOLUTION=854x480p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/nbcsn/playlist.m3u8 ::LISTNAME:[COLOR gold][B]NBCSN RESOLUTION=854x480p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/nbcsn/chunks.m3u8 ::LISTNAME:[COLOR gold][B]NBCSN RESOLUTION=854x480p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://103.194.171.4/live/S-4/playlist.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1920x1080p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-1/playlist.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1920x1080p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/S-4/chunks.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1920x1080p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-1/chunks.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1920x1080p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-3/playlist.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-2/playlist.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-3/chunks.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-2/chunks.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
 <fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
@@ -68,33 +68,41 @@ sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-1/chunks.m3u8 ::LISTNAME:[CO
 </item>
 
 <item>
-<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Watford vs Man United[/B][/COLOR] [COLOR orange][B]NBC.720p1[/B][/COLOR]</title>
+<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Watford vs Man United[/B][/COLOR] [COLOR orange][B]NBCSN.720p1[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1ojol/raw</externallink>weak
+<externallink>https://textuploader.com/11gdg/raw</externallink>weak
 <thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
 <fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Watford vs Man United[/B][/COLOR] [COLOR orange][B]beIN Sports HD 12.720p[/B][/COLOR]</title>
+<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Watford vs Man United[/B][/COLOR] [COLOR orange][B]NBCSN.720p2[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1o9e9/raw</externallink>mnl
+<externallink>https://textuploader.com/1oni9/raw</externallink>mnl
 <thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
 <fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Watford vs Man United[/B][/COLOR] [COLOR orange][B]NBC.720p2[/B][/COLOR]</title>
+<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Watford vs Man United[/B][/COLOR] [COLOR orange][B]NBCSN.720p3[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1on7q/raw</externallink>c7
+<externallink>https://textuploader.com/1onit/raw</externallink>bts
 <thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
 <fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Watford vs Man United[/B][/COLOR] [COLOR orange][B]Sky Sports Main Event.720p2[/B][/COLOR]</title>
+<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Watford vs Man United[/B][/COLOR] [COLOR orange][B]NBCSN.720p4[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1on7h/raw</externallink>bts
+<externallink>https://textuploader.com/1oni0/raw</externallink>c7
+<thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
+<fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Watford vs Man United[/B][/COLOR] [COLOR orange][B]NBCSN.720p5[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://textuploader.com/1dszz/raw</externallink>f1
 <thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
 <fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
 </item>
@@ -103,14 +111,6 @@ sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-1/chunks.m3u8 ::LISTNAME:[CO
 <title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Watford vs Man United[/B][/COLOR] [COLOR orange][B]NBC.720p4[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://textuploader.com/1on7c/raw</externallink>bald
-<thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
-<fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Watford vs Man United[/B][/COLOR] [COLOR orange][B]Sky Sports Main Event.720p3[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1dszz/raw</externallink>f1
 <thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
 <fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
 </item>
