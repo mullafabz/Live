@@ -41,9 +41,9 @@
 <item>
 <title>[COLOR lime][B]16:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Watford vs Manchester United[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
 
 sublink:LISTSOURCE:http://cdn.60fps.live/live/sme/playlist.m3u8 ::LISTNAME:[COLOR gold][B]Sky Sports Main Event RESOLUTION=854x480p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://cdn.60fps.live/live/sme/chunks.m3u8 ::LISTNAME:[COLOR gold][B]Sky Sports Main Event RESOLUTION=854x480p[/B][/COLOR]::#
