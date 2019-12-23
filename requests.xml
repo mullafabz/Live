@@ -303,9 +303,9 @@ sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Blazers/chunks.m3u8 ::LISTNAME:[C
 <item>
 <title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Houston Rockets at Sacramento Kings[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls9/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls9/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls9/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
 
 sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Kings/playlist.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Kings/chunks.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
@@ -317,9 +317,9 @@ sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Kings/chunks.m3u8 ::LISTNAME:[COL
 <item>
 <title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Minnesota Timberwolves at Golden State Warriors[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls10/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls10/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls10/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
 
 sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Warriors/playlist.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Warriors/chunks.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
@@ -782,14 +782,14 @@ sublink:LISTSOURCE:https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunk
 <item>
 <title>[COLOR lime][B]08:15p ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Packers @ Vikings[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://34.102.154.4/live/Vikings/playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.154.4/live/Vikings/chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.154.4/live/Vikings/playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.154.4/live/Vikings/chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED1 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED1 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED1 RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED1 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED1 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://mbi1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]GAMEPASS.FEED1 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.154.4/live/Vikings/playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.154.4/live/Vikings/chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.154.4/live/Vikings/playlist.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.154.4/live/Vikings/chunks.m3u8 ::LISTNAME:[COLOR white][B]GAMEPASS.FEED RESOLUTION=1280x720p[/B][/COLOR]::#
 <link>
 <thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
 <fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
