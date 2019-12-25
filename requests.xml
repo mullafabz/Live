@@ -47,7 +47,7 @@ sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;
 </item>
 
 <item>
-<title>[COLOR white][B]****[/B][/COLOR][COLOR lime][B]MON[/B][/COLOR][COLOR white][B]DAY[/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
+<title>[COLOR white][B]****[/B][/COLOR][COLOR lime][B]WEDNES[/B][/COLOR][COLOR white][B]DAY[/B][/COLOR][COLOR white][B]****[/B][/COLOR]</title>
 <link>
 sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=&amp;name=[COLOR white][B]NBA: @ [/B][/COLOR] ::LISTNAME:[COLOR gold][B]LINK 1[/B][/COLOR]::#
 </link>
@@ -175,156 +175,22 @@ sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;
 </item>
 -->
 <item>
-<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Atlanta Hawks at Cleveland Cavaliers[/B][/COLOR]</title>
+<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Celtics @ Raptors[/B][/COLOR]</title>
 <link>
 sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/nba/playlist.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=960x540p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.60fps.live/live/nba/chunks.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=960x540p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Cavaliers/playlist.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Cavaliers/chunks.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-1/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-1/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://asdfghjkllkjhgf.dynu.net/hls/atl-bkn.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://asdfghjkllkjhgf.dynu.net/hls/atl-bkn.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Raptors/playlist.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Raptors/chunks.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
-<thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
-<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Philadelphia 76ers at Detroit Pistons[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Pistons/playlist.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Pistons/chunks.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
-<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Toronto Raptors at Indiana Pacers[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Pacers/playlist.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Pacers/chunks.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
-<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Washington Wizards at New York Knicks[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls4/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls4/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls4/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Knicks/playlist.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Knicks/chunks.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
-<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Chicago Bulls at Orlando Magic[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls5/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls5/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls5/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Magic/playlist.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Magic/chunks.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
-<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Utah Jazz at Miami Heat[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls6/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls6/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls6/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Heat/playlist.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Heat/chunks.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
-<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]San Antonio Spurs at Memphis Grizzlies[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls7/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls7/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls7/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Grizzlies/playlist.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Grizzlies/chunks.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
-<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Denver Nuggets at Phoenix Suns[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls8/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls8/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls8/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Suns/playlist.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Suns/chunks.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
-<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]New Orleans Pelicans at Portland Trail Blazers[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Blazers/playlist.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Blazers/chunks.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
-<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Houston Rockets at Sacramento Kings[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls9/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls9/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls9/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Kings/playlist.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Kings/chunks.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
-<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Minnesota Timberwolves at Golden State Warriors[/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls10/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls10/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls10/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Warriors/playlist.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Warriors/chunks.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
+<thumbnail>https://nbabite.com/wp-content/uploads/2019/12/Boston-Celtics-vs-Toronto-Raptors.jpg</thumbnail>
 <fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
 </item>
 <!--
@@ -778,7 +644,7 @@ sublink:LISTSOURCE:https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunk
 <thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
 <fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
 </item>
--->
+<!--
 <item>
 <title>[COLOR lime][B]08:15p ET[/B][/COLOR]-[COLOR aqua][B]NFL[/B][/COLOR]:[COLOR white][B]Packers @ Vikings[/B][/COLOR]</title>
 <link>
