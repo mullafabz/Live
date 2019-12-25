@@ -179,8 +179,8 @@ sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;
 <link>
 sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/nba/playlist.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=960x540p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://cdn.60fps.live/live/nba/chunks.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=960x540p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.youpits.com/live/abc/playlist.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=960x540p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.youpits.com/live/abc/chunks.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=960x540p[/B][/COLOR]::#
 
 sublink:LISTSOURCE:http://103.194.171.4/live/S-1/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://103.194.171.4/live/S-1/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
@@ -191,6 +191,43 @@ sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Raptors/playlist.m3u8 ::LISTNAME:
 sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/Raptors/chunks.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>https://nbabite.com/wp-content/uploads/2019/12/Boston-Celtics-vs-Toronto-Raptors.jpg</thumbnail>
+<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Bucks @ 76ers[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.youpits.com/live/abc/playlist.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=960x540p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.youpits.com/live/abc/chunks.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=960x540p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://103.194.171.4/live/S-1/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-1/chunks.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/76ers/playlist.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/76ers/chunks.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+</link>
+<thumbnail>https://nbabite.com/wp-content/uploads/2019/12/Milwaukee-Bucks-vs-Philadelphia-76ers.jpg</thumbnail>
+<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]NBA[/B][/COLOR]:[COLOR white][B]Rockets @ Warriors[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.youpits.com/live/abc/playlist.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=960x540p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://cdn.youpits.com/live/abc/chunks.m3u8 ::LISTNAME:[COLOR gold][B]League Pass RESOLUTION=960x540p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://103.194.171.4/live/S-1/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls/BOX-2/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-1/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls/BOX-2/playlist.m3u8 ::LISTNAME:[COLOR green][B]LEAGUE PASS RESOLUTION=1280x720p[/B][/COLOR]::#
+
+sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/76ers/playlist.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://sv1.doxeaz06.gq/live/76ers/chunks.m3u8 ::LISTNAME:[COLOR white][B]League Pass.Home RESOLUTION=1280x720p[/B][/COLOR]::#
+</link>
+<thumbnail>https://nbabite.com/wp-content/uploads/2019/12/Houston-Rockets-vs-Golden-State-Warriors.jpg</thumbnail>
 <fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
 </item>
 <!--
