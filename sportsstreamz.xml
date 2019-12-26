@@ -104,16 +104,16 @@ sublink:LISTSOURCE:https://wowzaprod266-i.akamaihd.net/hls/live/863144/567ec6e9/
 <thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
 <fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
 </item>
-<!--
+
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Norwich City vs Wolverhampton Wanderers[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Chelsea vs Southampton[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
 
 sublink:LISTSOURCE:http://34.102.207.198/live/nbcsn/playlist.m3u8 ::LISTNAME:[COLOR gold][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.207.198/live/nbcsn/playlist.m3u8 ::LISTNAME:[COLOR gold][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.207.198/live/nbcsn/chunks.m3u8 ::LISTNAME:[COLOR gold][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://34.102.207.198/live/nbcsn/playlist.m3u8 ::LISTNAME:[COLOR gold][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://34.102.207.198/live/nbcsn/chunks.m3u8 ::LISTNAME:[COLOR gold][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
 
@@ -127,59 +127,74 @@ sublink:LISTSOURCE:http://103.194.171.52:1935/hls/P-1/chunks.m3u8 ::LISTNAME:[CO
 </item>
 
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Norwich City vs Wolves[/B][/COLOR] [COLOR orange][B]NBCSN.720p1[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Chelsea vs Southampton[/B][/COLOR] [COLOR orange][B]NBCSN.MultiRes[/B][/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://wowzaprod266-i.akamaihd.net/hls/live/863144/567ec6e9/567ec6e9_1_4128/chunklist.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://wowzaprod266-i.akamaihd.net/hls/live/863144/567ec6e9/567ec6e9_1_2728/chunklist.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://wowzaprod266-i.akamaihd.net/hls/live/863144/567ec6e9/567ec6e9_1_1728/chunklist.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=854x480p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://wowzaprod266-i.akamaihd.net/hls/live/863144/567ec6e9/567ec6e9_1_1152/chunklist.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=640x360p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://wowzaprod266-i.akamaihd.net/hls/live/863144/567ec6e9/567ec6e9_1_640/chunklist.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=512x288p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://wowzaprod266-i.akamaihd.net/hls/live/863144/567ec6e9/567ec6e9_1_448/chunklist.m3u8 ::LISTNAME:[COLOR red][B]NBCSN RESOLUTION=320x180p[/B][/COLOR]::#
+</link>
+<thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
+<fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Chelsea vs Southampton[/B][/COLOR] [COLOR orange][B]NBCSN.720p1[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://textuploader.com/1ti2o/raw</externallink>weak
 <thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
 <fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
 </item>
+
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Norwich City vs Wolves[/B][/COLOR] [COLOR orange][B]NBCSN.720p2[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Chelsea vs Southampton[/B][/COLOR] [COLOR orange][B]NBCSN.720p2[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1onfc/raw</externallink>bts
+<externallink>https://textuploader.com/1dxq0/raw</externallink>mnlive
 <thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
 <fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Norwich City vs Wolves[/B][/COLOR] [COLOR orange][B]NBCSN.720p3[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Chelsea vs Southampton[/B][/COLOR] [COLOR orange][B]NBCSN.720p3[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1r018/raw</externallink>mnlive
+<externallink>https://textuploader.com/11xky/raw</externallink>f1
 <thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
 <fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Norwich City vs Wolves[/B][/COLOR] [COLOR orange][B]NBCSN.720p4[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Chelsea vs Southampton[/B][/COLOR] [COLOR orange][B]NBCSN.720p4[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/11xl4/raw</externallink>f1
+<externallink>https://textuploader.com/1oya6/raw</externallink>c7
 <thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
 <fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]AFC Bournemouth vs Burnley[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]AFC Bournemouth vs Arsenal[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls3/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://34.102.207.198/live/n1/playlist.m3u8 ::LISTNAME:[COLOR white][B]1.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.207.198/live/n1/chunks.m3u8 ::LISTNAME:[COLOR white][B]2.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.207.198/live/n1/playlist.m3u8 ::LISTNAME:[COLOR white][B]3.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.207.198/live/n1/chunks.m3u8 ::LISTNAME:[COLOR white][B]4.NBC GOLD 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.207.198/live/arsenal/playlist.m3u8 ::LISTNAME:[COLOR white][B]1.NBC GOLD 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.207.198/live/arsenal/chunks.m3u8 ::LISTNAME:[COLOR white][B]2.NBC GOLD 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.207.198/live/arsenal/playlist.m3u8 ::LISTNAME:[COLOR white][B]3.NBC GOLD 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.207.198/live/arsenal/chunks.m3u8 ::LISTNAME:[COLOR white][B]4.NBC GOLD 1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://103.194.171.4/live/S-5/playlist.m3u8 ::LISTNAME:[COLOR red][B]SuperSprt 6 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/NFL-1/chunks.m3u8 ::LISTNAME:[COLOR red][B]SuperSprt 6 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/S-5/playlist.m3u8 ::LISTNAME:[COLOR red][B]SuperSprt 6 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/NFL-1/chunks.m3u8 ::LISTNAME:[COLOR red][B]SuperSprt 6 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-2/playlist.m3u8 ::LISTNAME:[COLOR red][B]SuperSprt RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-2/chunks.m3u8 ::LISTNAME:[COLOR red][B]SuperSprt RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls/NFL-1/playlist.m3u8 ::LISTNAME:[COLOR red][B]SuperSprt RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls/NFL-1/chunks.m3u8 ::LISTNAME:[COLOR red][B]SuperSprt RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
 <fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]AFC Bournemouth vs Burnley[/B][/COLOR] [COLOR orange][B]NBC.Gold.720p1[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]AFC Bournemouth vs Arsenal[/B][/COLOR] [COLOR orange][B]NBC.Gold.720p1[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://textuploader.com/1oj1v/raw</externallink>weak
 <thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
@@ -187,44 +202,44 @@ sublink:LISTSOURCE:http://103.194.171.52:1935/hls/NFL-1/chunks.m3u8 ::LISTNAME:[
 </item>
 
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]AFC Bournemouth vs Burnley[/B][/COLOR] [COLOR orange][B]NBC.Gold.720p2[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]AFC Bournemouth vs Arsenal[/B][/COLOR] [COLOR orange][B]SuperSprt3.720p[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1onp2/raw</externallink>C7
+<externallink>https://textuploader.com/1d1or/raw</externallink>mnl
 <thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
 <fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]AFC Bournemouth vs Burnley[/B][/COLOR] [COLOR orange][B]SuperSprt6.720p[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]AFC Bournemouth vs Arsenal[/B][/COLOR] [COLOR orange][B]NBC.Gold.720p2[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1oft4/raw</externallink>mnl
+<externallink>https://textuploader.com/1onp2/raw</externallink>c7
 <thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
 <fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Aston Villa vs Southampton[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Aston Villa vs Norwich City[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls4/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls4/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls4/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://34.102.207.198/live/n2/playlist.m3u8 ::LISTNAME:[COLOR white][B]1.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.207.198/live/n2/chunks.m3u8 ::LISTNAME:[COLOR white][B]2.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.207.198/live/n2/playlist.m3u8 ::LISTNAME:[COLOR white][B]3.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.207.198/live/n2/chunks.m3u8 ::LISTNAME:[COLOR white][B]4.NBC GOLD 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.207.198/live/norwich/playlist.m3u8 ::LISTNAME:[COLOR white][B]1.NBC GOLD 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.207.198/live/norwich/chunks.m3u8 ::LISTNAME:[COLOR white][B]2.NBC GOLD 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.207.198/live/norwich/playlist.m3u8 ::LISTNAME:[COLOR white][B]3.NBC GOLD 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.207.198/live/norwich/chunks.m3u8 ::LISTNAME:[COLOR white][B]4.NBC GOLD 1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://103.194.171.4/live/S-6/playlist.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/NFL/chunks.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/S-6/playlist.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/NFL/chunks.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-3/playlist.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-3/chunks.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls//chunks.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls//chunks.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
 <fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Aston Villa vs Southampton[/B][/COLOR] [COLOR orange][B]NBC.Gold.720p1[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Aston Villa vs Norwich City[/B][/COLOR] [COLOR orange][B]NBC.Gold.720p1[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://textuploader.com/1oj17/raw</externallink>weak
 <thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
@@ -232,44 +247,44 @@ sublink:LISTSOURCE:http://103.194.171.52:1935/hls/NFL/chunks.m3u8 ::LISTNAME:[CO
 </item>
 
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Aston Villa vs Southampton[/B][/COLOR] [COLOR orange][B]NBC.Gold.720p2[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Aston Villa vs Norwich City[/B][/COLOR] [COLOR orange][B]SuperSprt5.720p[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1onpv/raw</externallink>weak
+<externallink>https://textuploader.com/1onin/raw</externallink>mnl
 <thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
 <fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Aston Villa vs Southampton[/B][/COLOR] [COLOR orange][B]SuperSprt4.720p[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Aston Villa vs Norwich City[/B][/COLOR] [COLOR orange][B]NBC.Gold.720p[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1ofr1/raw</externallink>mnl
+<externallink>/raw</externallink>weak
 <thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
 <fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Brighton & Hove Albion vs Sheffield United[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Crystal Palace vs West Ham United[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls5/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls5/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls5/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://34.102.207.198/live/n3/playlist.m3u8 ::LISTNAME:[COLOR white][B]1.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.207.198/live/n3/chunks.m3u8 ::LISTNAME:[COLOR white][B]2.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.207.198/live/n3/playlist.m3u8 ::LISTNAME:[COLOR white][B]3.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.207.198/live/n3/chunks.m3u8 ::LISTNAME:[COLOR white][B]4.NBC GOLD 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.207.198/live/westham/playlist.m3u8 ::LISTNAME:[COLOR white][B]1.NBC GOLD 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.207.198/live/westham/chunks.m3u8 ::LISTNAME:[COLOR white][B]2.NBC GOLD 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.207.198/live/westham/playlist.m3u8 ::LISTNAME:[COLOR white][B]3.NBC GOLD 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.207.198/live/westham/chunks.m3u8 ::LISTNAME:[COLOR white][B]4.NBC GOLD 1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://103.194.171.4/live/S-7/playlist.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/NFL-2/chunks.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/S-7/playlist.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/NFL-2/chunks.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-4/playlist.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-4/chunks.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls//playlist.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls//chunks.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
 <fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Brighton vs Sheffield[/B][/COLOR] [COLOR orange][B]NBC.Gold.720p1[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Crystal Palace vs West Ham[/B][/COLOR] [COLOR orange][B]NBC.Gold.720p1[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://textuploader.com/1oj1p/raw</externallink>weak
 <thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
@@ -277,44 +292,44 @@ sublink:LISTSOURCE:http://103.194.171.52:1935/hls/NFL-2/chunks.m3u8 ::LISTNAME:[
 </item>
 
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Brighton vs Sheffield[/B][/COLOR] [COLOR orange][B]NBC.Gold.720p2[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Crystal Palace vs West Ham[/B][/COLOR] [COLOR orange][B]SuperSprt 6.720p[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1oj1p/raw</externallink>c7
+<externallink>https://textuploader.com/11xs6/raw</externallink>mnl
 <thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
 <fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Brighton vs Sheffield[/B][/COLOR] [COLOR orange][B]SuperSprt.720p[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Crystal Palace vs West Ham[/B][/COLOR] [COLOR orange][B]NBC.Gold.720p[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1onpn/raw</externallink>mnl
+<externallink>/raw</externallink>c7
 <thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
 <fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Newcastle United vs Crystal Palace[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Everton vs Burnley[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls6/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls6/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls6/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://34.102.207.198/live/n4/playlist.m3u8 ::LISTNAME:[COLOR white][B]1.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.207.198/live/n4/chunks.m3u8 ::LISTNAME:[COLOR white][B]2.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.207.198/live/n4/playlist.m3u8 ::LISTNAME:[COLOR white][B]3.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.207.198/live/n4/chunks.m3u8 ::LISTNAME:[COLOR white][B]4.NBC GOLD 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.207.198/live/burnley/playlist.m3u8 ::LISTNAME:[COLOR white][B]1.NBC GOLD 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.207.198/live/burnley/chunks.m3u8 ::LISTNAME:[COLOR white][B]2.NBC GOLD 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.207.198/live/burnley/playlist.m3u8 ::LISTNAME:[COLOR white][B]3.NBC GOLD 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.207.198/live/burnley/chunks.m3u8 ::LISTNAME:[COLOR white][B]4.NBC GOLD 1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://103.194.171.4/live/S-8/playlist.m3u8 ::LISTNAME:[COLOR red][B]SuperSprt 3 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/BOX/chunks.m3u8 ::LISTNAME:[COLOR red][B]SuperSprt 3 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/S-8/playlist.m3u8 ::LISTNAME:[COLOR red][B]SuperSprt 3 RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.52:1935/hls/BOX/chunks.m3u8 ::LISTNAME:[COLOR red][B]SuperSprt 3 RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-5/playlist.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-5/chunks.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls//playlist.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.52:1935/hls//chunks.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
 <fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Newcastle United vs Crystal Palace[/B][/COLOR] [COLOR orange][B]NBC.Gold.720p1[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Everton vs Burnley[/B][/COLOR] [COLOR orange][B]NBC.Gold.720p1[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://textuploader.com/1oj1u/raw</externallink>weak
 <thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
@@ -322,44 +337,44 @@ sublink:LISTSOURCE:http://103.194.171.52:1935/hls/BOX/chunks.m3u8 ::LISTNAME:[CO
 </item>
 
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Newcastle United vs Crystal Palace[/B][/COLOR] [COLOR orange][B]NBC.Gold.720p2[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Everton vs Burnley[/B][/COLOR] [COLOR orange][B]SuperSprt 8.720p[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1onpb/raw</externallink>mnl
+<externallink>https://textuploader.com/1onpj/raw</externallink>mnl
 <thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
 <fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Newcastle United vs Crystal Palace[/B][/COLOR] [COLOR orange][B]beIN Sports HD 11.720p[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Everton vs Burnley[/B][/COLOR] [COLOR orange][B]NBC.Gold.720p2[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/114hc/raw</externallink>mnl
+<externallink>/raw</externallink>c7
 <thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
 <fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
 </item>
-<!--
+
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Watford vs Burnley[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Sheffield United vs Watford[/B][/COLOR]</title>
 <link>
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls7/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls7/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls7/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls/live.m3u8 ::LISTNAME:[COLOR blue][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://34.102.207.198/live/g5/playlist.m3u8 ::LISTNAME:[COLOR white][B]1.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.207.198/live/g5/chunks.m3u8 ::LISTNAME:[COLOR white][B]2.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.207.198/live/g5/playlist.m3u8 ::LISTNAME:[COLOR white][B]3.NBC GOLD 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://34.102.207.198/live/g5/chunks.m3u8 ::LISTNAME:[COLOR white][B]4.NBC GOLD 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.207.198/live/watford/playlist.m3u8 ::LISTNAME:[COLOR white][B]1.NBC GOLD 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.207.198/live/watford/chunks.m3u8 ::LISTNAME:[COLOR white][B]2.NBC GOLD 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.207.198/live/watford/playlist.m3u8 ::LISTNAME:[COLOR white][B]3.NBC GOLD 1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://34.102.207.198/live/watford/chunks.m3u8 ::LISTNAME:[COLOR white][B]4.NBC GOLD 1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://103.194.171.4/live/h9/playlist.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/h9/chunks.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/h9/playlist.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://103.194.171.4/live/h9/chunks.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-6/playlist.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:http://103.194.171.4/live/S-6/chunks.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:/playlist.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:/chunks.m3u8 ::LISTNAME:[COLOR red][B]DAZN RESOLUTION=1280x720p[/B][/COLOR]::#
 </link>
 <thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
 <fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Watford vs Burnley[/B][/COLOR] [COLOR orange][B]NBC.Gold.720p[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Sheffield United vs Watford[/B][/COLOR] [COLOR orange][B]NBC.Gold.720p[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://textuploader.com/1oj1x/raw</externallink>weak
 <thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
@@ -367,15 +382,23 @@ sublink:LISTSOURCE:http://103.194.171.4/live/h9/chunks.m3u8 ::LISTNAME:[COLOR re
 </item>
 
 <item>
-<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Watford vs Burnley[/B][/COLOR] [COLOR orange][B]beIN Sports HD 13.720p[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Sheffield United vs Watford[/B][/COLOR] [COLOR orange][B]SuperSprt 11.720p[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://textuploader.com/1oj1d/raw</externallink>mnl
+<externallink>https://textuploader.com/114hc/raw</externallink>mnl
 <thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
 <fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
 </item>
-<!--
+
 <item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Manchester City vs Leicester City[/B][/COLOR]</title>
+<title>[COLOR lime][B]17:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Sheffield United vs Watford[/B][/COLOR] [COLOR orange][B].720p[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>/raw</externallink>c7
+<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
+<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Man United vs Newcastle[/B][/COLOR]</title>
 <link>
 sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR blue][B]NBC RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://hvo1.yzachu.xyz/hls2/live.m3u8 ::LISTNAME:[COLOR blue][B]NBC RESOLUTION=1280x720p[/B][/COLOR]::#
@@ -397,7 +420,7 @@ sublink:LISTSOURCE:http://103.194.171.4/live/S-4/chunks.m3u8 ::LISTNAME:[COLOR r
 </item>
 
 <item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Man City vs Leicester City[/B][/COLOR] [COLOR orange][B]Sky Sports Main Event.720p1[/B][/COLOR]</title>
+<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Man United vs Newcastle[/B][/COLOR] [COLOR orange][B]Sky Sports Main Event.720p1[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://textuploader.com/1rora/raw</externallink>weak
 <thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
@@ -405,7 +428,7 @@ sublink:LISTSOURCE:http://103.194.171.4/live/S-4/chunks.m3u8 ::LISTNAME:[COLOR r
 </item>
 
 <item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Man City vs Leicester City[/B][/COLOR] [COLOR orange][B]NBC.720p[/B][/COLOR]</title>
+<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Man United vs Newcastle[/B][/COLOR] [COLOR orange][B]NBC.720p[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://textuploader.com/1ojol/raw</externallink>weak
 <thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
@@ -413,7 +436,7 @@ sublink:LISTSOURCE:http://103.194.171.4/live/S-4/chunks.m3u8 ::LISTNAME:[COLOR r
 </item>
 
 <item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Man City vs Leicester City[/B][/COLOR] [COLOR orange][B]Sky Sports Main Event.720p2[/B][/COLOR]</title>
+<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Man United vs Newcastle[/B][/COLOR] [COLOR orange][B]Sky Sports Main Event.720p2[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://textuploader.com/1d01n/raw</externallink>mnlive
 <thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
@@ -421,7 +444,7 @@ sublink:LISTSOURCE:http://103.194.171.4/live/S-4/chunks.m3u8 ::LISTNAME:[COLOR r
 </item>
 
 <item>
-<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Man City vs Leicester City[/B][/COLOR] [COLOR orange][B]Sky Sports Main Event.720p3[/B][/COLOR]</title>
+<title>[COLOR lime][B]19:30[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Man United vs Newcastle[/B][/COLOR] [COLOR orange][B]Sky Sports Main Event.720p3[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://textuploader.com/1ojoz/raw</externallink>mnl
 <thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
