@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layouttype>thumbnail</layouttype>
+
+<item>
+<title>[COLOR aqua][B]FOR REQUEST [/B][/COLOR] [COLOR gold][B]@mullafabz[/B][/COLOR]</title>
+<folder>http://mullafabz.xyz/HOST/LiveTV/Replays/nba.xml</folder>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR aqua][B]ONLY RECENT EVENTS [/B][/COLOR]</title>
+<folder>http://mullafabz.xyz/HOST/LiveTV/Replays/nba.xml</folder>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]=====================================================[/B][/COLOR]</title>
+<folder>http://mullafabz.xyz/HOST/LiveTV/R</folder>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orange][B]~[/B][/COLOR][COLOR yellow][B]Like to say thanks?[/B][/COLOR] [COLOR white][B]https://paypal.me/taylormulla[/B][/COLOR][COLOR orange][B]~[/B][/COLOR]</title>
+<folder>http://bit.ly</folder>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]S[/B][/COLOR][COLOR white][B]OCCER[/B][/COLOR][COLOR orange][B](on request only)[/B][/COLOR]</title>
+<folder>https://raw.githubusercontent.com/mullafabz/Live/master/soccer.xml</folder>http://bit.ly/SOCCEREPLAYER
+<thumbnail>https://i.imgur.com/ejWMjZ3.jpg</thumbnail>
+<fanart>https://i.imgur.com/YzRbKe6.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]N[/B][/COLOR][COLOR white][B]BA[/B][/COLOR]</title>
+<folder>http://bit.ly/NBAREPLAYER</folder>
+<thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
+<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]N[/B][/COLOR][COLOR white][B]HL[/B][/COLOR]</title>
+<folder>http://bit.ly/NHLREPLAYER</folder>
+<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]N[/B][/COLOR][COLOR white][B]FL[/B][/COLOR]</title>
+<folder>http://bit.ly/NFLREPLAYER</folder>
+<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
+<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]M[/B][/COLOR][COLOR white][B]LB[/B][/COLOR]</title>
+<folder>http://bit.ly/MLBREPLAYER</folder>
+<thumbnail>https://i.imgur.com/HqfxlgW.png</thumbnail>
+<fanart>https://i.imgur.com/8c3zboa.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green][B]U[/B][/COLOR][COLOR white][B]FC[/B][/COLOR]/[COLOR green][B]M[/B][/COLOR][COLOR white][B]MA[/B][/COLOR]</title>
+<folder>http://bit.ly/UFCMMAREPLAYER</folder>
+<thumbnail>https://i.imgur.com/7jiwajh.jpg</thumbnail>
+<fanart>https://i.imgur.com/cuHToI8.png</fanart>
+</item>
+
+<item>
+<title>[COLOR green][B]B[/B][/COLOR][COLOR white][B]OXING[/B][/COLOR]</title>
+<folder>http://bit.ly/BOXINGREPLAYER</folder>
+<thumbnail>https://i.imgur.com/LIHGP14.jpg</thumbnail>
+<fanart>https://i.imgur.com/AQt5pwd.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]O[/B][/COLOR][COLOR white][B]THERS[/B][/COLOR]</title>
+<folder>http://bit.ly/OTHERSREPLAYER</folder>
+<thumbnail>https://i.imgur.com/ZyInUWb.png</thumbnail>
+<fanart>https://i.imgur.com/d5S3ZhB.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]T[/B][/COLOR][COLOR white][B]esting[/B][/COLOR]</title>
+<folder>http://bit.ly/TESTINZZZZ1</folder>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
