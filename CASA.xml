@@ -27,20 +27,20 @@
 </channel>
 -->
 <channel>
-<name>[COLOR pink][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR] [COLOR red][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR]</name>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
-<externallink>https://mullafabz.xyz/HOST/LiveTV/sportsstreamz.xml</externallink>http://bit.ly/FOOTYSTRMZ1,https://fabzmulla.xyz/HOST/LiveTV/sportsstreamz.xml,http://bit.ly/FOOTYSTRMZ
-<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
-<info></info>
-</channel>
-
-<channel>
 <name>[COLOR pink][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR] [COLOR red][B]P[/B][/COLOR][COLOR white][B]PV[/B][/COLOR] [COLOR pink][B]E[/B][/COLOR][COLOR white][B]vents[/B][/COLOR]</name>
 <thumbnail>http://mullafabz.xyz/HOST/Icons/ppvnew.jpg</thumbnail>
 <externallink>http://bit.ly/PPVXMLZ</externallink>http://bit.ly/PPVXMLZ1,https://fabzmulla.xyz/HOST/LiveTV/PPV.xml
 <fanart>https://cleeng.com/blog/wp-content/uploads/2017/02/Live-PPV-piracy-e1487848574731.jpg</fanart>
 </channel>
-
+ 
+<channel>
+<name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR]</name>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
+<externallink>https://mullafabz.xyz/HOST/LiveTV/sportsstreamz.xml</externallink>
+<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
+<info></info>
+</channel>
+http://bit.ly/FOOTYSTRMZ1,https://fabzmulla.xyz/HOST/LiveTV/sportsstreamz.xml,http://bit.ly/FOOTYSTRMZ
 <channel>
 <name>[COLOR pink][B]M[/B][/COLOR][COLOR white][B]ore[/B][/COLOR] [COLOR red][B]S[/B][/COLOR][COLOR white][B]ports[/B][/COLOR] [COLOR red][B]E[/B][/COLOR][COLOR white][B]vents[/B][/COLOR]</name>
 <thumbnail>http://mullafabz.xyz/HOST/Icons/moresportsevents.png</thumbnail>
