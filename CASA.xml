@@ -47,6 +47,14 @@ http://bit.ly/FOOTYSTRMZ1,https://fabzmulla.xyz/HOST/LiveTV/sportsstreamz.xml,ht
 <externallink>http://bit.ly/REQUESTSZZ</externallink>http://bit.ly/REQUESTSZZ1,https://fabzmulla.xyz/HOST/LiveTV/requests.xml
 <fanart>https://i.imgur.com/AWutrFY.jpg</fanart>
 </channel>
+ 
+<channel>
+<name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR] Backup</name>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
+<externallink>https://mullafabz.xyz/HOST/LiveTV/sportsstreamz1.xml</externallink>
+<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
+<info></info>
+</channel>
 
 <channel>
 <name>[COLOR pink][B]T[/B][/COLOR][COLOR white][B]est[/B][/COLOR] [COLOR pink][B]A[/B][/COLOR][COLOR white][B]rea[/B][/COLOR]</name>
