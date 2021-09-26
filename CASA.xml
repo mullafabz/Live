@@ -17,14 +17,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </channel>
- 
-<channel>
-<name>[COLOR pink][B]Football[/B][/COLOR] [COLOR red][B]Section Live[/B][/COLOR] Backup</name>
-<thumbnail></thumbnail>
-<externallink>https://mullafabz.xyz/HOST/LiveTV/footyback.txt</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
 <!--
 <channel>
 <name>[COLOR pink][B]S[/B][/COLOR][COLOR white][B]ports[/B][/COLOR] [COLOR red][B]C[/B][/COLOR][COLOR white][B]hannels[/B][/COLOR]</name>
@@ -38,14 +30,6 @@
 <name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR]</name>
 <thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
 <externallink>https://mullafabz.xyz/HOST/LiveTV/sportsstreamz.xml</externallink>http://bit.ly/FOOTYSTRMZ1,https://fabzmulla.xyz/HOST/LiveTV/sportsstreamz.xml,http://bit.ly/FOOTYSTRMZ
-<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
-<info></info>
-</channel>
- 
-<channel>
-<name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR]</name>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
-<externallink>https://paste.in/raw/eRXtPy</externallink>http://bit.ly/FOOTYSTRMZ1,https://fabzmulla.xyz/HOST/LiveTV/sportsstreamz.xml,http://bit.ly/FOOTYSTRMZ
 <fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 <info></info>
 </channel>
