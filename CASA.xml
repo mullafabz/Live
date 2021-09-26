@@ -17,6 +17,14 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </channel>
+ 
+<channel>
+<name>[COLOR pink][B]Football[/B][/COLOR] [COLOR red][B]Section Live[/B][/COLOR] Backup</name>
+<thumbnail></thumbnail>
+<externallink>https://mullafabz.xyz/HOST/LiveTV/footyback.xml</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
 <!--
 <channel>
 <name>[COLOR pink][B]S[/B][/COLOR][COLOR white][B]ports[/B][/COLOR] [COLOR red][B]C[/B][/COLOR][COLOR white][B]hannels[/B][/COLOR]</name>
