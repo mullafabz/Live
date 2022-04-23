@@ -1,0 +1,1454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layouttype>WideList</layouttype>
+
+<item>
+<title>[COLOR red][B]I[/B][/COLOR][COLOR white][B]F EVENT NOT DISPLAYED HERE,[/B][/COLOR]</title>
+<link>.</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]T[/B][/COLOR][COLOR white][B]WEET ME [/B][/COLOR][COLOR lime][B]@mullafabz[/B][/COLOR]</title>
+<link>.</link>  
+<thumbnail></thumbnail>
+<fanart></fanart> 
+</item>
+
+<item>
+<title>[COLOR purple][B]~[/B][/COLOR][COLOR yellow][B]For supporting server costs[/B][/COLOR]:</title>
+<link>http://www.google.com</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR turquoise][B]https://paypal.me/[/B][/COLOR][COLOR lime][B]taylormulla[/B][/COLOR][COLOR purple][B]~[/B][/COLOR]</title>
+<link>http://www.google.com</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>  </title>
+<link>http://www.google.com</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]===========>[/B][/COLOR][COLOR gold][B]LIVE[/B][/COLOR][COLOR white][B]<================[/B][/COLOR]</title>
+<link>http</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<!--
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]Early Prelims[/B][/COLOR] [COLOR orange][B]FightPass.MultiRate1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://bit.ly/UFCEarlyPrelims</externallink>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]Early Prelims[/B][/COLOR] [COLOR orange][B]ESPN+.MultiRate[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://bit.ly/ESPNPLUS222</externallink>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]Early Prelims[/B][/COLOR] [COLOR orange][B]FightPass.MultiRate2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://bit.ly/UFC260EarlyPrelims2</externallink>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]Early Prelims[/B][/COLOR] [COLOR orange][B]FightPass.MultiRate3[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://bit.ly/UFC270EarlyPrelims3</externallink>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]Early Prelims[/B][/COLOR] [COLOR orange][B]FightPass.MultiRate4[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://bit.ly/UFC270EarlyPrelims4</externallink>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]Prelims[/B][/COLOR] [COLOR orange][B]FightPass.MultiRate1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://bit.ly/UFCESPNPrelims</externallink>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]Prelims[/B][/COLOR] [COLOR orange][B]ESPN+.MultiRate[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://bit.ly/ESPNPLUS222</externallink>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]Prelims[/B][/COLOR] [COLOR orange][B]FightPass.MultiRate2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://bit.ly/UFCESPNPrelims2</externallink>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]Prelims[/B][/COLOR] [COLOR orange][B]FightPass.MultiRate3[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://bit.ly/UFCESPNPrelims3</externallink>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]Prelims[/B][/COLOR] [COLOR orange][B]FightPass.MultiRate4[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://bit.ly/UFCESPNPrelims4</externallink>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]Main Card[/B][/COLOR] [COLOR orange][B]FightPass.MultiRate1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://bit.ly/UFCMIANCARD</externallink>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]Main Card[/B][/COLOR] [COLOR orange][B]ESPN+.MultiRate[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://bit.ly/ESPNPLUS222</externallink>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]Main Card[/B][/COLOR] [COLOR orange][B]FightPass.MultiRate2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://bit.ly/UFCMIANCARD1</externallink>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]Main Card[/B][/COLOR] [COLOR orange][B]FightPass.MultiRate3[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://bit.ly/UFCMIANCARD2</externallink>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]Main Card[/B][/COLOR] [COLOR orange][B]FightPass.MultiRate4[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://bit.ly/UFCMIANCARD3</externallink>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]All Rounds[/B][/COLOR] [COLOR orange][B]UFC ESPN.720p[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/NUFC/19.txt</externallink>buff
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]All Rounds[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://runid.xyz/t2.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*png.*?)[",']</expres>
+<page>http://runid.xyz/t2.php</page>
+<referer>http://runid.xyz/t2.php</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]All Rounds[/B][/COLOR] [COLOR orange][B]FightPass.1080p[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://givemenbastreams.com/nba.php?g=ufcstream</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://givemenbastreams.com/nba.php?g=ufcstream</page>
+<referer>http://givemenbastreams.com/nba.php?g=ufcstream</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item> 
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]All Rounds[/B][/COLOR] [COLOR orange][B]FightPass.MultiRate1[/B][/COLOR]</title>
+<link>https://lokjjhyjkoufc.s3.eu-central-1.amazonaws.com/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://dubznetwork.com/game/soccer2/getafe-vs-real-madrid-2jan/</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item> 
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]All Rounds[/B][/COLOR] [COLOR orange][B]FightPass.MultiRate2[/B][/COLOR]</title>
+<link>https://lokjjhyjkoufc.s3.eu-central-1.amazonaws.com/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://www.sportsguild.net/manchester15jan.php</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item> 
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]All Rounds[/B][/COLOR] [COLOR orange][B]FightPass.1[/B][/COLOR]</title>
+<link>http://skiiwsppwll.azureedge.net/live/MMA/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/serie-a/milan-vs-udinese/53971/</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item> 
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]All Rounds[/B][/COLOR] [COLOR orange][B]FightPass.2[/B][/COLOR]</title>
+<link>http://skiiwsppwll.azureedge.net/live/MMA/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/serie-a/milan-vs-udinese/53971/</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item> 
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]All Rounds[/B][/COLOR] [COLOR orange][B]FightPass.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://hockeyweb.live/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://hockeyweb.live/daily/news/ufc273/</page>
+<referer>http://hockeyweb.live/</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]All Rounds[/B][/COLOR] [COLOR orange][B]FightPass.p1[/B][/COLOR]</title>
+<link>https://nflarcadia.xyz/hls/m1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/67.0&Referer=https://gamerarcades.com/assets/tm1.html</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]All Rounds[/B][/COLOR] [COLOR orange][B]FightPass.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://markkystreams.com/video/ufc/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://markkystreams.com/video/ufc/</page>
+<referer>http://markkystreams.com/video/ufc/</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]All Rounds[/B][/COLOR] [COLOR orange][B]FightPass.720p3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://motornews.live/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://motornews.live/novo/events/ufc-273/</page>
+<referer>http://motornews.live/</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item> 
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]All Rounds[/B][/COLOR] [COLOR orange][B]FightPass.720p4[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://crackstreams.biz/watch/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://crackstreams.biz/watch/15366</page>
+<referer>http://crackstreams.biz/watch/</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]All Rounds[/B][/COLOR] [COLOR orange][B]FightPass.p2[/B][/COLOR]</title>
+<link>https://reels2watch.com/hls/m1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0&Referer=https://techoreels.com/2021/u1/?sport=mma</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]All Rounds[/B][/COLOR] [COLOR orange][B]FighPass.720p5[/B][/COLOR]</title>
+<link>https://z.seast.se/eas/ufc1z/strmrdr.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0&Referer=https://www.streameast.live/ufc/ufc-272-covington-vs-masvidal/</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]All Rounds[/B][/COLOR] [COLOR orange][B]BT Sp0rt 1 HD.1080p3[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/NUFC/15.txt</externallink>ladn
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]All Rounds[/B][/COLOR] [COLOR orange][B]FightPass.720p6[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://bestsolaris.com</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://bestsolaris.com/mmastreams/ufc-272-covington-vs-masvidal/</page>
+<referer>http://bestsolaris.com</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]All Rounds[/B][/COLOR] [COLOR orange][B]FightPass.720p7[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://markkystreams.com/video/mma/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://markkystreams.com/video/ufc/</page>
+<referer>http://markkystreams.com/video/mma/</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]All Rounds[/B][/COLOR] [COLOR orange][B]FightPass.Multi1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://sportnews.to/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source =.*[",'](.*m3u8.*?)[",']</expres>
+<page>https://sportnews.to/sports/2022/ufc-271-adesanya-vs-whittaker-s1/</page>
+<referer>https://sportnews.to/</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]All Rounds[/B][/COLOR] [COLOR orange][B]FightPass.Multi2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://sportnews.to/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source =.*[",'](.*m3u8.*?)[",']</expres>
+<page>https://sportnews.to/total/sports/2022/ufc-271-adesanya-vs-whittaker-s1/</page>
+<referer>https://sportnews.to/</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]All Rounds[/B][/COLOR] [COLOR orange][B]FightPass.1080p[/B][/COLOR]</title>
+<link>http://ufc7.ufckhabib.com:8080/hls/ufc271/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://ufckhabib.com/fight/ufc.php</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]All Rounds[/B][/COLOR] [COLOR orange][B]FightPass.Multi1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://alexsports.xyz/hd/live1.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://alexsports.xyz/hd/live1.php</page>
+<referer>http://alexsports.xyz/hd/live1.php</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]All Rounds[/B][/COLOR] [COLOR orange][B]ESPN+.720p6[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/NUFC/13.txt</externallink>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]All Rounds[/B][/COLOR] [COLOR orange][B]FightPass.720p8[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/NUFC/17.txt</externallink>cricworld
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold][B]UFC[/B][/COLOR] [COLOR lime][B]FIGHT[/B][/COLOR] [COLOR pink][B]NIGHT[/B][/COLOR]:[COLOR white][B]All Rounds[/B][/COLOR] [COLOR orange][B]FightPass.720p7[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/NUFC/9.txt</externallink>nbatvsport
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Official_poster_for_Luque_vs_Belal.jpg</thumbnail>
+<fanart>https://firstsportz.com/wp-content/uploads/2022/04/Vicente-Luque-vs-Belal-Muhammad-2.jpg</fanart>
+</item>
+
+<item>
+<title> </title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/NUFC2.txt</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<!--
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Lubin vs Fundora[/B][/COLOR] [COLOR orange][B]SHO.MultiRate[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://givemenbastreams.com/nba.php?g=boxing</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://givemenbastreams.com/nba.php?g=boxing</page>
+<referer>http://givemenbastreams.com/nba.php?g=boxing</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Lubin vs Fundora[/B][/COLOR] [COLOR orange][B]SHO.1[/B][/COLOR]</title>
+<link>http://skiiwsppwll.azureedge.net/live/BX2/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/serie-a/milan-vs-udinese/53971/</link>
+<thumbnail>AmirKhanKellBrook-1.jpg</thumbnail>
+<fanart>unnamed.0.png</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Lubin vs Fundora[/B][/COLOR] [COLOR orange][B]SHO.2[/B][/COLOR]</title>
+<link>http://skiiwsppwll.azureedge.net/live/BX2/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/serie-a/milan-vs-udinese/53971/</link>
+<thumbnail>AmirKhanKellBrook-1.jpg</thumbnail>
+<fanart>unnamed.0.png</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Lubin vs Fundora[/B][/COLOR] [COLOR orange][B]SHO.MULTIRATES[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://bit.ly/NUFC2ESPNPLUS</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Lubin vs Fundora[/B][/COLOR] [COLOR orange][B]SHO[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://givemenbastreams.com/nba.php?g=allstar2021</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://givemenbastreams.com/nba.php?g=allstar2021</page>
+<referer>http://givemenbastreams.com/nba.php?g=allstar2021</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<!--
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Lubin vs Fundora[/B][/COLOR] [COLOR orange][B]SHO.Multi1[/B][/COLOR]</title>
+<link>https://lemnhbs.s3.eu-west-1.amazonaws.com/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://dubznetwork.com/meet/boxing2/boxing-amir-khan-vs-kell-brook-19feb/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Lubin vs Fundora[/B][/COLOR] [COLOR orange][B]SHOW.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://hockeyweb.live/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://hockeyweb.live/daily/news/box-lubin/</page>
+<referer>http://hockeyweb.live/</referer>
+</regex>
+<thumbnail>AmirKhanKellBrook-1.jpg</thumbnail>
+<fanart>unnamed.0.png</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Lubin vs Fundora[/B][/COLOR] [COLOR orange][B]SHO.Multi2[/B][/COLOR]</title>
+<link>https://jhgfddfg.s3.eu-west-1.amazonaws.com/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://www.sportsguild.net/manchester15jan.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Lubin vs Fundora[/B][/COLOR] [COLOR orange][B]SHO.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://bestsolaris.com</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://bestsolaris.com/boxingstreams/erickson-lubin-vs-sebastian-fundora/</page>
+<referer>http://bestsolaris.com</referer>
+</regex>
+<thumbnail>AmirKhanKellBrook-1.jpg</thumbnail>
+<fanart>unnamed.0.png</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Lubin vs Fundora[/B][/COLOR] [COLOR orange][B]SHO.1080p2[/B][/COLOR]</title>
+<link>https://dcisiz1qfkk6q.cloudfront.net/stream/MzAyNQ==/MzAyNQ==.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://1stream.top/soccer/MjExNjQ0NjI3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Lubin vs Fundora[/B][/COLOR] [COLOR orange][B]SHO.p1[/B][/COLOR]</title>
+<link>https://reels2watch.com/hls/b3.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=https://techoreels.com/8226/f2/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Lubin vs Fundora[/B][/COLOR] [COLOR orange][B]SHO.720p3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://motornews.live</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://motornews.live/novo/events/box-lubin/</page>
+<referer>http://motornews.live</referer>
+</regex>
+<thumbnail>AmirKhanKellBrook-1.jpg</thumbnail>
+<fanart>unnamed.0.png</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Lubin vs Fundora[/B][/COLOR] [COLOR orange][B]SHO.p2[/B][/COLOR]</title>
+<link>https://reels2watch.com/hls/b3.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0&Referer=https://techoreels.com/49206/f1/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Lubin vs Fundora[/B][/COLOR] [COLOR orange][B]SHO.720p5[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://crackstreams.biz/watch</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://crackstreams.biz/watch/15372</page>
+<referer>http://crackstreams.biz/watch</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<!--
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Lubin vs Fundora[/B][/COLOR] [COLOR orange][B]SHO.1080p4[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/NUFC2/0.txt</externallink>ladns
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Lubin vs Fundora[/B][/COLOR] [COLOR orange][B]SHO.720p4[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://markkystreams.com/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://markkystreams.com/video/boxing-2/</page>
+<referer>http://markkystreams.com/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<!--
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Lubin vs Fundora[/B][/COLOR] [COLOR orange][B]SHO.720p4[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/Test/1.txt</externallink>ufckhabib
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Lubin vs Fundora[/B][/COLOR] [COLOR orange][B]SHO.MultiRate1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://sportnews.to</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://sportnews.to/sports/2022/boxing-eubank-jr-v-liam-williams-s4//</page>
+<referer>https://sportnews.to</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Lubin vs Fundora[/B][/COLOR] [COLOR orange][B]SHO.MultiRate2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://sportnews.to</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://sportnews.to/total/sports/2022/boxing-eubank-jr-v-liam-williams-s4//</page>
+<referer>https://sportnews.to</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title> </title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/NUFC2.txt</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<!--
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Benn vs Van Heerden[/B][/COLOR] [COLOR orange][B]DAZN.MultiRate[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://givemenbastreams.com/nba.php?g=boxing</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://givemenbastreams.com/nba.php?g=boxing</page>
+<referer>http://givemenbastreams.com/nba.php?g=boxing</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<!--
+<item>
+<title> </title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/NUFC2.txt</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<!--
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Benn vs Van Heerden[/B][/COLOR] [COLOR orange][B]DAZN.1[/B][/COLOR]</title>
+<link>http://jrtgfbdcvx.azureedge.net/live/BX3/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/serie-a/milan-vs-udinese/53971/</link>
+<thumbnail>AmirKhanKellBrook-1.jpg</thumbnail>
+<fanart>unnamed.0.png</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Benn vs Van Heerden[/B][/COLOR] [COLOR orange][B]DAZN.2[/B][/COLOR]</title>
+<link>http://jrtgfbdcvx.azureedge.net/live/BX3/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/serie-a/milan-vs-udinese/53971/</link>
+<thumbnail>AmirKhanKellBrook-1.jpg</thumbnail>
+<fanart>unnamed.0.png</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Benn vs Van Heerden[/B][/COLOR] [COLOR orange][B]DAZN.MULTIRATES[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://bit.ly/NUFC2ESPNPLUS</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Benn vs Van Heerden[/B][/COLOR] [COLOR orange][B]DAZN[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://givemenbastreams.com/nba.php?g=allstar2021</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://givemenbastreams.com/nba.php?g=allstar2021</page>
+<referer>http://givemenbastreams.com/nba.php?g=allstar2021</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<!--
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Benn vs Van Heerden[/B][/COLOR] [COLOR orange][B]DAZN.Multi1[/B][/COLOR]</title>
+<link>https://lemnhbs.s3.eu-west-1.amazonaws.com/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://dubznetwork.com/meet/boxing2/boxing-amir-khan-vs-kell-brook-19feb/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Benn vs Van Heerden[/B][/COLOR] [COLOR orange][B]DAZNW.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://hockeyweb.live/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://hockeyweb.live/daily/news/boxingjoel/</page>
+<referer>http://hockeyweb.live/</referer>
+</regex>
+<thumbnail>AmirKhanKellBrook-1.jpg</thumbnail>
+<fanart>unnamed.0.png</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Benn vs Van Heerden[/B][/COLOR] [COLOR orange][B]DAZN.Multi2[/B][/COLOR]</title>
+<link>https://jhgfddfg.s3.eu-west-1.amazonaws.com/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://www.sportsguild.net/manchester15jan.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Benn vs Van Heerden[/B][/COLOR] [COLOR orange][B]DAZN.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://bestsolaris.com</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://bestsolaris.com/boxingstreams/joel-diaz-jr-vs-mercito-gesta/</page>
+<referer>http://bestsolaris.com</referer>
+</regex>
+<thumbnail>AmirKhanKellBrook-1.jpg</thumbnail>
+<fanart>unnamed.0.png</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Benn vs Van Heerden[/B][/COLOR] [COLOR orange][B]DAZN.1080p2[/B][/COLOR]</title>
+<link>https://dcisiz1qfkk6q.cloudfront.net/stream/MzAyNQ==/MzAyNQ==.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://1stream.top/soccer/MjExNjQ0NjI3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Benn vs Van Heerden[/B][/COLOR] [COLOR orange][B]DAZN.p1[/B][/COLOR]</title>
+<link>https://reels2watch.com/hls/b1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=https://techoreels.com/8226/f2/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Benn vs Van Heerden[/B][/COLOR] [COLOR orange][B]DAZN.720p3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://motornews.live</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://motornews.live/novo/events/21-oggi-joel/</page>
+<referer>http://motornews.live</referer>
+</regex>
+<thumbnail>AmirKhanKellBrook-1.jpg</thumbnail>
+<fanart>unnamed.0.png</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Benn vs Van Heerden[/B][/COLOR] [COLOR orange][B]DAZN.p2[/B][/COLOR]</title>
+<link>https://reels2watch.com/hls/b1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0&Referer=https://techoreels.com/49206/f1/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Benn vs Van Heerden[/B][/COLOR] [COLOR orange][B]DAZN.720p4[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://crackstreams.biz/watch</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://crackstreams.biz/watch/16512</page>
+<referer>http://crackstreams.biz/watch</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<!--
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Benn vs Van Heerden[/B][/COLOR] [COLOR orange][B]DAZN.1080p4[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/NUFC2/0.txt</externallink>ladns
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Benn vs Van Heerden[/B][/COLOR] [COLOR orange][B]DAZN.720p4[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://markkystreams.com/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://markkystreams.com/video/boxing-3/</page>
+<referer>http://markkystreams.com/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<!--
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Benn vs Van Heerden[/B][/COLOR] [COLOR orange][B]DAZN.720p4[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/Test/1.txt</externallink>ufckhabib
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Benn vs Van Heerden[/B][/COLOR] [COLOR orange][B]DAZN.MultiRate1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://sportnews.to</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://sportnews.to/sports/2022/boxing-eubank-jr-v-liam-williams-s4//</page>
+<referer>https://sportnews.to</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Benn vs Van Heerden[/B][/COLOR] [COLOR orange][B]DAZN.MultiRate2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://sportnews.to</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source = .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://sportnews.to/total/sports/2022/boxing-eubank-jr-v-liam-williams-s4//</page>
+<referer>https://sportnews.to</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<!--
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Tszyu vs Gausha[/B][/COLOR] [COLOR orange][B]Sky Sports Box Office daddy[/B][/COLOR]</title>
+<link>https://cdn.plt.one/cdn/premium28/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0&Referer=https://widevine.licenses4.me/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title> </title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/NUFC2.txt</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+-->
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]BT Sp0rt Box Office.1080p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://givemenbastreams.com/boxing.php?g=boxing</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://givemenbastreams.com/boxing.php?g=boxing</page>
+<referer>http://givemenbastreams.com/boxing.php?g=boxing</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]BT Sp0rt Box Office.1080p2[/B][/COLOR]</title>
+<link>http://d3fux4819m73bb.cloudfront.net/stream/NDAyNw==/NDAyNw==.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://1stream.top/soccer/MjExNjQ0NjI3</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]PPV.1[/B][/COLOR]</title>
+<link>http://tretwfsavd.azureedge.net/live/BX1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/serie-a/milan-vs-udinese/53971/</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]PPV.2[/B][/COLOR]</title>
+<link>http://tretwfsavd.azureedge.net/live/BX1/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/serie-a/milan-vs-udinese/53971/</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]ESPN+.Multi1[/B][/COLOR]</title>
+<link>https://nybtsogfurry.s3.eu-west-1.amazonaws.com/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://dubznetwork.com/meet/boxing2/boxing-amir-khan-vs-kell-brook-19feb/</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]ESPN+.Multi2[/B][/COLOR]</title>
+<link>https://nybtsogfurry.s3.eu-west-1.amazonaws.com/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://www.sportsguild.net/manchester15jan.php</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]ESPN+.MultiRate[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://bit.ly/NUFC2ESPNPLUS</externallink>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+-->
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]BT Sp0rt Box Office.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://hockeyweb.live/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://hockeyweb.live/daily/news/box-fury/</page>
+<referer>http://hockeyweb.live/</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]BT Sp0rt Box Office.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://bestsolaris.com</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://bestsolaris.com/boxingstreams/tyson-fury-vs-dillian-whyte/</page>
+<referer>http://bestsolaris.com</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]Sky Box Office FHD daddy[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>https://player.licenses4.me/player.php?id=premium160&test=true</page>
+<referer>https://player.licenses4.me/</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]Sky Box Office HD daddy[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>https://player.licenses4.me/player.php?id=premium161&test=true</page>
+<referer>https://player.licenses4.me/</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]Sky Box Office SD daddy[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>https://player.licenses4.me/player.php?id=premium162&test=true</page>
+<referer>https://player.licenses4.me/</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]Boxing PPV Feed 1 daddy[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>https://player.licenses4.me/player.php?id=premium201&test=true</page>
+<referer>https://player.licenses4.me/</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]Boxing PPV Feed 2 daddy[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>https://player.licenses4.me/player.php?id=premium163&test=true</page>
+<referer>https://player.licenses4.me/</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]Boxing PPV Feed 3 daddy[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>https://player.licenses4.me/player.php?id=premium164&test=true</page>
+<referer>https://player.licenses4.me/</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]BT Sp0rt Box Office.720p3[/B][/COLOR]</title>
+<link>https://n.seast.se/eas/box1n/strmrdr.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=https://www.streameast.xyz/boxing/tyson-fury-vs-dillian-whyte/1</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]PPV.p1[/B][/COLOR]</title>
+<link>https://nflarcadia.xyz/hls/b1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/67.0&Referer=https://gamerarcades.com/assets/ts5.html</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]BT Sp0rt Box Office.720p4[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://motornews.live</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://motornews.live/novo/events/fury-boxing/</page>
+<referer>http://motornews.live</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]BT Sp0rt Box Office.720p5[/B][/COLOR]</title>
+<link>https://n.seast.se/eas/box1n/naxi/caxi.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=https://www.streameast.xyz/boxing/tyson-fury-vs-dillian-whyte/1</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]PPV.p2[/B][/COLOR]</title>
+<link>https://nflarcadia.xyz/hls/b1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=https://techoreels.com/clip/mf1.html</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]BT Sp0rt Box Office.720p6[/B][/COLOR]</title>
+<link>https://w.seast.se/eas/box1w/strmrdr.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=https://www.streameast.xyz/boxing/tyson-fury-vs-dillian-whyte/1</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]PPV.720p5[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://crackstreams.biz/watch</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://crackstreams.biz/watch/16700</page>
+<referer>http://crackstreams.biz/watch</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://mazystreams.xyz/event/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://mazystreams.xyz/3.php</page>
+<referer>http://mazystreams.xyz/event/</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://sportslandnews.com</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://sportslandnews.com/3.php</page>
+<referer>http://sportslandnews.com</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.ripple-stream.com/live/1.php</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.ripple-stream.com/live/3.php</page>
+<referer>http://www.ripple-stream.com/live/1.php</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p4[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://hockeynews.club/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://hockeynews.club/3.php</page>
+<referer>https://hockeynews.club/</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]PPV.1080p4[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/NUFC2/0.txt</externallink>ladns
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+-->
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]ESPN+.720p4[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://markkystreams.com/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://markkystreams.com/video/boxing-2/</page>
+<referer>http://markkystreams.com/</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]PPV.720p4[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/Test/1.txt</externallink>ufckhabib
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+-->
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]BT Sp0rt Box Office.MultiRate1[/B][/COLOR]</title>
+<link>https://193af00cb024.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.956228346243.channel.eNeEDW3FrQzr.m3u8|Referer=https://sportnews.to</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]BT Sp0rt Box Office.MultiRate2[/B][/COLOR]</title>
+<link>https://193af00cb024.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.956228346243.channel.eNeEDW3FrQzr.m3u8|Referer=https://sportnews.to</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4b/FuryWhyteFight.jpeg</thumbnail>
+<fanart>https://worldinsport.com/wp-content/uploads/2022/04/277848272_1746359795695345_6900119172005192093_n.jpg</fanart>
+</item>
+<!--
+<item>
+<title> </title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/NUFC2.txt</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Garcia vs Tagoe[/B][/COLOR] [COLOR orange][B]DAZN.1[/B][/COLOR]</title>
+<link>http://mnhgfdsgvf.azureedge.net/live/BX1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/serie-a/milan-vs-udinese/53971/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Garcia vs Tagoe[/B][/COLOR] [COLOR orange][B]DAZN.2[/B][/COLOR]</title>
+<link>http://mnhgfdsgvf.azureedge.net/live/BX1/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/serie-a/milan-vs-udinese/53971/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<!--
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Garcia vs Tagoe[/B][/COLOR] [COLOR orange][B]DAZN.1080p[/B][/COLOR]</title>
+<link>http://dir41topy686d.cloudfront.net/stream/MzQyNA==/MzQyNA==.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://1stream.top/soccer/MjExNjQ0NjI3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Garcia vs Tagoe[/B][/COLOR] [COLOR orange][B]DAZN.MultiRate1[/B][/COLOR]</title>
+<link>https://grayanoxob.s3.eu-west-1.amazonaws.com/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://dubznetwork.com/game/soccer2/getafe-vs-real-madrid-2jan/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Garcia vs Tagoe[/B][/COLOR] [COLOR orange][B]DAZN.MultiRate2[/B][/COLOR]</title>
+<link>https://grayanoxob.s3.eu-west-1.amazonaws.com/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://www.sportsguild.net/manchester15jan.php</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Garcia vs Tagoe[/B][/COLOR] [COLOR orange][B]DAZN.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://hockeyweb.live/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://hockeyweb.live/daily/news/box-ryan/</page>
+<referer>http://hockeyweb.live/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<!--
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Garcia vs Tagoe[/B][/COLOR] [COLOR orange][B]DAZN.1080p[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/NUFC2/12.txt</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Garcia vs Tagoe[/B][/COLOR] [COLOR orange][B]DAZN.p1[/B][/COLOR]</title>
+<link>https://reels2watch.com/hls/b2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0&Referer=https://techoreels.com/24216/f3/?sport=boxing</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Garcia vs Tagoe[/B][/COLOR] [COLOR orange][B]DAZN.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://crackstreams.biz/watch</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://crackstreams.biz/watch/15373</page>
+<referer>http://crackstreams.biz/watch</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Garcia vs Tagoe[/B][/COLOR] [COLOR orange][B]DAZN.p2[/B][/COLOR]</title>
+<link>https://nflarcadia.xyz/hls/b2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/67.0&Referer=https://gamerarcades.com/assets/ts5.html </link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Garcia vs Tagoe[/B][/COLOR] [COLOR orange][B]DAZN.720p3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://bestsolaris.com/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://bestsolaris.com/boxingstreams/ryan-garcia-vs-emmanuel-tagoe/</page>
+<referer>http://bestsolaris.com/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Garcia vs Tagoe[/B][/COLOR] [COLOR orange][B]DAZN.720p4[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://motornews.live</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://motornews.live/novo/events/box-rayn/</page>
+<referer>http://motornews.live</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Garcia vs Tagoe[/B][/COLOR] [COLOR orange][B]DAZN.720p5[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://markkystreams.com/video/boxing-1/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://markkystreams.com/video/boxing-1/</page>
+<referer>http://markkystreams.com/video/boxing-1/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<!--
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Garcia vs Tagoe[/B][/COLOR] [COLOR orange][B]DAZN.p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/NUFC2/21.txt</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<!--
+<item>
+<title> </title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/NUFC2.txt</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Rocha vs. Cobbs[/B][/COLOR] [COLOR orange][B]DAZN.1[/B][/COLOR]</title>
+<link>http://jytwpsp.azureedge.net/live/BX1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/serie-a/milan-vs-udinese/53971/</link>
+<thumbnail>https://cdn.vox-cdn.com/thumbor/WtyDusFOZ3lv332q9SQogvq-IDE=/0x0:1080x1080/1200x800/filters:focal(469x350:641x522)/cdn.vox-cdn.com/uploads/chorus_image/image/70633161/unnamed.0.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Rocha vs. Cobbs[/B][/COLOR] [COLOR orange][B]DAZN.2[/B][/COLOR]</title>
+<link>http://jytwpsp.azureedge.net/live/BX1/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/serie-a/milan-vs-udinese/53971/</link>
+<thumbnail>https://cdn.vox-cdn.com/thumbor/WtyDusFOZ3lv332q9SQogvq-IDE=/0x0:1080x1080/1200x800/filters:focal(469x350:641x522)/cdn.vox-cdn.com/uploads/chorus_image/image/70633161/unnamed.0.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Rocha vs. Cobbs[/B][/COLOR] [COLOR orange][B]DAZN.p1[/B][/COLOR]</title>
+<link>https://nflarcadia.xyz/hls/b1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0&Referer=https://techoreels.com/24216/f3/?sport=boxing</link>
+<thumbnail>https://cdn.vox-cdn.com/thumbor/WtyDusFOZ3lv332q9SQogvq-IDE=/0x0:1080x1080/1200x800/filters:focal(469x350:641x522)/cdn.vox-cdn.com/uploads/chorus_image/image/70633161/unnamed.0.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Rocha vs. Cobbs[/B][/COLOR] [COLOR orange][B]DAZN.p2[/B][/COLOR]</title>
+<link>https://nflarcadia.xyz/hls/b1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/67.0&Referer=https://gamerarcades.com/assets/ts5.html </link>
+<thumbnail>https://cdn.vox-cdn.com/thumbor/WtyDusFOZ3lv332q9SQogvq-IDE=/0x0:1080x1080/1200x800/filters:focal(469x350:641x522)/cdn.vox-cdn.com/uploads/chorus_image/image/70633161/unnamed.0.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Rocha vs. Cobbs[/B][/COLOR] [COLOR orange][B]DAZN.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://hockeyweb.live/daily/news/box-eddie</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://hockeyweb.live/daily/news/box-eddie</page>
+<referer>http://hockeyweb.live/daily/news/box-eddie</referer>
+</regex>
+<thumbnail>https://cdn.vox-cdn.com/thumbor/WtyDusFOZ3lv332q9SQogvq-IDE=/0x0:1080x1080/1200x800/filters:focal(469x350:641x522)/cdn.vox-cdn.com/uploads/chorus_image/image/70633161/unnamed.0.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Rocha vs. Cobbs[/B][/COLOR] [COLOR orange][B]DAZN.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://crackstreams.biz/watch/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://crackstreams.biz/watch/14088</page>
+<referer>http://crackstreams.biz/watch/</referer>
+</regex>
+<thumbnail>https://cdn.vox-cdn.com/thumbor/WtyDusFOZ3lv332q9SQogvq-IDE=/0x0:1080x1080/1200x800/filters:focal(469x350:641x522)/cdn.vox-cdn.com/uploads/chorus_image/image/70633161/unnamed.0.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Rocha vs. Cobbs[/B][/COLOR] [COLOR orange][B]DAZN.720p3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://markkystreams.com/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://markkystreams.com/video/boxing-2/</page>
+<referer>http://markkystreams.com/</referer>
+</regex>
+<thumbnail>https://cdn.vox-cdn.com/thumbor/WtyDusFOZ3lv332q9SQogvq-IDE=/0x0:1080x1080/1200x800/filters:focal(469x350:641x522)/cdn.vox-cdn.com/uploads/chorus_image/image/70633161/unnamed.0.jpg</thumbnail>
+<fanart></fanart>
+</item>
+<!--
+<item>
+<title>[COLOR pink][B]WWE[/B][/COLOR]:[COLOR white][B]WrestleMania 38 Day 2[/B][/COLOR] [COLOR orange][B]WWE Ntwrk.Multi1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://bit.ly/WWESTREM</externallink>
+<thumbnail>https://staticg.sportskeeda.com/editor/2022/04/c16ed-16487592799305-1920.jpg</thumbnail>
+<fanart>https://cdn.mos.cms.futurecdn.net/hWA5LFhozvjvcQ2ZcjDmc3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]WWE[/B][/COLOR]:[COLOR white][B]WrestleMania 38 Day 2[/B][/COLOR] [COLOR orange][B]WWE Ntwrk.Multi2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://bit.ly/WWESTREM1</externallink>
+<thumbnail>https://staticg.sportskeeda.com/editor/2022/04/c16ed-16487592799305-1920.jpg</thumbnail>
+<fanart>https://cdn.mos.cms.futurecdn.net/hWA5LFhozvjvcQ2ZcjDmc3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]WWE[/B][/COLOR]:[COLOR white][B]WrestleMania 38 Day 2[/B][/COLOR] [COLOR orange][B]WWE Ntwrk.Multi3[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://bit.ly/WWESTREM2</externallink>
+<thumbnail>https://staticg.sportskeeda.com/editor/2022/04/c16ed-16487592799305-1920.jpg</thumbnail>
+<fanart>https://cdn.mos.cms.futurecdn.net/hWA5LFhozvjvcQ2ZcjDmc3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][B]WWE[/B][/COLOR]:[COLOR white][B]WrestleMania 38 Day 2[/B][/COLOR] [COLOR orange][B]WWE Ntwrk.Multi4[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://bit.ly/WWESTREM3</externallink>
+<thumbnail>https://staticg.sportskeeda.com/editor/2022/04/c16ed-16487592799305-1920.jpg</thumbnail>
+<fanart>https://cdn.mos.cms.futurecdn.net/hWA5LFhozvjvcQ2ZcjDmc3.jpg</fanart>
+</item>
+
+<item>
+<title> </title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/NUFC2.txt</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR green][B]BKFC[/B][/COLOR] [COLOR orange][B]BKFCTV.1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://hockeyweb.live/daily/news/bkfc21/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://hockeyweb.live/daily/news/bkfc21/</page>
+<referer>http://hockeyweb.live/daily/news/bkfc21/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR green][B]BKFC[/B][/COLOR] [COLOR orange][B]BKFCTV.2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://motornews.live/novo/events/21-oggi-bkfc7/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://motornews.live/novo/events/21-oggi-bkfc7/</page>
+<referer>http://motornews.live/novo/events/21-oggi-bkfc7/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR green][B]BKFC[/B][/COLOR] [COLOR orange][B]BKFCTV.3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://crackstreams.biz/watch/16515</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://crackstreams.biz/watch/16515</page>
+<referer>http://crackstreams.biz/watch/16515</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+-->
+<item>
+<title> </title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/NUFC2.txt</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]===========>[/B][/COLOR][COLOR gold][B]UPCOMING[/B][/COLOR][COLOR white][B]<================[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<!--
+<item>
+<title> </title>
+<link>http://Ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/NUFC2.txt</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
