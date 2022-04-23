@@ -808,7 +808,7 @@
 </item>
 <!--
 <item>
-<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Tszyu vs Gausha[/B][/COLOR] [COLOR orange][B]Sky Sports Box Office daddy[/B][/COLOR]</title>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Tszyu vs Gausha[/B][/COLOR] [COLOR orange][B]Sky Sports Box Office[/B][/COLOR] [COLOR pink][B]daddy[/B][/COLOR]</title>
 <link>https://cdn.plt.one/cdn/premium28/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0&Referer=https://widevine.licenses4.me/</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -905,7 +905,7 @@
 </item>
 
 <item>
-<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]Sky Box Office FHD daddy[/B][/COLOR]</title>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]Sky Box Office FHD[/B][/COLOR] [COLOR pink][B]daddy[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
 <regex>
 <name>get_sxstream</name>
@@ -918,7 +918,7 @@
 </item>
 
 <item>
-<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]Sky Box Office HD daddy[/B][/COLOR]</title>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]Sky Box Office HD[/B][/COLOR] [COLOR pink][B]daddy[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
 <regex>
 <name>get_sxstream</name>
@@ -931,7 +931,7 @@
 </item>
 
 <item>
-<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]Sky Box Office SD daddy[/B][/COLOR]</title>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]Sky Box Office SD[/B][/COLOR] [COLOR pink][B]daddy[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
 <regex>
 <name>get_sxstream</name>
@@ -944,7 +944,7 @@
 </item>
 
 <item>
-<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]Boxing PPV Feed 1 daddy[/B][/COLOR]</title>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]Boxing PPV Feed 1[/B][/COLOR] [COLOR pink][B]daddy[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
 <regex>
 <name>get_sxstream</name>
@@ -957,7 +957,7 @@
 </item>
 
 <item>
-<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]Boxing PPV Feed 2 daddy[/B][/COLOR]</title>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]Boxing PPV Feed 2[/B][/COLOR] [COLOR pink][B]daddy[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
 <regex>
 <name>get_sxstream</name>
@@ -970,7 +970,7 @@
 </item>
 
 <item>
-<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]Boxing PPV Feed 3 daddy[/B][/COLOR]</title>
+<title>[COLOR pink][B]BOXING[/B][/COLOR]:[COLOR white][B]Fury vs Whyte[/B][/COLOR] [COLOR orange][B]Boxing PPV Feed 3[/B][/COLOR] [COLOR pink][B]daddy[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
 <regex>
 <name>get_sxstream</name>
