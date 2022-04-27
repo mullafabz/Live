@@ -145,7 +145,7 @@
 <regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>http://mazystreams.xyz/2.php</page>
+<page>http://mazystreams.xyz/3.php</page>
 <referer>http://mazystreams.xyz</referer>
 </regex>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
@@ -179,7 +179,7 @@
 <regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>http://sportslandnews.com/2.php</page>
+<page>http://sportslandnews.com/3.php</page>
 <referer>http://sportslandnews.com</referer>
 </regex>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
@@ -199,7 +199,7 @@
 <regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.ripple-stream.com/live/2.php</page>
+<page>http://www.ripple-stream.com/live/3.php</page>
 <referer>http://www.ripple-stream.com</referer>
 </regex>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
@@ -219,7 +219,7 @@
 <regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://hockeynews.club/2.php</page>
+<page>https://hockeynews.club/3.php</page>
 <referer>https://hockeynews.club/</referer>
 </regex>
 <thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
@@ -318,7 +318,7 @@
 
 <item>
 <title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Villarreal[/B][/COLOR] [COLOR orange][B]BT Sp0rt.1080p2[/B][/COLOR]</title>
-<link>http://d3fux4819m73bb.cloudfront.net/stream/NDA1NQ==/NDA1NQ==.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://1stream.top/soccer/MjExNjQ0NjI3</link>
+<link>http://d3pkil6wp1amn5.cloudfront.net/stream/NDA1Ng==/NDA1Ng==.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://1stream.top/soccer/MjExNjQ0NjI3</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
@@ -332,14 +332,14 @@
 
 <item>
 <title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Villarreal[/B][/COLOR] [COLOR orange][B]SuperSp0rt.MultiRate1[/B][/COLOR]</title>
-<link>https://mavnncityghy.s3.eu-central-1.amazonaws.com/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://dubznetwork.com/game/soccer2/getafe-vs-real-madrid-2jan/</link>
+<link>https://lkimnkpool.s3.eu-central-1.amazonaws.com/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://dubznetwork.com/game/soccer2/getafe-vs-real-madrid-2jan/</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Villarreal[/B][/COLOR] [COLOR orange][B]SuperSp0rt.MultiRate2[/B][/COLOR]</title>
-<link>https://mavnncityghy.s3.eu-central-1.amazonaws.com/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://www.sportsguild.net/manchester15jan.php</link>
+<link>https://lkimnkpool.s3.eu-central-1.amazonaws.com/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://www.sportsguild.net/manchester15jan.php</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
@@ -414,12 +414,13 @@
 
 <item>
 <title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Villarreal[/B][/COLOR] [COLOR orange][B]BT Sp0rt.Multi1[/B][/COLOR]</title>
-<link>https://1fdce029bda4.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.956228346243.channel.ET64b1PduuNB.m3u8|Referer=http://www.sportnews.to/</link>
+<link>https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.781001535613.channel.QbhdYoH7da2u.m3u8|Referer=http://www.sportnews.to/</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
+	
 <title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Villarreal[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p3[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://mazystreams.xyz/</link>
 <regex>
@@ -434,7 +435,7 @@
 
 <item>
 <title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Villarreal[/B][/COLOR] [COLOR orange][B]BT Sp0rt.Multi2[/B][/COLOR]</title>
-<link>https://1fdce029bda4.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.956228346243.channel.ET64b1PduuNB.m3u8|Referer=http://www.sportnews.to/</link>
+<link>https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.781001535613.channel.QbhdYoH7da2u.m3u8|Referer=http://www.sportnews.to/</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
