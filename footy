@@ -38,12 +38,12 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B]Fulham vs Nottingham Forest[/B][/COLOR] [COLOR orange][B]Sky Sp0rts.720p1[/B][/COLOR]</title>
+<title>[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B]Middlesbrough vs Cardiff City[/B][/COLOR] [COLOR orange][B]Sky Sp0rts.720p1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://hockeyweb.live/</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>http://hockeyweb.live/daily/news/fulham26/</page>
+<page>http://hockeyweb.live/daily/news/middlesbrough27/</page>
 <referer>http://hockeyweb.live/</referer>
 </regex>
 <thumbnail>https://i.imgur.com/Bm6eAYZ.png</thumbnail>
@@ -51,12 +51,12 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B]Fulham vs Nottingham Forest[/B][/COLOR] [COLOR orange][B]Sky Sp0rts.720p2[/B][/COLOR]</title>
+<title>[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B]Middlesbrough vs Cardiff City[/B][/COLOR] [COLOR orange][B]Sky Sp0rts.720p2[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://motornews.live/</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>http://motornews.live/novo/events/26-oggi-Fulham/</page>
+<page>http://motornews.live/novo/events/27-oggi-Middlesbrough/</page>
 <referer>http://motornews.live/</referer>
 </regex>
 <thumbnail>https://i.imgur.com/Bm6eAYZ.png</thumbnail>
@@ -64,7 +64,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B]Fulham vs Nottingham Forest[/B][/COLOR] [COLOR orange][B]Sky Sports Football daddy[/B][/COLOR]</title>
+<title>[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B]Middlesbrough vs Cardiff City[/B][/COLOR] [COLOR orange][B]Sky Sports Football daddy[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
 <regex>
 <name>get_sxstream</name>
@@ -77,160 +77,202 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B]Fulham vs Nottingham Forest[/B][/COLOR] [COLOR orange][B]Sky Sports Main Event daddy[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
-<regex>
-<name>get_sxstream</name>
-<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
-<page>https://widevine.licenses4.me/mdl.p2p.php?id=premium38&test=true</page>
-<referer>https://player.licenses4.me/</referer>
-</regex>
-<thumbnail>https://i.imgur.com/Bm6eAYZ.png</thumbnail>
-<fanart>https://i.imgur.com/UeXDHgY.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B]Fulham vs Nottingham Forest[/B][/COLOR] [COLOR orange][B]beIN Sports 2 ENG daddy[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://widevine.licenses4.me/</link>
-<regex>
-<name>get_sxstream</name>
-<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
-<page>https://widevine.licenses4.me/mdl.p2p.php?id=premium90&test=true</page>
-<referer>https://player.licenses4.me/</referer>
-</regex>
-<thumbnail>https://i.imgur.com/Bm6eAYZ.png</thumbnail>
-<fanart>https://i.imgur.com/UeXDHgY.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B]Barnsley vs Blackpool[/B][/COLOR] [COLOR orange][B]iFollow daddy[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
-<regex>
-<name>get_sxstream</name>
-<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
-<page>https://widevine.licenses4.me/mdl.p2p.php?id=premium151&test=true</page>
-<referer>https://player.licenses4.me/</referer>
-</regex>
-<thumbnail>https://i.imgur.com/Bm6eAYZ.png</thumbnail>
-<fanart>https://i.imgur.com/UeXDHgY.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]CHAMPIONSHIP[/B][/COLOR]:[COLOR white][B]Swansea City vs AFC Bournemouth[/B][/COLOR] [COLOR orange][B]iFollow daddy[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
-<regex>
-<name>get_sxstream</name>
-<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
-<page>https://widevine.licenses4.me/mdl.p2p.php?id=premium152&test=true</page>
-<referer>https://player.licenses4.me/</referer>
-</regex>
-<thumbnail>https://i.imgur.com/Bm6eAYZ.png</thumbnail>
-<fanart>https://i.imgur.com/UeXDHgY.jpg</fanart>
-</item>
-
-<item>
-<title>   </title>
+<title>                           </title>
 <link>.</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]LEAGUE[/B][/COLOR] [COLOR blue][B]ONE[/B][/COLOR]:[COLOR white][B]Fleetwood Town vs Sheffield Wednesday[/B][/COLOR] [COLOR orange][B]iFollow daddy[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
-<regex>
-<name>get_sxstream</name>
-<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
-<page>https://widevine.licenses4.me/mdl.p2p.php?id=premium153&test=true</page>
-<referer>https://player.licenses4.me/</referer>
-</regex>
-<thumbnail>https://www.gazetteandherald.co.uk/resources/images/5974191.png</thumbnail>
-<fanart>https://www.gamblingsites.net/wp-content/uploads/2019/07/efl-league-one-2019-20-1280x720.jpg</fanart>
-</item>
- 
-<item>
-<title>[COLOR blue][B]LEAGUE[/B][/COLOR] [COLOR blue][B]ONE[/B][/COLOR]:[COLOR white][B]Portsmouth vs Wigan Athletic[/B][/COLOR] [COLOR orange][B]iFollow daddy[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
-<regex>
-<name>get_sxstream</name>
-<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
-<page>https://widevine.licenses4.me/mdl.p2p.php?id=premium154&test=true</page>
-<referer>https://player.licenses4.me/</referer>
-</regex>
-<thumbnail>https://www.gazetteandherald.co.uk/resources/images/5974191.png</thumbnail>
-<fanart>https://www.gamblingsites.net/wp-content/uploads/2019/07/efl-league-one-2019-20-1280x720.jpg</fanart>
-</item>
- 
-<item>
-<title>[COLOR blue][B]LEAGUE[/B][/COLOR] [COLOR blue][B]ONE[/B][/COLOR]:[COLOR white][B]Sunderland vs Rotherham United[/B][/COLOR] [COLOR orange][B]iFollow daddy[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
-<regex>
-<name>get_sxstream</name>
-<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
-<page>https://widevine.licenses4.me/mdl.p2p.php?id=premium155&test=true</page>
-<referer>https://player.licenses4.me/</referer>
-</regex>
-<thumbnail>https://www.gazetteandherald.co.uk/resources/images/5974191.png</thumbnail>
-<fanart>https://www.gamblingsites.net/wp-content/uploads/2019/07/efl-league-one-2019-20-1280x720.jpg</fanart>
-</item>
-
-<item>
-<title>   </title>
+<title>[COLOR white][B]++=[/B][/COLOR][COLOR green][B]ITALY[/B][/COLOR][COLOR white][B]++=[/B][/COLOR]</title>
 <link>.</link>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]LEAGUE[/B][/COLOR] [COLOR blue][B]TWO[/B][/COLOR]:[COLOR white][B]Exeter City vs Barrow[/B][/COLOR] [COLOR orange][B]iFollow daddy[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
-<regex>
-<name>get_sxstream</name>
-<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
-<page>https://widevine.licenses4.me/mdl.p2p.php?id=premium156&test=true</page>
-<referer>https://player.licenses4.me/</referer>
-</regex>
-<thumbnail>https://i.imgur.com/Bm6eAYZ.png</thumbnail>
-<fanart>https://i.imgur.com/UeXDHgY.jpg</fanart>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]SuperSp0rt.1[/B][/COLOR]</title>
+<link>http://nhgfdsafq.azureedge.net/live/spf/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/serie-a/milan-vs-udinese/53971/</link>
+<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
- 
+
 <item>
-<title>[COLOR blue][B]LEAGUE[/B][/COLOR] [COLOR blue][B]TWO[/B][/COLOR]:[COLOR white][B]Mansfield Town vs Stevenage[/B][/COLOR] [COLOR orange][B]iFollow daddy[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
-<regex>
-<name>get_sxstream</name>
-<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
-<page>https://widevine.licenses4.me/mdl.p2p.php?id=premium157&test=true</page>
-<referer>https://player.licenses4.me/</referer>
-</regex>
-<thumbnail>https://i.imgur.com/Bm6eAYZ.png</thumbnail>
-<fanart>https://i.imgur.com/UeXDHgY.jpg</fanart>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]SuperSp0rt.2[/B][/COLOR]</title>
+<link>http://nhgfdsafq.azureedge.net/live/spf/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/serie-a/milan-vs-udinese/53971/</link>
+<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
- 
+
 <item>
-<title>[COLOR blue][B]LEAGUE[/B][/COLOR] [COLOR blue][B]TWO[/B][/COLOR]:[COLOR white][B]Sutton United vs Crawley Town[/B][/COLOR] [COLOR orange][B]iFollow daddy[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
-<regex>
-<name>get_sxstream</name>
-<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
-<page>https://widevine.licenses4.me/mdl.p2p.php?id=premium158&test=true</page>
-<referer>https://player.licenses4.me/</referer>
-</regex>
-<thumbnail>https://i.imgur.com/Bm6eAYZ.png</thumbnail>
-<fanart>https://i.imgur.com/UeXDHgY.jpg</fanart>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]SuperSp0rt.1080p[/B][/COLOR]</title>
+<link>http://d2cpkh467fronq.cloudfront.net/stream/NDA2NQ==/NDA2NQ==.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://1stream.top/soccer/MjA2NDQxMDkx</link>
+<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
- 
+
 <item>
-<title>[COLOR blue][B]LEAGUE[/B][/COLOR] [COLOR blue][B]TWO[/B][/COLOR]:[COLOR white][B]Swindon Town vs Forest Green Rovers[/B][/COLOR] [COLOR orange][B]iFollow daddy[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]BT Sp0rt.1080p[/B][/COLOR]</title>
+<link>https://stremlinnggear.xyz/hls/ora5.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=https://nflscoop.net/ddd4/</link>
+<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]SuperSp0rt.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://hockeyweb.live/</link>
 <regex>
 <name>get_sxstream</name>
-<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
-<page>https://widevine.licenses4.me/mdl.p2p.php?id=premium159&test=true</page>
-<referer>https://player.licenses4.me/</referer>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://hockeyweb.live/daily/news/fiorentina-bologna27/</page>
+<referer>http://hockeyweb.live/</referer>
 </regex>
-<thumbnail>https://i.imgur.com/Bm6eAYZ.png</thumbnail>
-<fanart>https://i.imgur.com/UeXDHgY.jpg</fanart>
+<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]SuperSp0rt.p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://mullafabz.xyz/HOST/LiveTV/MAZZY/1.txt</externallink>
+<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://mazystreams.xyz</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://mazystreams.xyz/2.php</page>
+<referer>http://mazystreams.xyz</referer>
+</regex>
+<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]SuperSp0rt.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://motornews.live/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://motornews.live/novo/events/27-oggi-Fiorentina-inter/</page>
+<referer>http://motornews.live/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]SuperSp0rt.p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://mullafabz.xyz/HOST/LiveTV/TECNO/1.txt</externallink>
+<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://sportslandnews.com</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://sportslandnews.com/2.php</page>
+<referer>http://sportslandnews.com</referer>
+</regex>
+<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]BT Sp0rt.Multi1[/B][/COLOR]</title>
+<link>https://403b336bee55.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.956228346243.channel.W8aydU3dB1S4.m3u8|Referer=http://www.footy.to/</link>
+<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.ripple-stream.com</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.ripple-stream.com/live/2.php</page>
+<referer>http://www.ripple-stream.com</referer>
+</regex>
+<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]BT Sp0rt.Multi2[/B][/COLOR]</title>
+<link>https://403b336bee55.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.956228346243.channel.W8aydU3dB1S4.m3u8|Referer=http://www.footy.to/</link>
+<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Bologna vs Internazionale[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p4[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://hockeynews.club/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://hockeynews.club/2.php</page>
+<referer>https://hockeynews.club/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Atalanta vs Torino[/B][/COLOR] [COLOR orange][B]SuperSp0rt.1080p[/B][/COLOR]</title>
+<link>http://d3pkil6wp1amn5.cloudfront.net/stream/NDA2NA==/NDA2NA==.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://1stream.top/soccer/MjA2NDQxMDkx</link>
+<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Atalanta vs Torino[/B][/COLOR] [COLOR orange][B]SuperSp0rt.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://hockeyweb.live/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://hockeyweb.live/daily/news/saler-atalanta27/</page>
+<referer>http://hockeyweb.live/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Atalanta vs Torino[/B][/COLOR] [COLOR orange][B]SuperSp0rt.p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://mullafabz.xyz/HOST/LiveTV/MAZZY/4.txt</externallink>
+<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Atalanta vs Torino[/B][/COLOR] [COLOR orange][B]SuperSp0rt.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://motornews.live/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://motornews.live/novo/events/27-oggi-venezia-torino/</page>
+<referer>http://motornews.live/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]S[/COLOR][COLOR yellow][B]erie A[/B][/COLOR]:[COLOR white][B]Atalanta vs Torino[/B][/COLOR] [COLOR orange][B]SuperSp0rt.p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://mullafabz.xyz/HOST/LiveTV/TECNO/4.txt</externallink>
+<thumbnail>https://i.imgur.com/TKGrz4e.png</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/seriafan.png</fanart>
 </item>
 
 <item>
@@ -249,25 +291,25 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Manchester City vs Real Madrid[/B][/COLOR] [COLOR orange][B]BT Sp0rt.1[/B][/COLOR]</title>
-<link>http://wpspwlliyy.azureedge.net/live/bts2/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://weakstreams.com/soccer-streams/uefa-champions-league/bayern-munchen-vs-red-bull-salzburg/47284/</link>
+<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Villarreal[/B][/COLOR] [COLOR orange][B]BT Sp0rt.1[/B][/COLOR]</title>
+<link>http://nhgfdsafq.azureedge.net/live/bts2/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://weakstreams.com/soccer-streams/uefa-champions-league/bayern-munchen-vs-red-bull-salzburg/47284/</link>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Manchester City vs Real Madrid[/B][/COLOR] [COLOR orange][B]BT Sp0rt.2[/B][/COLOR]</title>
-<link>http://wpspwlliyy.azureedge.net/live/bts2/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://weakstreams.com/soccer-streams/uefa-champions-league/bayern-munchen-vs-red-bull-salzburg/47284/</link>
+<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Villarreal[/B][/COLOR] [COLOR orange][B]BT Sp0rt.2[/B][/COLOR]</title>
+<link>http://nhgfdsafq.azureedge.net/live/bts2/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://weakstreams.com/soccer-streams/uefa-champions-league/bayern-munchen-vs-red-bull-salzburg/47284/</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Manchester City vs Real Madrid[/B][/COLOR] [COLOR orange][B]BT Sp0rt.1080p1[/B][/COLOR]</title>
+<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Villarreal[/B][/COLOR] [COLOR orange][B]BT Sp0rt.1080p1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://givemenbastreams.com/soccer.php</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source: '(.*?)'</expres>
-<page>http://givemenbastreams.com/soccer.php?g=mancity</page>
+<page>http://givemenbastreams.com/soccer.php?g=liverpool</page>
 <referer>http://givemenbastreams.com/soccer.php</referer>
 </regex>
 <thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
@@ -275,40 +317,40 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Manchester City vs Real Madrid[/B][/COLOR] [COLOR orange][B]BT Sp0rt.1080p2[/B][/COLOR]</title>
+<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Villarreal[/B][/COLOR] [COLOR orange][B]BT Sp0rt.1080p2[/B][/COLOR]</title>
 <link>http://d3fux4819m73bb.cloudfront.net/stream/NDA1NQ==/NDA1NQ==.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://1stream.top/soccer/MjExNjQ0NjI3</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Manchester City vs Real Madrid[/B][/COLOR] [COLOR orange][B]BT Sp0rt.1080p3[/B][/COLOR]</title>
+<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Villarreal[/B][/COLOR] [COLOR orange][B]BT Sp0rt.1080p3[/B][/COLOR]</title>
 <link>https://stremlinnggear.xyz/hls/ora1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=https://techstribes.com/1-tech-mar-8/</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Manchester City vs Real Madrid[/B][/COLOR] [COLOR orange][B]SuperSp0rt.MultiRate1[/B][/COLOR]</title>
+<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Villarreal[/B][/COLOR] [COLOR orange][B]SuperSp0rt.MultiRate1[/B][/COLOR]</title>
 <link>https://mavnncityghy.s3.eu-central-1.amazonaws.com/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://dubznetwork.com/game/soccer2/getafe-vs-real-madrid-2jan/</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Manchester City vs Real Madrid[/B][/COLOR] [COLOR orange][B]SuperSp0rt.MultiRate2[/B][/COLOR]</title>
+<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Villarreal[/B][/COLOR] [COLOR orange][B]SuperSp0rt.MultiRate2[/B][/COLOR]</title>
 <link>https://mavnncityghy.s3.eu-central-1.amazonaws.com/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://www.sportsguild.net/manchester15jan.php</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Manchester City vs Real Madrid[/B][/COLOR] [COLOR orange][B]BT Sp0rt.720p1[/B][/COLOR]</title>
+<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Villarreal[/B][/COLOR] [COLOR orange][B]BT Sp0rt.720p1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://hockeyweb.live/</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>http://hockeyweb.live/daily/news/manchest26/</page>
+<page>http://hockeyweb.live/daily/news/liverpool27/</page>
 <referer>http://hockeyweb.live/</referer>
 </regex>
 <thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
@@ -316,7 +358,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Manchester City vs Real Madrid[/B][/COLOR] [COLOR orange][B]SuperSp0rt.p1[/B][/COLOR]</title>
+<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Villarreal[/B][/COLOR] [COLOR orange][B]SuperSp0rt.p1[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://mullafabz.xyz/HOST/LiveTV/MAZZY/2.txt</externallink>
 <thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
@@ -324,7 +366,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Manchester City vs Real Madrid[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p1[/B][/COLOR]</title>
+<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Villarreal[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://www.ripple-stream.com</link>
 <regex>
 <name>get_sxstream</name>
@@ -337,12 +379,12 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Manchester City vs Real Madrid[/B][/COLOR] [COLOR orange][B]BT Sp0rt.720p2[/B][/COLOR]</title>
+<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Villarreal[/B][/COLOR] [COLOR orange][B]BT Sp0rt.720p2[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://motornews.live/</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>http://motornews.live/novo/events/26-oggi-Manchester/</page>
+<page>http://motornews.live/novo/events/27-oggi-Liverpool/</page>
 <referer>http://motornews.live/</referer>
 </regex>
 <thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
@@ -350,7 +392,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Manchester City vs Real Madrid[/B][/COLOR] [COLOR orange][B]SuperSp0rt.p2[/B][/COLOR]</title>
+<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Villarreal[/B][/COLOR] [COLOR orange][B]SuperSp0rt.p2[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://mullafabz.xyz/HOST/LiveTV/TECNO/2.txt</externallink>
 <thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
@@ -358,7 +400,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Manchester City vs Real Madrid[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p2[/B][/COLOR]</title>
+<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Villarreal[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p2[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://sportslandnews.com</link>
 <regex>
 <name>get_sxstream</name>
@@ -371,14 +413,14 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Manchester City vs Real Madrid[/B][/COLOR] [COLOR orange][B]BT Sp0rt.Multi1[/B][/COLOR]</title>
+<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Villarreal[/B][/COLOR] [COLOR orange][B]BT Sp0rt.Multi1[/B][/COLOR]</title>
 <link>https://1fdce029bda4.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.956228346243.channel.ET64b1PduuNB.m3u8|Referer=http://www.sportnews.to/</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Manchester City vs Real Madrid[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p3[/B][/COLOR]</title>
+<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Villarreal[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p3[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://mazystreams.xyz/</link>
 <regex>
 <name>get_sxstream</name>
@@ -391,14 +433,14 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Manchester City vs Real Madrid[/B][/COLOR] [COLOR orange][B]BT Sp0rt.Multi2[/B][/COLOR]</title>
+<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Villarreal[/B][/COLOR] [COLOR orange][B]BT Sp0rt.Multi2[/B][/COLOR]</title>
 <link>https://1fdce029bda4.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.956228346243.channel.ET64b1PduuNB.m3u8|Referer=http://www.sportnews.to/</link>
 <thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
 <fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Manchester City vs Real Madrid[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p4[/B][/COLOR]</title>
+<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Villarreal[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p4[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://hockeynews.club/</link>
 <regex>
 <name>get_sxstream</name>
@@ -411,7 +453,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Manchester City vs Real Madrid[/B][/COLOR] [COLOR orange][B]Movistar Liga de Campeones daddy[/B][/COLOR]</title>
+<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Villarreal[/B][/COLOR] [COLOR orange][B]Movistar Liga de Campeones daddy[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
 <regex>
 <name>get_sxstream</name>
@@ -424,12 +466,12 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Manchester City vs Real Madrid[/B][/COLOR] [COLOR orange][B]Canal+ France daddy[/B][/COLOR]</title>
+<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Villarreal[/B][/COLOR] [COLOR orange][B]Canal+ France daddy[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://widevine.licenses4.me/mdl.p2p.php?id=premium121&test=true</page>
+<page>https://widevine.licenses4.me/mdl.p2p.php?id=premium122&test=true</page>
 <referer>https://player.licenses4.me/</referer>
 </regex>
 <thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
@@ -437,7 +479,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Manchester City vs Real Madrid[/B][/COLOR] [COLOR orange][B]TUDN USA daddy[/B][/COLOR]</title>
+<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Villarreal[/B][/COLOR] [COLOR orange][B]TUDN USA daddy[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
 <regex>
 <name>get_sxstream</name>
@@ -450,7 +492,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Manchester City vs Real Madrid[/B][/COLOR] [COLOR orange][B]RMC Sport 1 France daddy[/B][/COLOR]</title>
+<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Liverpool vs Villarreal[/B][/COLOR] [COLOR orange][B]RMC Sport 1 France daddy[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
 <regex>
 <name>get_sxstream</name>
