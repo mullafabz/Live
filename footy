@@ -214,13 +214,13 @@
 <thumbnail>http://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 </item>
-<!--
+
 <item>
 <title>[COLOR yellow][B]EL & ECL[/B][/COLOR]:[COLOR white][B]Multiplex[/B][/COLOR] [COLOR orange][B]Movistar Liga de Campeones 2 daddy[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
 <regex>
 <name>get_sxstream</name>
-<expres>(?s)auth=.*?source:'(.*?)'</expres>
+<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
 <page>https://player.licenses4.me/player.php?id=premium9&test=true</page>
 <referer>https://player.licenses4.me/</referer>
 </regex>
@@ -233,7 +233,7 @@
 <link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
 <regex>
 <name>get_sxstream</name>
-<expres>(?s)auth=.*?source:'(.*?)'</expres>
+<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
 <page>https://player.licenses4.me/player.php?id=premium10&test=true</page>
 <referer>https://player.licenses4.me/</referer>
 </regex>
@@ -254,7 +254,7 @@
 
 
 
--->
+<!--
 <item>
 <title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]West Ham United vs Eintracht Frankfurt[/B][/COLOR] [COLOR orange][B]BT Sp0rt.1[/B][/COLOR]</title>
 <link>http://mjhgdsgvw.azureedge.net/live/bts1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/serie-a/milan-vs-udinese/53971/</link>
@@ -268,7 +268,7 @@
 <thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
 </item>
-
+-->
 <item>
 <title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]West Ham United vs Eintracht Frankfurt[/B][/COLOR] [COLOR orange][B]BT Sp0rt.1080p[/B][/COLOR]</title>
 <link>http://d3fux4819m73bb.cloudfront.net/stream/NDA2OQ==/NDA2OQ==.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://1stream.top/soccer/MjExNjQ0NjI3</link>
@@ -404,20 +404,33 @@
 <thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
 </item>
-<!--
+
 <item>
-<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]West Ham United vs Eintracht Frankfurt[/B][/COLOR] [COLOR orange][B]RMC Sport 1 France daddy[/B][/COLOR]</title>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]West Ham United vs Eintracht Frankfurt[/B][/COLOR] [COLOR orange][B]RTL Germany daddy[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
 <regex>
 <name>get_sxstream</name>
-<expres>(?s)auth=.*?source:'(.*?)'</expres>
-<page>https://player.licenses4.me/player.php?id=premium119&test=true</page>
+<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>https://player.licenses4.me/player.php?id=premium3&test=true</page>
 <referer>https://player.licenses4.me/</referer>
 </regex>
 <thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
 <fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
 </item>
--->
+
+<item>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]West Ham United vs Eintracht Frankfurt[/B][/COLOR] [COLOR orange][B]RMC Sport 2 France daddy[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>https://player.licenses4.me/player.php?id=premium120&test=true</page>
+<referer>https://player.licenses4.me/</referer>
+</regex>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
+</item>
+
 <item>
 <title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]RB Leipzig vs Rangers[/B][/COLOR] [COLOR orange][B]BT Sp0rt.1[/B][/COLOR]</title>
 <link>http://nhgfdsafq.azureedge.net/live/bts2/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/serie-a/milan-vs-udinese/53971/</link>
@@ -727,6 +740,19 @@
 </item>
 
 <item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Leicester City vs Roma[/B][/COLOR] [COLOR orange][B]RMC Sport 1 France daddy[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>https://player.licenses4.me/player.php?id=premium119&test=true</page>
+<referer>https://player.licenses4.me/</referer>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
 <title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Feyenoord vs Marseille[/B][/COLOR] [COLOR orange][B]SuperSp0rt.1[/B][/COLOR]</title>
 <link>http://mjhgdsgvw.azureedge.net/live/s1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/serie-a/milan-vs-udinese/53971/</link>
 <thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
@@ -860,8 +886,21 @@
 <link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
 <regex>
 <name>get_sxstream</name>
-<expres>(?s)auth=.*?source:'(.*?)'</expres>
+<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
 <page>https://player.licenses4.me/player.php?id=premium122&test=true</page>
+<referer>https://player.licenses4.me/</referer>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Feyenoord vs Marseille[/B][/COLOR] [COLOR orange][B]ESPN 2 NL daddy[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>https://player.licenses4.me/player.php?id=premium386&test=true</page>
 <referer>https://player.licenses4.me/</referer>
 </regex>
 <thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
