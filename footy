@@ -39,217 +39,714 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Manchester City[/B][/COLOR] [COLOR orange][B]BT Sp0rt.1080p[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=http://givemenbastreams.com/soccer.php</link>
+<title>[COLOR yellow][B]EL & ECL[/B][/COLOR]:[COLOR white][B]Multiplex[/B][/COLOR] [COLOR orange][B]Movistar Liga de Campeones 2 daddy[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
 <regex>
 <name>get_sxstream</name>
-<expres>source: '(.*?)'</expres>
-<page>http://givemenbastreams.com/soccer.php?g=mancity</page>
-<referer>http://givemenbastreams.com/soccer.php</referer>
+<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>https://player.licenses4.me/player.php?id=premium9&test=true</page>
+<referer>https://player.licenses4.me/</referer>
 </regex>
-<thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Manchester City[/B][/COLOR] [COLOR orange][B]BT Sp0rt 2.1[/B][/COLOR]</title>
-<link>http://wppswllp.azureedge.net/live/bts2/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://weakstreams.com/soccer-streams/uefa-champions-league/bayern-munchen-vs-red-bull-salzburg/47284/</link>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+<title>[COLOR yellow][B]EL & ECL[/B][/COLOR]:[COLOR white][B]Multiplex[/B][/COLOR] [COLOR orange][B]RMC Sport 3 France daddy[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>https://player.licenses4.me/player.php?id=premium10&test=true</page>
+<referer>https://player.licenses4.me/</referer>
+</regex>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Eintracht Frankfurt vs West Ham Utd[/B][/COLOR] [COLOR orange][B]BT Sp0rt.1[/B][/COLOR]</title>
+<link>http://wppswllp.azureedge.net/live/bts1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/serie-a/milan-vs-udinese/53971/</link>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Manchester City[/B][/COLOR] [COLOR orange][B]BT Sp0rt 2.2[/B][/COLOR]</title>
-<link>http://wppswllp.azureedge.net/live/bts2/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://weakstreams.com/soccer-streams/uefa-champions-league/bayern-munchen-vs-red-bull-salzburg/47284/</link>
-<thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Eintracht Frankfurt vs West Ham Utd[/B][/COLOR] [COLOR orange][B]BT Sp0rt.2[/B][/COLOR]</title>
+<link>http://wppswllp.azureedge.net/live/bts1/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/serie-a/milan-vs-udinese/53971/</link>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Manchester City[/B][/COLOR] [COLOR orange][B]BT Sp0rt.720p[/B][/COLOR]</title>
-<link>http://dtsfu8xo15mhy.cloudfront.net/stream/NDE0Ng==/NDE0Ng==.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://1stream.top/soccer/MjExNjQ0NjI3</link>
-<thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Eintracht Frankfurt vs West Ham Utd[/B][/COLOR] [COLOR orange][B]BT Sp0rt.72Op1[/B][/COLOR]</title>
+<link>http://d32mrw97ow13bj.cloudfront.net/stream/NDE3MA==/NDE3MA==.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://1stream.top/soccer/MjExNjQ0NjI3</link>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Manchester City[/B][/COLOR] [COLOR orange][B]CBS Sp0rts.1080p[/B][/COLOR]</title>
-<link>https://stremlinnggear.xyz/abr/ora1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=https://nflscoop.net/m1.html</link>
-<thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Eintracht Frankfurt vs West Ham Utd[/B][/COLOR] [COLOR orange][B]BT Sp0rt.72Op2[/B][/COLOR]</title>
+<link>https://stremlinnggear.xyz/abr/ora1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=https://nflscoop.net/ddd4/</link>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Manchester City[/B][/COLOR] [COLOR orange][B]SuperSp0rt.MultiRate1[/B][/COLOR]</title>
-<link>https://redaswdmancity.s3.eu-central-1.amazonaws.com/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://dubznetwork.com/game/soccer2/getafe-vs-real-madrid-2jan/</link>
-<thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Eintracht Frankfurt vs West Ham Utd[/B][/COLOR] [COLOR orange][B]SuperSp0rt.MultiRes1[/B][/COLOR]</title>
+<link>https://eingtf.s3.eu-north-1.amazonaws.com/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://dubznetwork.com/game/soccer2/getafe-vs-real-madrid-2jan/</link>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Manchester City[/B][/COLOR] [COLOR orange][B]SuperSp0rt.MultiRate2[/B][/COLOR]</title>
-<link>https://redaswdmancity.s3.eu-central-1.amazonaws.com/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://www.sportsguild.net/manchester15jan.php</link>
-<thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Eintracht Frankfurt vs West Ham Utd[/B][/COLOR] [COLOR orange][B]SuperSp0rt.MultiRes2[/B][/COLOR]</title>
+<link>https://eingtf.s3.eu-north-1.amazonaws.com/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://www.sportsguild.net/manchester15jan.php</link>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Manchester City[/B][/COLOR] [COLOR orange][B]BT Sp0rt.720p1[/B][/COLOR]</title>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Eintracht Frankfurt vs West Ham Utd[/B][/COLOR] [COLOR orange][B]BT Sp0rt.720p1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://hockeyweb.live/</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>http://hockeyweb.live/daily/totalsports/madrid04/</page>
+<page>http://hockeyweb.live/daily/totalsports/frankfurt/</page>
 <referer>http://hockeyweb.live/</referer>
 </regex>
-<thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Manchester City[/B][/COLOR] [COLOR orange][B]SuperSp0rt.p1[/B][/COLOR]</title>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Eintracht Frankfurt vs West Ham Utd[/B][/COLOR] [COLOR orange][B]BT Sp0rt.p1[/B][/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>https://mullafabz.xyz/HOST/LiveTV/MAZZY/2.txt</externallink>
-<thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+<externallink>https://mullafabz.xyz/HOST/LiveTV/TECNO/1.txt</externallink>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Manchester City[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p1[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=http://www.ripple-stream.com</link>
-<regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.ripple-stream.com/live/1.php</page>
-<referer>http://www.ripple-stream.com</referer>
-</regex>
-<thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Manchester City[/B][/COLOR] [COLOR orange][B]BT Sp0rt.720p2[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=http://motornews.live/</link>
-<regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>http://motornews.live/novo/total/04-oggi-Madrid/</page>
-<referer>http://motornews.live/</referer>
-</regex>
-<thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Manchester City[/B][/COLOR] [COLOR orange][B]SuperSp0rt.p2[/B][/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>https://mullafabz.xyz/HOST/LiveTV/TECNO/2.txt</externallink>
-<thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Manchester City[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p2[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=http://sportslandnews.com</link>
-<regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>http://sportslandnews.com/1.php</page>
-<referer>http://sportslandnews.com</referer>
-</regex>
-<thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Manchester City[/B][/COLOR] [COLOR orange][B]BT Sp0rt.Multi1[/B][/COLOR]</title>
-<link>https://d4e6999e0485.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.529707182583.channel.pSQTBHdjoRXH.m3u8|Referer=http://www.sportnews.to/</link>
-<thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
-</item>
-
-<item>
-
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Manchester City[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p3[/B][/COLOR]</title>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Eintracht Frankfurt vs West Ham Utd[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://mazystreams.xyz/</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://mazystreams.xyz/1.php</page>
+<page>http://mazystreams.xyz/2.php</page>
 <referer>http://mazystreams.xyz/</referer>
 </regex>
-<thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Manchester City[/B][/COLOR] [COLOR orange][B]BT Sp0rt.Multi2[/B][/COLOR]</title>
-<link>https://d4e6999e0485.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.529707182583.channel.pSQTBHdjoRXH.m3u8|Referer=http://www.sportnews.to/</link>
-<thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Eintracht Frankfurt vs West Ham Utd[/B][/COLOR] [COLOR orange][B]BT Sp0rt.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://motornews.live/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://motornews.live/novo/total/oggi-05-westham/</page>
+<referer>http://motornews.live/</referer>
+</regex>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Manchester City[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p4[/B][/COLOR]</title>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Eintracht Frankfurt vs West Ham Utd[/B][/COLOR] [COLOR orange][B]BT Sp0rt.p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://mullafabz.xyz/HOST/LiveTV/TECNO/1.txt</externallink>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Eintracht Frankfurt vs West Ham Utd[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://sportslandnews.com</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://sportslandnews.com/2.php</page>
+<referer>http://sportslandnews.com</referer>
+</regex>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Eintracht Frankfurt vs West Ham Utd[/B][/COLOR] [COLOR orange][B]BT Sp0rt.MultiRate1[/B][/COLOR]</title>
+<link>https://d4e6999e0485.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.529707182583.channel.pSQTBHdjoRXH.m3u8|Referer=http://www.footy.to</link>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Eintracht Frankfurt vs West Ham Utd[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.ripple-stream.com/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.ripple-stream.com/live/2.php</page>
+<referer>http://www.ripple-stream.com/</referer>
+</regex>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Eintracht Frankfurt vs West Ham Utd[/B][/COLOR] [COLOR orange][B]BT Sp0rt.MultiRate2[/B][/COLOR]</title>
+<link>https://d4e6999e0485.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.529707182583.channel.pSQTBHdjoRXH.m3u8|Referer=http://www.footy.to</link>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Eintracht Frankfurt vs West Ham Utd[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p4[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://hockeynews.club/</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://hockeynews.club/1.php</page>
+<page>https://hockeynews.club/2.php</page>
 <referer>https://hockeynews.club/</referer>
 </regex>
-<thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Manchester City[/B][/COLOR] [COLOR orange][B]Movistar Liga de Campeones daddy[/B][/COLOR]</title>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Eintracht Frankfurt vs West Ham Utd[/B][/COLOR] [COLOR orange][B]RTL Germany daddy[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
 <regex>
 <name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://widevine.licenses4.me/mdl.p2p.php?id=premium435&test=true</page>
+<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>https://player.licenses4.me/player.php?id=premium3&test=true</page>
 <referer>https://player.licenses4.me/</referer>
 </regex>
-<thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Manchester City[/B][/COLOR] [COLOR orange][B]Canal+ France daddy[/B][/COLOR]</title>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Eintracht Frankfurt vs West Ham Utd[/B][/COLOR] [COLOR orange][B]RMC Sport 2 France daddy[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
 <regex>
 <name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://widevine.licenses4.me/mdl.p2p.php?id=premium121&test=true</page>
+<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>https://player.licenses4.me/player.php?id=premium120&test=true</page>
 <referer>https://player.licenses4.me/</referer>
 </regex>
-<thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Manchester City[/B][/COLOR] [COLOR orange][B]TUDN USA daddy[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
-<regex>
-<name>get_sxstream</name>
-<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://widevine.licenses4.me/mdl.p2p.php?id=premium66&test=true</page>
-<referer>https://player.licenses4.me/</referer>
-</regex>
-<thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Rangers vs RB Leipzig[/B][/COLOR] [COLOR orange][B]BT Sp0rt.1[/B][/COLOR]</title>
+<link>http://wppswllp.azureedge.net/live/bts2/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/serie-a/milan-vs-udinese/53971/</link>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B]CL[/B][/COLOR]:[COLOR white][B]Real Madrid vs Manchester City[/B][/COLOR] [COLOR orange][B]RMC Sport 1 France daddy[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Rangers vs RB Leipzig[/B][/COLOR] [COLOR orange][B]BT Sp0rt.2[/B][/COLOR]</title>
+<link>http://wppswllp.azureedge.net/live/bts2/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/serie-a/milan-vs-udinese/53971/</link>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Rangers vs RB Leipzig[/B][/COLOR] [COLOR orange][B]BT Sp0rt.72Op1[/B][/COLOR]</title>
+<link>http://d32mrw97ow13bj.cloudfront.net/stream/NDE3MQ==/NDE3MQ==.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://1stream.top/soccer/MjExNjQ0NjI3</link>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Rangers vs RB Leipzig[/B][/COLOR] [COLOR orange][B]BT Sp0rt.72Op2[/B][/COLOR]</title>
+<link>https://stremlinnggear.xyz/abr/ora2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=https://nflscoop.net/ddd4/</link>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Rangers vs RB Leipzig[/B][/COLOR] [COLOR orange][B]SuperSp0rt.MultiRes1[/B][/COLOR]</title>
+<link>https://rabnjhgers.s3.eu-west-1.amazonaws.com/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://dubznetwork.com/game/soccer2/getafe-vs-real-madrid-2jan/</link>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Rangers vs RB Leipzig[/B][/COLOR] [COLOR orange][B]SuperSp0rt.MultiRes2[/B][/COLOR]</title>
+<link>https://rabnjhgers.s3.eu-west-1.amazonaws.com/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://www.sportsguild.net/manchester15jan.php</link>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Rangers vs RB Leipzig[/B][/COLOR] [COLOR orange][B]BT Sp0rt.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://hockeyweb.live/</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>https://widevine.licenses4.me/mdl.p2p.php?id=premium119&test=true</page>
+<page>http://hockeyweb.live/daily/totalsports/rangers05/</page>
+<referer>http://hockeyweb.live/</referer>
+</regex>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Rangers vs RB Leipzig[/B][/COLOR] [COLOR orange][B]BT Sp0rt.p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://mullafabz.xyz/HOST/LiveTV/TECNO/2.txt</externallink>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Rangers vs RB Leipzig[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://mazystreams.xyz/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://mazystreams.xyz/3.php</page>
+<referer>http://mazystreams.xyz/</referer>
+</regex>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Rangers vs RB Leipzig[/B][/COLOR] [COLOR orange][B]BT Sp0rt.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://motornews.live/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://motornews.live/novo/total/oggi-05-Rangers/</page>
+<referer>http://motornews.live/</referer>
+</regex>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Rangers vs RB Leipzig[/B][/COLOR] [COLOR orange][B]BT Sp0rt.p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://mullafabz.xyz/HOST/LiveTV/TECNO/2.txt</externallink>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Rangers vs RB Leipzig[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://sportslandnews.com</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://sportslandnews.com/3.php</page>
+<referer>http://sportslandnews.com</referer>
+</regex>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Rangers vs RB Leipzig[/B][/COLOR] [COLOR orange][B]BT Sp0rt.MultiRate1[/B][/COLOR]</title>
+<link>https://bfa612661472.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.529707182583.channel.ySu9dhpdfh19.m3u8|Referer=http://www.footy.to</link>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Rangers vs RB Leipzig[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.ripple-stream.com/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.ripple-stream.com/live/3.php</page>
+<referer>http://www.ripple-stream.com/</referer>
+</regex>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Rangers vs RB Leipzig[/B][/COLOR] [COLOR orange][B]BT Sp0rt.MultiRate2[/B][/COLOR]</title>
+<link>https://bfa612661472.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.529707182583.channel.ySu9dhpdfh19.m3u8|Referer=http://www.footy.to</link>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]EL[/B][/COLOR]:[COLOR white][B]Rangers vs RB Leipzig[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p4[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://hockeynews.club/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://hockeynews.club/3.php</page>
+<referer>https://hockeynews.club/</referer>
+</regex>
+<thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
+<fanart>https://mullafabz.xyz/HOST/Icons/europa.jpg</fanart>
+</item>
+
+<item>
+<title>                </title>
+<link>http://Ignoreme</link>
+<externallink>http://paste.in//raw</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Roma vs Leicester City[/B][/COLOR] [COLOR orange][B]BT Sp0rt.1[/B][/COLOR]</title>
+<link>http://wppswllp.azureedge.net/live/bts3/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/serie-a/milan-vs-udinese/53971/</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Roma vs Leicester City[/B][/COLOR] [COLOR orange][B]BT Sp0rt.2[/B][/COLOR]</title>
+<link>http://wppswllp.azureedge.net/live/bts3/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/serie-a/milan-vs-udinese/53971/</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+<!--
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Roma vs Leicester City[/B][/COLOR] [COLOR orange][B]BT Sp0rt.72Op1[/B][/COLOR]</title>
+<link>http://d2cpkh467fronq.cloudfront.net/stream/NDA3MA==/NDA3MA==.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://1stream.top/soccer/MjExNjQ0NjI3</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+-->
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Roma vs Leicester City[/B][/COLOR] [COLOR orange][B]BT Sp0rt.72Op2[/B][/COLOR]</title>
+<link>https://stremlinnggear.xyz/abr/ora3.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=https://nflscoop.net/ddd4/</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Roma vs Leicester City[/B][/COLOR] [COLOR orange][B]SuperSp0rt.MultiRes1[/B][/COLOR]</title>
+<link>https://rromasa.s3.eu-central-1.amazonaws.com/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://dubznetwork.com/game/soccer2/getafe-vs-real-madrid-2jan/</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Roma vs Leicester City[/B][/COLOR] [COLOR orange][B]SuperSp0rt.MultiRes2[/B][/COLOR]</title>
+<link>https://rromasa.s3.eu-central-1.amazonaws.com/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://www.sportsguild.net/manchester15jan.php</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Roma vs Leicester City[/B][/COLOR] [COLOR orange][B]BT Sp0rt.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://hockeyweb.live/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://hockeyweb.live/daily/totalsports/roma05/</page>
+<referer>http://hockeyweb.live/</referer>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Roma vs Leicester City[/B][/COLOR] [COLOR orange][B]BT Sp0rt.p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://mullafabz.xyz/HOST/LiveTV/TECNO/3.txt</externallink>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Roma vs Leicester City[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://mazystreams.xyz/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://mazystreams.xyz/4.php</page>
+<referer>http://mazystreams.xyz/</referer>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Roma vs Leicester City[/B][/COLOR] [COLOR orange][B]BT Sp0rt.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://motornews.live/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://motornews.live/novo/total/oggi-05-roma/</page>
+<referer>http://motornews.live/</referer>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Roma vs Leicester City[/B][/COLOR] [COLOR orange][B]BT Sp0rt.p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://mullafabz.xyz/HOST/LiveTV/TECNO/3.txt</externallink>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Roma vs Leicester City[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://sportslandnews.com</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://sportslandnews.com/4.php</page>
+<referer>http://sportslandnews.com</referer>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Roma vs Leicester City[/B][/COLOR] [COLOR orange][B]BT Sp0rt.MultiRate1[/B][/COLOR]</title>
+<link>https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.781001535613.channel.6xpwx7wczLHo.m3u8|Referer=http://www.footy.to</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Roma vs Leicester City[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.ripple-stream.com/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.ripple-stream.com/live/4.php</page>
+<referer>http://www.ripple-stream.com/</referer>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Roma vs Leicester City[/B][/COLOR] [COLOR orange][B]BT Sp0rt.MultiRate2[/B][/COLOR]</title>
+<link>https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.781001535613.channel.6xpwx7wczLHo.m3u8|Referer=http://www.footy.to</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Roma vs Leicester City[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p4[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://hockeynews.club/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://hockeynews.club/4.php</page>
+<referer>https://hockeynews.club/</referer>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Roma vs Leicester City[/B][/COLOR] [COLOR orange][B]TV8 Italy daddy[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>https://player.licenses4.me/player.php?id=premium4&test=true</page>
 <referer>https://player.licenses4.me/</referer>
 </regex>
-<thumbnail>https://i1.sndcdn.com/artworks-000443271765-n7bx39-t500x500.jpg</thumbnail>
-<fanart>https://i.imgur.com/HhGpqKX.jpg</fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Roma vs Leicester City[/B][/COLOR] [COLOR orange][B]RMC Sport 1 France daddy[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>https://player.licenses4.me/player.php?id=premium119&test=true</page>
+<referer>https://player.licenses4.me/</referer>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Marseille vs Feyenoord[/B][/COLOR] [COLOR orange][B]SuperSp0rt.1[/B][/COLOR]</title>
+<link>http://wppswllp.azureedge.net/live/btespn/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/serie-a/milan-vs-udinese/53971/</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Marseille vs Feyenoord[/B][/COLOR] [COLOR orange][B]SuperSp0rt.2[/B][/COLOR]</title>
+<link>http://wppswllp.azureedge.net/live/btespn/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/serie-a/milan-vs-udinese/53971/</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Marseille vs Feyenoord[/B][/COLOR] [COLOR orange][B]SuperSp0rt.72Op1[/B][/COLOR]</title>
+<link>http://dtsfu8xo15mhy.cloudfront.net/stream/NDE3Mw==/NDE3Mw==.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://1stream.top/soccer/MjExNjQ0NjI3</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Marseille vs Feyenoord[/B][/COLOR] [COLOR orange][B]SuperSp0rt.72Op2[/B][/COLOR]</title>
+<link>https://stremlinnggear.xyz/abr/ora.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=https://nflscoop.net/ddd4/</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Marseille vs Feyenoord[/B][/COLOR] [COLOR orange][B]SuperSp0rt.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://hockeyweb.live/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://hockeyweb.live/daily/totalsports/olympique05/</page>
+<referer>http://hockeyweb.live/</referer>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Marseille vs Feyenoord[/B][/COLOR] [COLOR orange][B]SuperSp0rt.p1[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://mullafabz.xyz/HOST/LiveTV/TECNO/4.txt</externallink>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Marseille vs Feyenoord[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://mazystreams.xyz/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://mazystreams.xyz/5.php</page>
+<referer>http://mazystreams.xyz/</referer>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Marseille vs Feyenoord[/B][/COLOR] [COLOR orange][B]SuperSp0rt.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://motornews.live/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://motornews.live/novo/total/oggi-05-Olympique/</page>
+<referer>http://motornews.live/</referer>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Marseille vs Feyenoord[/B][/COLOR] [COLOR orange][B]SuperSp0rt.p2[/B][/COLOR]</title>
+<link>http://Ignoreme</link>
+<externallink>https://mullafabz.xyz/HOST/LiveTV/TECNO/4.txt</externallink>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Marseille vs Feyenoord[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://sportslandnews.com</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://sportslandnews.com/5.php</page>
+<referer>http://sportslandnews.com</referer>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Marseille vs Feyenoord[/B][/COLOR] [COLOR orange][B]SuperSp0rt.Multi1[/B][/COLOR]</title>
+<link>https://d4e6999e0485.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.529707182583.channel.V7c8fACsZE6Y.m3u8|Referer=http://www.sportnews.to</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Marseille vs Feyenoord[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p3[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.ripple-stream.com/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.ripple-stream.com/live/5.php</page>
+<referer>http://www.ripple-stream.com/</referer>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Marseille vs Feyenoord[/B][/COLOR] [COLOR orange][B]SuperSp0rt.Multi2[/B][/COLOR]</title>
+<link>https://d4e6999e0485.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.529707182583.channel.V7c8fACsZE6Y.m3u8|Referer=http://www.sportnews.to</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Marseille vs Feyenoord[/B][/COLOR] [COLOR orange][B]SuperSp0rtz.720p4[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://hockeynews.club/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://hockeynews.club/5.php</page>
+<referer>https://hockeynews.club/</referer>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Marseille vs Feyenoord[/B][/COLOR] [COLOR orange][B]Canal+ France daddy[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>https://player.licenses4.me/player.php?id=premium122&test=true</page>
+<referer>https://player.licenses4.me/</referer>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]ECL[/B][/COLOR]:[COLOR white][B]Marseille vs Feyenoord[/B][/COLOR] [COLOR orange][B]ESPN 2 NL daddy[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://player.licenses4.me/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>https://player.licenses4.me/player.php?id=premium386&test=true</page>
+<referer>https://player.licenses4.me/</referer>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/1334570367784951808/W2UreAX8.jpg</thumbnail>
+<fanart>https://editorial.uefa.com/resources/026a-12825bec889a-c3ed03b0ccfd-1000/key_views_uecl_002_20210613124853.png</fanart>
 </item>
 -->
