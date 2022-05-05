@@ -44,7 +44,7 @@
 <regex>
 <name>get_sxstream</name>
 <expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
-<page>https://player.licenses4.me/player.php?id=premium9&test=true</page>
+<page>https://player.licenses4.me/player.php?id=premium19&test=true</page>
 <referer>https://player.licenses4.me/</referer>
 </regex>
 <thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
@@ -57,7 +57,7 @@
 <regex>
 <name>get_sxstream</name>
 <expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
-<page>https://player.licenses4.me/player.php?id=premium10&test=true</page>
+<page>https://player.licenses4.me/player.php?id=premium21&test=true</page>
 <referer>https://player.licenses4.me/</referer>
 </regex>
 <thumbnail>https://planetfuma.com/wp-content/uploads/2021/04/uefa-europa-league_logo_black-700x477-2.jpg</thumbnail>
