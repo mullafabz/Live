@@ -4,13 +4,13 @@
 <sortby>Name</sortby>
 <channels>
 
-<item>
-<title>[COLOR yellow][B]For supporting server costs[/B][/COLOR]:[COLOR turquoise][B]https://paypal.me/taylormulla[/B][/COLOR]</title>
-<link>http://www.google.com</link>
+<channel>
+<name>[COLOR yellow][B]For supporting server costs[/B][/COLOR]:[COLOR turquoise][B]https://paypal.me/taylormulla[/B][/COLOR]</name>
+<externallink>http://www.google.com</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-
+</channel>
+<!--
 <channel>
 <name>[COLOR pink][B]S[/B][/COLOR][COLOR white][B]ports[/B][/COLOR] [COLOR red][B]C[/B][/COLOR][COLOR white][B]hannels[/B][/COLOR]</name>
 <thumbnail>http://mullafabz.co.za/HOST/Icons/Live-Sport-Channel-TV.jpg</thumbnail>
@@ -18,7 +18,7 @@
 <fanart>http://mullafabz.co.za/HOST/Icons/promo.jpg</fanart>
 <info></info>
 </channel>
-<!--
+
 <channel>
 <name>[COLOR lime][B][/B][/COLOR][COLOR gold][B]NOTICE 2 UK USERS.CLICK TO READ[/B][/COLOR]</name>
 <externallink>https://bit.ly/RTNotice</externallink>
@@ -37,7 +37,7 @@
 <!--
 <channel>
 <name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR].Backup</name>
-<externallink>https://raw.githubusercontent.com/mullafabz/Live/master/footy</externallink>http://bit.ly/FOOTYSTRMZ1,http://bit.ly/FOOTYSTRMZ
+<externallink>https://mullafabz.xyz/HOST/LiveTV/sportsstreamz.xml</externallink>http://bit.ly/FOOTYSTRMZ1,http://bit.ly/FOOTYSTRMZ
 <thumbnail>http://mullafabz.co.za/HOST/Icons/live_football_logo.jpg</thumbnail>
 <fanart>http://mullafabz.co.za/HOST/Icons/matchdays.jpg</fanart>
 <info></info>
@@ -45,7 +45,7 @@
 
 <channel>
 <name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR].Backup1</name>
-<externallink>http://fabzmulla.xyz/HOST/LiveTV/sportsstreamz.xml</externallink>http://bit.ly/FOOTYSTRMZ1,http://bit.ly/FOOTYSTRMZ
+<externallink>https://fabzmulla.xyz/HOST/LiveTV/sportsstreamz.xml</externallink>http://bit.ly/FOOTYSTRMZ1,http://bit.ly/FOOTYSTRMZ
 <thumbnail>http://mullafabz.co.za/HOST/Icons/live_football_logo.jpg</thumbnail>
 <fanart>http://mullafabz.co.za/HOST/Icons/matchdays.jpg</fanart>
 <info></info>
@@ -85,7 +85,7 @@
 <thumbnail>http://mullafabz.co.za/HOST/Icons/moresportsevents.png</thumbnail>
 <fanart>https://i.imgur.com/AWutrFY.jpg</fanart>
 </channel>
-<!--
+
 <channel>
 <name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR] Backup</name>
 <externallink>http://mullafabz.co.za/HOST/LiveTV/sportsstreamz1.xml</externallink>
