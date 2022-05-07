@@ -13,9 +13,9 @@
 <!--
 <channel>
 <name>[COLOR pink][B]S[/B][/COLOR][COLOR white][B]ports[/B][/COLOR] [COLOR red][B]C[/B][/COLOR][COLOR white][B]hannels[/B][/COLOR]</name>
-<thumbnail>http://mullafabz.co.za/HOST/Icons/Live-Sport-Channel-TV.jpg</thumbnail>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/Live-Sport-Channel-TV.jpg</thumbnail>
 <externallink>http://bit.ly/SPORTZZ</externallink>http://bit.ly/SPORTZZ1
-<fanart>http://mullafabz.co.za/HOST/Icons/promo.jpg</fanart>
+<fanart>http://mullafabz.xyz/HOST/Icons/promo.jpg</fanart>
 <info></info>
 </channel>
 
@@ -29,74 +29,74 @@
 -->
 <channel>
 <name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR]</name>
-<externallink>https://mullafabz.co.za/HOST/LiveTV/sportsstreamz.xml</externallink>http://bit.ly/FOOTYSTRMZ1,http://bit.ly/FOOTYSTRMZ
-<thumbnail>http://mullafabz.co.za/HOST/Icons/live_football_logo.jpg</thumbnail>
-<fanart>http://mullafabz.co.za/HOST/Icons/matchdays.jpg</fanart>
+<externallink>https://mullafabz.xyz/HOST/LiveTV/sportsstreamz.xml</externallink>http://bit.ly/FOOTYSTRMZ1,http://bit.ly/FOOTYSTRMZ
+<thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 <info></info>
 </channel>
 <!--
 <channel>
 <name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR].Backup</name>
 <externallink>https://mullafabz.xyz/HOST/LiveTV/sportsstreamz.xml</externallink>http://bit.ly/FOOTYSTRMZ1,http://bit.ly/FOOTYSTRMZ
-<thumbnail>http://mullafabz.co.za/HOST/Icons/live_football_logo.jpg</thumbnail>
-<fanart>http://mullafabz.co.za/HOST/Icons/matchdays.jpg</fanart>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 <info></info>
 </channel>
 
 <channel>
 <name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR].Backup1</name>
 <externallink>https://fabzmulla.xyz/HOST/LiveTV/sportsstreamz.xml</externallink>http://bit.ly/FOOTYSTRMZ1,http://bit.ly/FOOTYSTRMZ
-<thumbnail>http://mullafabz.co.za/HOST/Icons/live_football_logo.jpg</thumbnail>
-<fanart>http://mullafabz.co.za/HOST/Icons/matchdays.jpg</fanart>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 <info></info>
 </channel>
 -->
 <channel>
 <name>[COLOR pink][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR] [COLOR red][B]P[/B][/COLOR][COLOR white][B]PV[/B][/COLOR] [COLOR pink][B]E[/B][/COLOR][COLOR white][B]vents[/B][/COLOR]</name>
-<externallink>http://mullafabz.co.za/HOST/LiveTV/PPV.xml</externallink>http://bit.ly/PPVXMLZ,http://bit.ly/PPVXMLZ1
-<thumbnail>http://mullafabz.co.za/HOST/Icons/ppvnew.jpg</thumbnail>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/PPV.xml</externallink>http://bit.ly/PPVXMLZ,http://bit.ly/PPVXMLZ1
+<thumbnail>http://mullafabz.xyz/HOST/Icons/ppvnew.jpg</thumbnail>
 <fanart>https://cleeng.com/blog/wp-content/uploads/2017/02/Live-PPV-piracy-e1487848574731.jpg</fanart>
 </channel>
 <!--
 <channel>
 <name>[COLOR pink][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR] [COLOR red][B]P[/B][/COLOR][COLOR white][B]PV[/B][/COLOR] [COLOR pink][B]E[/B][/COLOR][COLOR white][B]vents[/B][/COLOR].Backup</name>
 <externallink>http://fabzmulla.xyz/HOST/LiveTV/PPV.xml</externallink>http://bit.ly/PPVXMLZ,http://bit.ly/PPVXMLZ1
-<thumbnail>http://mullafabz.co.za/HOST/Icons/ppvnew.jpg</thumbnail>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/ppvnew.jpg</thumbnail>
 <fanart>https://cleeng.com/blog/wp-content/uploads/2017/02/Live-PPV-piracy-e1487848574731.jpg</fanart>
 </channel>
 
 <channel>
 <name>[COLOR pink][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR] [COLOR red][B]P[/B][/COLOR][COLOR white][B]PV[/B][/COLOR] [COLOR pink][B]E[/B][/COLOR][COLOR white][B]vents[/B][/COLOR].Backup</name>
 <externallink>https://raw.githubusercontent.com/mullafabz/Live/master/ppv3.xml</externallink>http://bit.ly/PPVXMLZ,http://bit.ly/PPVXMLZ1
-<thumbnail>http://mullafabz.co.za/HOST/Icons/ppvnew.jpg</thumbnail>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/ppvnew.jpg</thumbnail>
 <fanart>https://cleeng.com/blog/wp-content/uploads/2017/02/Live-PPV-piracy-e1487848574731.jpg</fanart>
 </channel>
 -->
 <channel>
 <name>[COLOR pink][B]M[/B][/COLOR][COLOR white][B]ore[/B][/COLOR] [COLOR red][B]S[/B][/COLOR][COLOR white][B]ports[/B][/COLOR] [COLOR red][B]E[/B][/COLOR][COLOR white][B]vents[/B][/COLOR]</name>
-<externallink>http://mullafabz.co.za/HOST/LiveTV/requests.xml</externallink>http://bit.ly/REQUESTSZZ1,http://bit.ly/REQUESTSZZ
-<thumbnail>http://mullafabz.co.za/HOST/Icons/moresportsevents.png</thumbnail>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/requests.xml</externallink>http://bit.ly/REQUESTSZZ1,http://bit.ly/REQUESTSZZ
+<thumbnail>http://mullafabz.xyz/HOST/Icons/moresportsevents.png</thumbnail>
 <fanart>https://i.imgur.com/AWutrFY.jpg</fanart>
 </channel>
 <!--
 <channel>
 <name>[COLOR pink][B]M[/B][/COLOR][COLOR white][B]ore[/B][/COLOR] [COLOR red][B]S[/B][/COLOR][COLOR white][B]ports[/B][/COLOR] [COLOR red][B]E[/B][/COLOR][COLOR white][B]vents[/B][/COLOR].Backup</name>
 <externallink>http://fabzmulla.xyz/HOST/LiveTV/requests.xml</externallink>http://bit.ly/REQUESTSZZ1,http://bit.ly/REQUESTSZZ
-<thumbnail>http://mullafabz.co.za/HOST/Icons/moresportsevents.png</thumbnail>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/moresportsevents.png</thumbnail>
 <fanart>https://i.imgur.com/AWutrFY.jpg</fanart>
 </channel>
 
 <channel>
 <name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR] Backup</name>
-<externallink>http://mullafabz.co.za/HOST/LiveTV/sportsstreamz1.xml</externallink>
-<thumbnail>http://mullafabz.co.za/HOST/Icons/live_football_logo.jpg</thumbnail>
-<fanart>http://mullafabz.co.za/HOST/Icons/matchdays.jpg</fanart>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/sportsstreamz1.xml</externallink>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 <info></info>
 </channel>
 -->
 <channel>
 <name>[COLOR pink][B]T[/B][/COLOR][COLOR white][B]est[/B][/COLOR] [COLOR pink][B]A[/B][/COLOR][COLOR white][B]rea[/B][/COLOR]</name>
-<externallink>http://mullafabz.co.za/HOST/LiveTV/Testing.xml</externallink>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/Testing.xml</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </channel>
@@ -111,24 +111,24 @@
 <channel>
 <name>[COLOR pink][B]I[/B][/COLOR][COLOR white][B]PTV[/B][/COLOR] [COLOR red][B]H[/B][/COLOR][COLOR white][B]eaven[/B][/COLOR]</name>
 <externallink>http://bit.ly/IIPTVHEAVENZ</externallink>
-<thumbnail>http://mullafabz.co.za/HOST/Icons/IPTVs.jpg</thumbnail>
-<fanart>http://mullafabz.co.za/HOST/Icons/iptvfanart.jpg</fanart>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/IPTVs.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/iptvfanart.jpg</fanart>
 <info></info>
 </channel>
 
 <channel>
 <name>[COLOR pink][B]S[/B][/COLOR][COLOR white][B]ports[/B][/COLOR] [COLOR red][B]C[/B][/COLOR][COLOR white][B]hannels[/B][/COLOR]</name>
 <externallink>http://bit.ly/SPORTSBCKUP1</externallink>
-<thumbnail>http://mullafabz.co.za/HOST/Icons/Live-Sport-Channel-TV.jpg</thumbnail>
-<fanart>http://mullafabz.co.za/HOST/Icons/promo.jpg</fanart>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/Live-Sport-Channel-TV.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/promo.jpg</fanart>
 <info></info>
 </channel>
 
 <channel>
 <name>[COLOR pink][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR] [COLOR red][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR]</name>
 <externallink>http://bit.ly/LIVEFOOTBALLBCKP</externallink>
-<thumbnail>http://mullafabz.co.za/HOST/Icons/live_football_logo.jpg</thumbnail>
-<fanart>http://mullafabz.co.za/HOST/Icons/matchdays.jpg</fanart>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 <info></info>
 </channel>
 -->
