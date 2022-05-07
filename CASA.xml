@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
  
-<layouttype>Info</layouttype
+<layouttype></layouttype
 <sortby>Name</sortby>
 <channels>
-<!--
-<channel>
-<name>[COLOR purple][B]~[/B][/COLOR][COLOR orange][B]For supporting server costs[/B][/COLOR]:</name>
-<externallink>http://bit.ly/PPVX</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</channel>
 
-<channel>
-<name>[COLOR turquoise][B]https://paypal.me/[/B][/COLOR][COLOR lime][B]taylormulla[/B][/COLOR][COLOR purple][B]~[/B][/COLOR]</name>
-<externallink>http://bit.ly/PPVX</externallink>
+<item>
+<title>[COLOR yellow][B]For supporting server costs[/B][/COLOR]:[COLOR turquoise][B]https://paypal.me/taylormulla[/B][/COLOR]</title>
+<link>http://www.google.com</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</channel>
+</item>
 
 <channel>
 <name>[COLOR pink][B]S[/B][/COLOR][COLOR white][B]ports[/B][/COLOR] [COLOR red][B]C[/B][/COLOR][COLOR white][B]hannels[/B][/COLOR]</name>
@@ -51,7 +44,7 @@
 </channel>
 
 <channel>
-<name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR].Backup</name>
+<name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR].Backup1</name>
 <externallink>http://fabzmulla.xyz/HOST/LiveTV/sportsstreamz.xml</externallink>http://bit.ly/FOOTYSTRMZ1,http://bit.ly/FOOTYSTRMZ
 <thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
@@ -64,7 +57,7 @@
 <thumbnail>http://mullafabz.xyz/HOST/Icons/ppvnew.jpg</thumbnail>
 <fanart>https://cleeng.com/blog/wp-content/uploads/2017/02/Live-PPV-piracy-e1487848574731.jpg</fanart>
 </channel>
- 
+<!--
 <channel>
 <name>[COLOR pink][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR] [COLOR red][B]P[/B][/COLOR][COLOR white][B]PV[/B][/COLOR] [COLOR pink][B]E[/B][/COLOR][COLOR white][B]vents[/B][/COLOR].Backup</name>
 <externallink>http://fabzmulla.xyz/HOST/LiveTV/PPV.xml</externallink>http://bit.ly/PPVXMLZ,http://bit.ly/PPVXMLZ1
@@ -72,7 +65,6 @@
 <fanart>https://cleeng.com/blog/wp-content/uploads/2017/02/Live-PPV-piracy-e1487848574731.jpg</fanart>
 </channel>
 
-<!--
 <channel>
 <name>[COLOR pink][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR] [COLOR red][B]P[/B][/COLOR][COLOR white][B]PV[/B][/COLOR] [COLOR pink][B]E[/B][/COLOR][COLOR white][B]vents[/B][/COLOR].Backup</name>
 <externallink>https://raw.githubusercontent.com/mullafabz/Live/master/ppv3.xml</externallink>http://bit.ly/PPVXMLZ,http://bit.ly/PPVXMLZ1
