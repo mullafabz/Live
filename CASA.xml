@@ -1,29 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
  
-<layouttype></layouttype
+<layouttype>thumbnail</layouttype
 <sortby>Name</sortby>
 <channels>
 
 <channel>
-<name>[COLOR yellow][B]Support server costs[/B][/COLOR] @ [COLOR turquoise][B]https://paypal.me/taylormulla[/B][/COLOR]</name>
-<externallink>http://www.google.com</externallink>
-<thumbnail></thumbnail>
+<name>[COLOR yellow][B]BET & WIN WITH MELBET.COM[/B][/COLOR]</name>
+<externallink>http://bit.ly/PPVX</externallink>
+<thumbnail>https://i.imgur.com/yy7Tk7N.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>[COLOR yellow][B]GET 130% BONUS ON DEPOSIT[/B][/COLOR] [COLOR yellow][B]WITH PROMOCODE[/B][/COLOR] [COLOR lime][B]MULLA[/B][/COLOR]</name>
+<externallink>http://bit.ly/PP</externallink>
+<thumbnail>https://i.imgur.com/yy7Tk7N.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+
+<channel>
+<name>[COLOR yellow][B]OR GO TO[/B][/COLOR] [COLOR lime][B]https://bit.ly/MELBETCOM[/B][/COLOR] [COLOR yellow][B]TO REGISTER[/B][/COLOR]</name>
+<externallink>http://bit.ly/PP</externallink>
+<thumbnail>https://i.imgur.com/yy7Tk7N.jpg</thumbnail>
 <fanart></fanart>
 </channel>
 <!--
 <channel>
-<name>[COLOR pink][B]S[/B][/COLOR][COLOR white][B]ports[/B][/COLOR] [COLOR red][B]C[/B][/COLOR][COLOR white][B]hannels[/B][/COLOR]</name>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/Live-Sport-Channel-TV.jpg</thumbnail>
-<externallink>http://bit.ly/SPORTZZ</externallink>http://bit.ly/SPORTZZ1
-<fanart>http://mullafabz.xyz/HOST/Icons/promo.jpg</fanart>
+<name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR].Backup</name>
+<externallink>https://raw.githubusercontent.com/mullafabz/Live/master/footy</externallink>http://bit.ly/FOOTYSTRMZ1,http://bit.ly/FOOTYSTRMZ
+<thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 <info></info>
 </channel>
 
 <channel>
-<name>[COLOR lime][B][/B][/COLOR][COLOR gold][B]NOTICE 2 UK USERS.CLICK TO READ[/B][/COLOR]</name>
-<externallink>https://bit.ly/RTNotice</externallink>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_the_United_Kingdom_Square.svg/2481px-Flag_of_the_United_Kingdom_Square.svg.png</thumbnail>
-<fanart></fanart>
+<name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR].Backup</name>
+<externallink>http://fabzmulla.xyz/HOST/LiveTV/sportsstreamz.xml</externallink>http://bit.ly/FOOTYSTRMZ1,http://bit.ly/FOOTYSTRMZ
+<thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 <info></info>
 </channel>
 -->
@@ -34,23 +48,14 @@
 <fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 <info></info>
 </channel>
-<!--
-<channel>
-<name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR].Backup</name>
-<externallink>https://mullafabz.xyz/HOST/LiveTV/sportsstreamz.xml</externallink>http://bit.ly/FOOTYSTRMZ1,http://bit.ly/FOOTYSTRMZ
-<thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
-<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
-<info></info>
-</channel>
 
 <channel>
-<name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR].Backup1</name>
-<externallink>https://fabzmulla.xyz/HOST/LiveTV/sportsstreamz.xml</externallink>http://bit.ly/FOOTYSTRMZ1,http://bit.ly/FOOTYSTRMZ
-<thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
-<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
-<info></info>
+<name>[COLOR yellow][B]Support server costs[/B][/COLOR] @ [COLOR turquoise][B]https://paypal.me/taylormulla[/B][/COLOR]</name>
+<externallink>http://www.google.com</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </channel>
--->
+
 <channel>
 <name>[COLOR pink][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR] [COLOR red][B]P[/B][/COLOR][COLOR white][B]PV[/B][/COLOR] [COLOR pink][B]E[/B][/COLOR][COLOR white][B]vents[/B][/COLOR]</name>
 <externallink>http://mullafabz.xyz/HOST/LiveTV/PPV.xml</externallink>http://bit.ly/PPVXMLZ,http://bit.ly/PPVXMLZ1
@@ -129,6 +134,14 @@
 <externallink>http://bit.ly/LIVEFOOTBALLBCKP</externallink>
 <thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
 <fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR pink][B]S[/B][/COLOR][COLOR white][B]ports[/B][/COLOR] [COLOR red][B]C[/B][/COLOR][COLOR white][B]hannels[/B][/COLOR]</name>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/Live-Sport-Channel-TV.jpg</thumbnail>
+<externallink>http://bit.ly/SPORTZZ</externallink>http://bit.ly/SPORTZZ1
+<fanart>http://mullafabz.xyz/HOST/Icons/promo.jpg</fanart>
 <info></info>
 </channel>
 -->
