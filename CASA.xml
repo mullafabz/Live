@@ -40,7 +40,7 @@
 <fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 <info></info>
 </channel>
--->
+
 <channel>
 <name>[COLOR purple][B]====>>>>[/B][/COLOR][COLOR lime][B]NOTICE ABOUT THE CUTS[/B][/COLOR][COLOR purple][B]<<<<====[/B][/COLOR]</name>
 <externallink>http://mullafabz.xyz/HOST/LiveTV/notice.txt</externallink>http://bit.ly/FOOTYSTRMZ1,http://bit.ly/FOOTYSTRMZ
@@ -48,7 +48,7 @@
 <fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 <info></info>
 </channel>
-
+-->
 <channel>
 <name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR]</name>
 <externallink>https://mullafabz.xyz/HOST/LiveTV/sportsstreamz.xml</externallink>http://bit.ly/FOOTYSTRMZ1,http://bit.ly/FOOTYSTRMZ
@@ -69,6 +69,14 @@
 <externallink>http://www.google.com</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
+</channel>
+
+<channel>
+<name>[COLOR pink][B]I[/B][/COLOR][COLOR white][B]PTV[/B][/COLOR] [COLOR red][B]H[/B][/COLOR][COLOR white][B]eaven[/B][/COLOR]</name>
+<externallink>http://bit.ly/IIPTVHEAVEN</externallink>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/IPTVs.jpg</thumbnail>
+<fanart>http://mullafabz.xyz/HOST/Icons/iptvfanart.jpg</fanart>
+<info></info>
 </channel>
 
 <channel>
@@ -126,14 +134,6 @@
 <externallink>http://bit.ly/NEW_COUNTRY</externallink>
 <thumbnail>https://i.imgur.com/vxcBTpG.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/4/4a/World_Flag_Map_V._2.3.png</fanart>
-</channel>
-
-<channel>
-<name>[COLOR pink][B]I[/B][/COLOR][COLOR white][B]PTV[/B][/COLOR] [COLOR red][B]H[/B][/COLOR][COLOR white][B]eaven[/B][/COLOR]</name>
-<externallink>http://bit.ly/IIPTVHEAVENZ</externallink>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/IPTVs.jpg</thumbnail>
-<fanart>http://mullafabz.xyz/HOST/Icons/iptvfanart.jpg</fanart>
-<info></info>
 </channel>
 
 <channel>
