@@ -39,7 +39,7 @@
 
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Aston Villa vs Chelsea[/B][/COLOR] [COLOR orange][B]Peacock.720p60[/B][/COLOR]</title>
-<link>https://wdcsdwdasd.s3-accelerate.amazonaws.com/blues.m3u8|Referer=http://givemenbastreams.com/soccer.php?g=liverpool</link>
+<link>https://jozef343.s3-accelerate.amazonaws.com/chelsea.m3u8|Referer=http://givemenbastreams.com/soccer.php?g=liverpool</link>
 <thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
 <fanart>https://i.imgur.com/15s2TrV.jpg</fanart>
 </item> 
@@ -228,7 +228,7 @@
 
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Man United vs Newcastle United[/B][/COLOR] [COLOR orange][B]HUB Premier.720p60[/B][/COLOR]</title>
-<link>https://wdcsdwdasd.s3-accelerate.amazonaws.com/manu.m3u8|Referer=http://givemenbastreams.com/soccer.php?g=liverpool</link>
+<link>https://jozef343.s3-accelerate.amazonaws.com/manutd2.m3u8|Referer=http://givemenbastreams.com/soccer.php?g=liverpool</link>
 <thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
 <fanart>https://i.imgur.com/ChlBSqT.jpg</fanart>
 </item>
@@ -248,8 +248,15 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Man United vs Newcastle United[/B][/COLOR] [COLOR orange][B]beIN Sports 1 Premium FHD[/B][/COLOR]</title>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Man United vs Newcastle United[/B][/COLOR] [COLOR orange][B]beIN Sports 1 Premium FHD1[/B][/COLOR]</title>
 <link>http://46.105.112.116/?watch=EX/bein8FHD-ar&token=RED_EHAFLRzTdJD231FA9ORFAg==,1665791825.7928642496&t=0&s=4&p=1&c=GB&r=1410&lb=1|User-Agent=REDLINECLIENT GOLDENBOX V2.8.89</link>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/ChlBSqT.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Man United vs Newcastle United[/B][/COLOR] [COLOR orange][B]beIN Sports Premium 1 FHD2[/B][/COLOR]</title>
+<link>http://46.105.112.116/?watch=EX/beIN_Sports_Premium_1_4K-ar&token=RED_EHAFLRzTdJD231FA9ORFAg==,1665791825.7928642496&t=0&s=10&p=1&c=GB&r=1410&lb=1|User-Agent=REDLINECLIENT GOLDENBOX V2.8.89</link>
 <thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
 <fanart>https://i.imgur.com/ChlBSqT.jpg</fanart>
 </item>
@@ -257,20 +264,6 @@
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Man United vs Newcastle United[/B][/COLOR] [COLOR orange][B]beIN Sports 1 Premium HD[/B][/COLOR]</title>
 <link>http://46.105.112.116/?watch=EX/bein8hd-ar&token=RED_EHAFLRzTdJD231FA9ORFAg==,1665791825.7928642496&t=0&s=4&p=1&c=GB&r=1410&lb=1|User-Agent=REDLINECLIENT GOLDENBOX V2.8.89</link>
-<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
-<fanart>https://i.imgur.com/ChlBSqT.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Man United vs Newcastle United[/B][/COLOR] [COLOR orange][B]beIN Sports Premium 1 4K[/B][/COLOR]</title>
-<link>http://46.105.112.116/?watch=EX/beIN_Sports_Premium_1_4K-ar&token=RED_EHAFLRzTdJD231FA9ORFAg==,1665791825.7928642496&t=0&s=10&p=1&c=GB&r=1410&lb=1|User-Agent=REDLINECLIENT GOLDENBOX V2.8.89</link>
-<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
-<fanart>https://i.imgur.com/ChlBSqT.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Man United vs Newcastle United[/B][/COLOR] [COLOR orange][B]beIN Sports 1 Premium SD[/B][/COLOR]</title>
-<link>http://46.105.112.116/?watch=EX/bein8sd-ar&token=RED_EHAFLRzTdJD231FA9ORFAg==,1665791825.7928642496&t=0&s=10&p=1&c=GB&r=1410&lb=1|User-Agent=REDLINECLIENT GOLDENBOX V2.8.89</link>
 <thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
 <fanart>https://i.imgur.com/ChlBSqT.jpg</fanart>
 </item>
@@ -397,21 +390,28 @@
 
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Leeds United vs Arsenal[/B][/COLOR] [COLOR orange][B]HUB Premier.720p60[/B][/COLOR]</title>
-<link>https://wdcsdwdasd.s3-accelerate.amazonaws.com/reds.m3u8|Referer=http://givemenbastreams.com/soccer.php?g=liverpool</link>
+<link>https://jozef343.s3-accelerate.amazonaws.com/liverpool2.m3u8|Referer=http://givemenbastreams.com/soccer.php?g=liverpool</link>
 <thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
 <fanart>https://i.imgur.com/ChlBSqT.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Leeds United vs Arsenal[/B][/COLOR] [COLOR orange][B]Star Sports 1 Select HD[/B][/COLOR]</title>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Leeds United vs Arsenal[/B][/COLOR] [COLOR orange][B]Star Sports 2 Select HD[/B][/COLOR]</title>
 <link>http://46.105.112.116/?watch=R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in&token=RED_EHAFLRzTdJD231FA9ORFAg==,1665791825.7928642496&t=0&s=17&p=1&c=GB&r=1410&lb=1|User-Agent=REDLINECLIENT GOLDENBOX V2.8.89</link>
 <thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
 <fanart>https://i.imgur.com/ChlBSqT.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Leeds United vs Arsenal[/B][/COLOR] [COLOR orange][B]beIN Sports 3 Premium FHD[/B][/COLOR]</title>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Leeds United vs Arsenal[/B][/COLOR] [COLOR orange][B]beIN Sports 3 Premium FHD1[/B][/COLOR]</title>
 <link>http://46.105.112.116/?watch=EX/bein10FHD-ar&token=RED_EHAFLRzTdJD231FA9ORFAg==,1665791825.7928642496&t=0&s=4&p=1&c=GB&r=1410&lb=1|User-Agent=REDLINECLIENT GOLDENBOX V2.8.89</link>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/ChlBSqT.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Leeds United vs Arsenal[/B][/COLOR] [COLOR orange][B]beIN Sports Premium 3 FHD2[/B][/COLOR]</title>
+<link>http://46.105.112.116/?watch=EX/beIN_Sports_Premium_3_4K-ar&token=RED_EHAFLRzTdJD231FA9ORFAg==,1665791825.7928642496&t=0&s=10&p=1&c=GB&r=1410&lb=1|User-Agent=REDLINECLIENT GOLDENBOX V2.8.89</link>
 <thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
 <fanart>https://i.imgur.com/ChlBSqT.jpg</fanart>
 </item>
@@ -419,20 +419,6 @@
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Leeds United vs Arsenal[/B][/COLOR] [COLOR orange][B]beIN Sports 3 Premium HD[/B][/COLOR]</title>
 <link>http://46.105.112.116/?watch=EX/bein10hd-ar&token=RED_EHAFLRzTdJD231FA9ORFAg==,1665791825.7928642496&t=0&s=4&p=1&c=GB&r=1410&lb=1|User-Agent=REDLINECLIENT GOLDENBOX V2.8.89</link>
-<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
-<fanart>https://i.imgur.com/ChlBSqT.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Leeds United vs Arsenal[/B][/COLOR] [COLOR orange][B]beIN Sports Premium 3 4K[/B][/COLOR]</title>
-<link>http://46.105.112.116/?watch=EX/beIN_Sports_Premium_3_4K-ar&token=RED_EHAFLRzTdJD231FA9ORFAg==,1665791825.7928642496&t=0&s=10&p=1&c=GB&r=1410&lb=1|User-Agent=REDLINECLIENT GOLDENBOX V2.8.89</link>
-<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
-<fanart>https://i.imgur.com/ChlBSqT.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Leeds United vs Arsenal[/B][/COLOR] [COLOR orange][B]beIN Sports 3 Premium SD[/B][/COLOR]</title>
-<link>http://46.105.112.116/?watch=EX/bein10sd-ar&token=RED_EHAFLRzTdJD231FA9ORFAg==,1665791825.7928642496&t=0&s=10&p=1&c=GB&r=1410&lb=1|User-Agent=REDLINECLIENT GOLDENBOX V2.8.89</link>
 <thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
 <fanart>https://i.imgur.com/ChlBSqT.jpg</fanart>
 </item>
@@ -560,6 +546,19 @@
 <item>
 <title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Southampton vs West Ham United[/B][/COLOR] [COLOR orange][B]SuperSp0rt.1[/B][/COLOR]</title>
 <link>http://weakfbvgvh.azureedge.net/live/s2/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/</link>
+<thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
+<fanart>https://i.imgur.com/ChlBSqT.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]PL[/B][/COLOR]:[COLOR white][B]Southampton vs West Ham United[/B][/COLOR] [COLOR orange][B]SuperSp0rt.ABR[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://allsportsdaily.co/b12-southampton-vs-west-ham-united</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://allsportsdaily.co/b12-southampton-vs-west-ham-united</page>
+<referer>https://allsportsdaily.co/b12-southampton-vs-west-ham-united</referer>
+</regex>
 <thumbnail>https://i.imgur.com/s88wfHT.png</thumbnail>
 <fanart>https://i.imgur.com/ChlBSqT.jpg</fanart>
 </item>
@@ -1227,84 +1226,97 @@
 </item> 
 
 <item>
-<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]SuperSport LaLiga FHD[/B][/COLOR]</title>
-<link>http://46.105.112.116/?watch=AFR-EX/SuperSport_LaLiga_FHD-dstv&token=RED_cAzmfrv5vqff-qHclz0J1Q==,1665257661.7928642496&t=0&s=16&p=1&c=GB&r=1410&lb=1|User-Agent=REDLINECLIENT GOLDENBOX V2.8.89</link>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Barcelona[/B][/COLOR] [COLOR orange][B]SuperSport LaLiga FHD[/B][/COLOR]</title>
+<link>http://46.105.112.116/?watch=AFR-EX/SuperSport_LaLiga_FHD-dstv&token=RED_EHAFLRzTdJD231FA9ORFAg==,1665791825.7928642496&t=0&s=16&p=1&c=GB&r=1410&lb=1|User-Agent=REDLINECLIENT GOLDENBOX V2.8.89</link>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]Premier Sports 1 FHD[/B][/COLOR]</title>
-<link>http://46.105.112.116/?watch=EX/UK_Premier_Sports_1_FHD-uk&token=RED_cAzmfrv5vqff-qHclz0J1Q==,1665257661.7928642496&t=1&s=4&p=1&c=GB&r=1410&lb=1|User-Agent=REDLINECLIENT GOLDENBOX V2.8.89</link>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Barcelona[/B][/COLOR] [COLOR orange][B]Premier Sports 1 FHD[/B][/COLOR]</title>
+<link>http://46.105.112.116/?watch=EX/UK_Premier_Sports_1_FHD-uk&token=RED_EHAFLRzTdJD231FA9ORFAg==,1665791825.7928642496&t=1&s=4&p=1&c=GB&r=1410&lb=1|User-Agent=REDLINECLIENT GOLDENBOX V2.8.89</link>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]Premier Sports 1 HD[/B][/COLOR]</title>
-<link>http://46.105.112.116/?watch=EX/Premier_Sports_1_HD-uk&token=RED_cAzmfrv5vqff-qHclz0J1Q==,1665257661.7928642496&t=0&s=3&p=1&c=GB&r=1410&lb=1|User-Agent=REDLINECLIENT GOLDENBOX V2.8.89</link>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Barcelona[/B][/COLOR] [COLOR orange][B]Premier Sports 1 HD[/B][/COLOR]</title>
+<link>http://46.105.112.116/?watch=EX/Premier_Sports_1_HD-uk&token=RED_EHAFLRzTdJD231FA9ORFAg==,1665791825.7928642496&t=0&s=3&p=1&c=GB&r=1410&lb=1|User-Agent=REDLINECLIENT GOLDENBOX V2.8.89</link>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
 <!--
 <item>
-<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]beIN Sports English 2 HD[/B][/COLOR]</title>
-<link>http://46.105.112.116/?watch=EX/beIN_Sports_English_2_4K-ar&token=RED_cAzmfrv5vqff-qHclz0J1Q==,1665257661.7928642496&t=0&s=10&p=1&c=GB&r=1410&lb=1|User-Agent=REDLINECLIENT GOLDENBOX V2.8.89</link>
-<thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
-<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]beIN Sports 1 French HD1[/B][/COLOR]</title>
-<link>http://46.105.112.116/?watch=EX/bein14hd-ar&token=RED_cAzmfrv5vqff-qHclz0J1Q==,1665257661.7928642496&t=1&s=10&p=1&c=GB&r=1410&lb=1|User-Agent=REDLINECLIENT GOLDENBOX V2.8.89</link>
-<thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
-<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]beIN Sports 1 French HD2[/B][/COLOR]</title>
-<link>http://46.105.112.116/?watch=EX/bein14sd-ar&token=RED_cAzmfrv5vqff-qHclz0J1Q==,1665257661.7928642496&t=1&s=10&p=1&c=GB&r=1410&lb=1|User-Agent=REDLINECLIENT GOLDENBOX V2.8.89</link>
-<thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
-<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]beIN Sports 1 French HD3[/B][/COLOR]</title>
-<link>http://46.105.112.116/?watch=EX/beIN_Sports_French_1_4K-ar&token=RED_cAzmfrv5vqff-qHclz0J1Q==,1665257661.7928642496&t=0&s=10&p=1&c=GB&r=1410&lb=1|User-Agent=REDLINECLIENT GOLDENBOX V2.8.89</link>
-<thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
-<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
-</item>
-<!--
-<item>
-<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]Premier Sp0rts.1[/B][/COLOR]</title>
-<link>http://nhbvbshn.azureedge.net/live/ps1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/</link>
-<thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
-<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]Premier Sp0rts.2[/B][/COLOR]</title>
-<link>http://nhbvbshn.azureedge.net/live/ps1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/</link>
-<thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
-<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
-</item>
-<!--
-<item>
-<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]Premier Sp0rts.0p1[/B][/COLOR]</title>
-<link>http://ropoe.azureedge.net/stream/NDk2Ng==/NDk2Ng==.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://1stream.top/soccer/MjE0ODQyNDk5</link>
-<thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
-<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]Premier Sp0rts.0p2[/B][/COLOR]</title>
-<link>https://cappuccinostream.xyz/hls/ora1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=https://nflscoop.net/ddd4/</link>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Barcelona[/B][/COLOR] [COLOR orange][B]beIN Sports English 2 HD[/B][/COLOR]</title>
+<link>http://46.105.112.116/?watch=EX/beIN_Sports_English_2_4K-ar&token=RED_EHAFLRzTdJD231FA9ORFAg==,1665791825.7928642496&t=0&s=10&p=1&c=GB&r=1410&lb=1|User-Agent=REDLINECLIENT GOLDENBOX V2.8.89</link>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
 -->
 <item>
-<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]Premier Sp0rts.720p1[/B][/COLOR]</title>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Barcelona[/B][/COLOR] [COLOR orange][B]beIN Sports 1 French HD1[/B][/COLOR]</title>
+<link>http://46.105.112.116/?watch=EX/bein14hd-ar&token=RED_EHAFLRzTdJD231FA9ORFAg==,1665791825.7928642496&t=1&s=10&p=1&c=GB&r=1410&lb=1|User-Agent=REDLINECLIENT GOLDENBOX V2.8.89</link>
+<thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Barcelona[/B][/COLOR] [COLOR orange][B]beIN Sports 1 French HD2[/B][/COLOR]</title>
+<link>http://46.105.112.116/?watch=EX/bein14sd-ar&token=RED_EHAFLRzTdJD231FA9ORFAg==,1665791825.7928642496&t=1&s=10&p=1&c=GB&r=1410&lb=1|User-Agent=REDLINECLIENT GOLDENBOX V2.8.89</link>
+<thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Barcelona[/B][/COLOR] [COLOR orange][B]beIN Sports 1 French HD3[/B][/COLOR]</title>
+<link>http://46.105.112.116/?watch=EX/beIN_Sports_French_1_4K-ar&token=RED_EHAFLRzTdJD231FA9ORFAg==,1665791825.7928642496&t=0&s=10&p=1&c=GB&r=1410&lb=1|User-Agent=REDLINECLIENT GOLDENBOX V2.8.89</link>
+<thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Barcelona[/B][/COLOR] [COLOR orange][B]Premier Sp0rts.1[/B][/COLOR]</title>
+<link>http://weakfbvgvh.azureedge.net/live/ps1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/</link>
+<thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Barcelona[/B][/COLOR] [COLOR orange][B]Premier Sp0rts.0p1[/B][/COLOR]</title>
+<link>http://maincenter.azurdege.net/scripts/NTYxMw==/NTYxMw==.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=http://1stream.top/soccer/MjE0ODQyNDk5</link>
+<thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Barcelona[/B][/COLOR] [COLOR orange][B]Premier Sp0rts.2[/B][/COLOR]</title>
+<link>http://weakfbvgvh.azureedge.net/live/ps1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0&Referer=http://weakstreams.com/soccer-streams/</link>
+<thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Barcelona[/B][/COLOR] [COLOR orange][B]Premier Sp0rts.11[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://allsportsdaily.co/b14-real-madrid-vs-barcelona</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>https://allsportsdaily.co/b14-real-madrid-vs-barcelona</page>
+<referer>https://allsportsdaily.co/b14-real-madrid-vs-barcelona</referer>
+</regex>
+<thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Barcelona[/B][/COLOR] [COLOR orange][B]Premier Sp0rts.0p2[/B][/COLOR]</title>
+<link>https://cappuccinochill.xyz/hls/ora4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0&Referer=https://nflscoop.net/ddd4/</link>
+<thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Barcelona[/B][/COLOR] [COLOR orange][B]Premier Sp0rts.720p1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://hockeyweb.live/</link>
 <regex>
 <name>get_sxstream</name>
@@ -1317,14 +1329,14 @@
 </item>
 
 <item>
-<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]Premier Sp0rts.p1[/B][/COLOR]</title>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Barcelona[/B][/COLOR] [COLOR orange][B]Premier Sp0rts.p1[/B][/COLOR]</title>
 <link>https://nflarcadia.xyz/hls/s3.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/67.0&Referer=https://gamerarcades.com/assets/ts5.html</link>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]Premier Sp0rtz.720p1[/B][/COLOR]</title>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Barcelona[/B][/COLOR] [COLOR orange][B]Premier Sp0rtz.720p1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://mazystreams.xyz</link>
 <regex>
 <name>get_sxstream</name>
@@ -1337,7 +1349,7 @@
 </item>
  
 <item>
-<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]Movistar Laliga daddy[/B][/COLOR]</title>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Barcelona[/B][/COLOR] [COLOR orange][B]Movistar Laliga daddy[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streamservicehd.click/premiumtv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0</link>
 <regex>
 <name>get_sxstream</name>
@@ -1350,14 +1362,14 @@
 </item>
  
 <item>
-<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]Movistar LaLiga[/B][/COLOR]</title>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Barcelona[/B][/COLOR] [COLOR orange][B]Movistar LaLiga[/B][/COLOR]</title>
 <link>http://46.105.112.116/?watch=NL/mlaliga1hd-esp&token=RED_SrotmbQqm7fyWUSr3JXsaQ==,1665250604.7928642496&t=0&s=3&p=1&c=GB&r=1410&lb=1|User-Agent=REDLINECLIENT GOLDENBOX V2.8.89</link>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]Premier Sp0rts.720p2[/B][/COLOR]</title>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Barcelona[/B][/COLOR] [COLOR orange][B]Premier Sp0rts.720p2[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://motornews.live/</link>
 <regex>
 <name>get_sxstream</name>
@@ -1370,41 +1382,40 @@
 </item>
  
 <item>
-<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]Premier Sp0rts.p2[/B][/COLOR]</title>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Barcelona[/B][/COLOR] [COLOR orange][B]Premier Sp0rts.p2[/B][/COLOR]</title>
 <link>https://reels2watch.com/hls/s3.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0&Referer=https://techoreels.com/clip/s1.html</link>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
-<!--
-<item>
-<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]Premier Sp0rts.Multi1[/B][/COLOR]</title>
-<link>https://f4bfe57cd2c2.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.052442960378.channel.gQWJBZR40sfK.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czpldS13ZXN0LTE6MDUyNDQyOTYwMzc4OmNoYW5uZWwvRUd5SEM1dWhqNVV6IiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8vd3d3Lm15c3BvcnRzLnRvIiwiaWF0IjoxNjYzNDA1ODI3LCJleHAiOjE2NjM1Nzg2Mjd9.kZGOhGqyEbj7XVGeqlDBA3r-UevdiSnIW1m6lis2xz5ebn3iDFSNeRPcb1LKYVHLbhlbBg07tD9i1hQwFj9vlDvrFo5gRulYSplH7ndWuTUjKTPirw0oqJbZh5yLyTv7|Referer=https://www.mysports.to/</link>
-<thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
-<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
-</item>
 
 <item>
-<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]Premier Sp0rts.Multi2[/B][/COLOR]</title>
-<link>https://f4bfe57cd2c2.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.052442960378.channel.gQWJBZR40sfK.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czpldS13ZXN0LTE6MDUyNDQyOTYwMzc4OmNoYW5uZWwvRUd5SEM1dWhqNVV6IiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8vd3d3Lm15c3BvcnRzLnRvIiwiaWF0IjoxNjYzNDA1ODI3LCJleHAiOjE2NjM1Nzg2Mjd9.kZGOhGqyEbj7XVGeqlDBA3r-UevdiSnIW1m6lis2xz5ebn3iDFSNeRPcb1LKYVHLbhlbBg07tD9i1hQwFj9vlDvrFo5gRulYSplH7ndWuTUjKTPirw0oqJbZh5yLyTv7|Referer=https://www.mysports.to/</link>
-<thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
-<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]beIN Sports MENA English 1 daddy[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|Referer=https://streamservicehd.click/premiumtv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0</link>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Barcelona[/B][/COLOR] [COLOR orange][B]Premier Sp0rts.Multi1[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.mysports.to/</link>
 <regex>
 <name>get_sxstream</name>
-<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
-<page>https://streamservicehd.click/premiumtv/livetvon.php?id=61&test=true</page>
-<referer>https://livetvon.click/</referer>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.mysports.to/total/sports/2022/la-liga-real-madrid-vs-barcelona-s4/</page>
+<referer>http://www.mysports.to/</referer>
 </regex>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
-  
+
 <item>
-<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]beIN Sports 1 France daddy[/B][/COLOR]</title>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Barcelona[/B][/COLOR] [COLOR orange][B]Premier Sp0rts.Multi2[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=http://www.mysports.to/</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source: .*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.mysports.to/total/sports/2022/la-liga-real-madrid-vs-barcelona-s4/</page>
+<referer>http://www.mysports.to/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Barcelona[/B][/COLOR] [COLOR orange][B]beIN Sports 1 France daddy[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streamservicehd.click/premiumtv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0</link>
 <regex>
 <name>get_sxstream</name>
@@ -1417,7 +1428,7 @@
 </item>
 
 <item>
-<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]beIN Sports MENA 1 Premium daddy[/B][/COLOR]</title>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Barcelona[/B][/COLOR] [COLOR orange][B]beIN Sports MENA 1 Premium daddy[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streamservicehd.click/premiumtv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0</link>
 <regex>
 <name>get_sxstream</name>
@@ -1428,9 +1439,9 @@
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
-
+<!--
 <item>
-<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]beIN Sports MENA 1 daddy[/B][/COLOR]</title>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Barcelona[/B][/COLOR] [COLOR orange][B]beIN Sports MENA 1 daddy[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streamservicehd.click/premiumtv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0</link>
 <regex>
 <name>get_sxstream</name>
@@ -1441,9 +1452,22 @@
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
-<!--
+
 <item>
-<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]beIN Sports MENA Premium 1 daddy[/B][/COLOR]</title>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Barcelona[/B][/COLOR] [COLOR orange][B]beIN Sports MENA English 1 daddy[/B][/COLOR]</title>
+<link>$doregex[get_sxstream]|Referer=https://streamservicehd.click/premiumtv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0</link>
+<regex>
+<name>get_sxstream</name>
+<expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
+<page>https://streamservicehd.click/premiumtv/livetvon.php?id=61&test=true</page>
+<referer>https://livetvon.click/</referer>
+</regex>
+<thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
+<fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
+</item>
+  
+<item>
+<title>[COLOR red][B]La[/COLOR] [COLOR yellow][B]Liga[/B][/COLOR]:[COLOR white][B]Real Madrid vs Barcelona[/B][/COLOR] [COLOR orange][B]beIN Sports MENA Premium 1 daddy[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streamservicehd.click/premiumtv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0</link>
 <regex>
 <name>get_sxstream</name>
@@ -1454,7 +1478,7 @@
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
-
+-->
 <item>
 <title>                           </title>
 <link>.</link>
@@ -1497,14 +1521,14 @@
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
-
+-->
 <item>
 <title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]Sp0rtsNet.720p1[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://hockeyweb.live/</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>http://hockeyweb.live/daily/news/german0922</page>
+<page>http://hockeyweb.live/daily/news/bayern2216</page>
 <referer>http://hockeyweb.live/</referer>
 </regex>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
@@ -1537,14 +1561,14 @@
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]DAZN1 Germany daddy[/B][/COLOR]</title>
+<title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]DAZN2 Germany daddy[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streamservicehd.click/premiumtv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0</link>
 <regex>
 <name>get_sxstream</name>
 <expres>(?s)auth=.*?source:.*[",'](.*m3u8.*?)[",']</expres>
-<page>https://streamservicehd.click/premiumtv/livetvon.php?id=426&test=true</page>
+<page>https://streamservicehd.click/premiumtv/livetvon.php?id=427&test=true</page>
 <referer>https://livetvon.click/</referer>
 </regex>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
@@ -1576,14 +1600,14 @@
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
-
+-->
 <item>
 <title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]Sp0rtsNet.720p2[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=http://motornews.live/</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source: .*[",'](.*m3u8.*?)[",']</expres>
-<page>http://motornews.live/novo/events/live</page>
+<page>http://motornews.live/novo/bite/16-dutch-p5</page>
 <referer>http://motornews.live/</referer>
 </regex>
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
@@ -1623,7 +1647,7 @@
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
-
+-->
 <item>
 <title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]Sky Sports Football daddy[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streamservicehd.click/premiumtv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0</link>
@@ -1636,7 +1660,7 @@
 <thumbnail>https://mullafabz.xyz/HOST/Icons/bundesligaicon.png</thumbnail>
 <fanart>https://tomorrow.dfl.de/wp-content/uploads/2018/01/Bild3.jpg</fanart>
 </item>
-<!--
+
 <item>
 <title>[COLOR red][B]BUNDES[/B][/COLOR][COLOR blue][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]beIN Sports 3 MENA daddy[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streamservicehd.click/premiumtv&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0</link>
