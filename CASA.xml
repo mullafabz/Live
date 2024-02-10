@@ -1,171 +1,101 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
- 
-<layouttype>thumbnail</layouttype
-<sortby>Name</sortby>
-<channels>
-<!--
-<channel>
-<name>[COLOR yellow][B]BET & WIN WITH MELBET.COM[/B][/COLOR]</name>
-<externallink>http://bit.ly/PPVX</externallink>
-<thumbnail>https://i.imgur.com/yy7Tk7N.jpg</thumbnail>
-<fanart>https://i.imgur.com/JuVeeGK.jpg</fanart>
-</channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layouttype>thumbnail</layouttype>
 
-<channel>
-<name>[COLOR yellow][B]GET 130% BONUS ON DEPOSIT[/B][/COLOR] [COLOR yellow][B]WITH PROMOCODE[/B][/COLOR] [COLOR lime][B]MULLA[/B][/COLOR]</name>
-<externallink>http://bit.ly/PP</externallink>
-<thumbnail>https://i.imgur.com/yy7Tk7N.jpg</thumbnail>
-<fanart>https://i.imgur.com/JuVeeGK.jpg</fanart>
-</channel>
-
-<channel>
-<name>[COLOR yellow][B]OR GO TO[/B][/COLOR] [COLOR lime][B]https://bit.ly/MELBETCOM[/B][/COLOR] [COLOR yellow][B]TO REGISTER[/B][/COLOR]</name>
-<externallink>http://bit.ly/PP</externallink>
-<thumbnail>https://i.imgur.com/yy7Tk7N.jpg</thumbnail>
-<fanart>https://i.imgur.com/JuVeeGK.jpg</fanart>
-</channel>
-<!--
-<channel>
-<name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR].Backup</name>
-<externallink>http://fabzmulla.xyz/HOST/LiveTV/sportsstreamz.xml</externallink>http://bit.ly/FOOTYSTRMZ1,http://bit.ly/FOOTYSTRMZ
-<thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
-<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>[COLOR purple][B]====>>>>[/B][/COLOR][COLOR lime][B]NOTICE ABOUT THE CUTS[/B][/COLOR][COLOR purple][B]<<<<====[/B][/COLOR]</name>
-<externallink>http://mullafabz.xyz/HOST/LiveTV/notice.txt</externallink>http://bit.ly/FOOTYSTRMZ1,http://bit.ly/FOOTYSTRMZ
-<thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
-<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
-<info></info>
-</channel>
--->
-<channel>
-<name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR]</name>
-<externallink>https://mullafabz.xyz/HOST/LiveTV/sportsstreamz.xml</externallink>http://bit.ly/FOOTYSTRMZ1,http://bit.ly/FOOTYSTRMZ
-<thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
-<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
-<info></info>
-</channel>
-<!--
-<channel>
-<name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR].Backup</name>
-<externallink>https://mullafabz.co.za/HOST/LiveTV/sportsstreamz.xml</externallink>http://bit.ly/FOOTYSTRMZ1,http://bit.ly/FOOTYSTRMZ
-<thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
-<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR].Backup1</name>
-<externallink>https://raw.githubusercontent.com/mullafabz/Live/master/footy</externallink>http://bit.ly/FOOTYSTRMZ1,http://bit.ly/FOOTYSTRMZ
-<thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
-<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
-<info></info>
-</channel>
--->
-<channel>
-<name>[COLOR yellow][B]Support server costs here[/B][/COLOR]</name>
-<externallink>http://www.google.com</externallink>
+<item>
+<title>[COLOR aqua][B]FOR REQUEST [/B][/COLOR] [COLOR gold][B]@mullafabz[/B][/COLOR]</title>
+<folder>http://mullafabz.xyz/HOST/LiveTV/Replays/nba.xml</folder>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</channel>
+</item>
 
-<channel>
-<name>[COLOR white][B]@[/B][/COLOR][COLOR turquoise][B]https://paypal.me/taylormulla[/B][/COLOR]</name>
-<externallink>http://www.google.com</externallink>
+<item>
+<title>[COLOR aqua][B]ONLY RECENT EVENTS [/B][/COLOR]</title>
+<folder>http://mullafabz.xyz/HOST/LiveTV/Replays/nba.xml</folder>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</channel>
-<!--
-<channel>
-<name>[COLOR pink][B]I[/B][/COLOR][COLOR white][B]PTV[/B][/COLOR] [COLOR red][B]H[/B][/COLOR][COLOR white][B]eaven[/B][/COLOR](Testing)</name>
-<externallink>http://bit.ly/IPTVsHEAVEN</externallink>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/IPTVss.jpg</thumbnail>
-<fanart>http://mullafabz.xyz/HOST/Icons/iptvfanart.jpg</fanart>
-<info></info>
-</channel>
+</item>
 
-<channel>
-<name>[COLOR pink][B]S[/B][/COLOR][COLOR white][B]ports[/B][/COLOR] [COLOR red][B]C[/B][/COLOR][COLOR white][B]hannels[/B][/COLOR](Testing)</name>
-<externallink>https://mullafabz.xyz/HOST/LiveTV/newsports.xml</externallink>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/Live-Sport-Channel-TV.jpg</thumbnail>
-<fanart>http://mullafabz.xyz/HOST/Icons/promo.jpg</fanart>
-<info></info>
-</channel>
--->
-<channel>
-<name>[COLOR pink][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR] [COLOR red][B]P[/B][/COLOR][COLOR white][B]PV[/B][/COLOR] [COLOR pink][B]E[/B][/COLOR][COLOR white][B]vents[/B][/COLOR]</name>
-<externallink>http://mullafabz.xyz/HOST/LiveTV/PPV.xml</externallink>http://bit.ly/PPVXMLZ,http://bit.ly/PPVXMLZ1
-<thumbnail>http://mullafabz.xyz/HOST/Icons/ppvnew.jpg</thumbnail>
-<fanart>https://cleeng.com/blog/wp-content/uploads/2017/02/Live-PPV-piracy-e1487848574731.jpg</fanart>
-</channel>
-<!--
-<channel>
-<name>[COLOR pink][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR] [COLOR red][B]P[/B][/COLOR][COLOR white][B]PV[/B][/COLOR] [COLOR pink][B]E[/B][/COLOR][COLOR white][B]vents[/B][/COLOR].Backup</name>
-<externallink>http://fabzmulla.xyz/HOST/LiveTV/PPV.xml</externallink>http://bit.ly/PPVXMLZ,http://bit.ly/PPVXMLZ1
-<thumbnail>http://mullafabz.xyz/HOST/Icons/ppvnew.jpg</thumbnail>
-<fanart>https://cleeng.com/blog/wp-content/uploads/2017/02/Live-PPV-piracy-e1487848574731.jpg</fanart>
-</channel>
-
-<channel>
-<name>[COLOR pink][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR] [COLOR red][B]P[/B][/COLOR][COLOR white][B]PV[/B][/COLOR] [COLOR pink][B]E[/B][/COLOR][COLOR white][B]vents[/B][/COLOR].Backup</name>
-<externallink>https://raw.githubusercontent.com/mullafabz/Live/master/ppv3.xml</externallink>http://bit.ly/PPVXMLZ,http://bit.ly/PPVXMLZ1
-<thumbnail>http://mullafabz.xyz/HOST/Icons/ppvnew.jpg</thumbnail>
-<fanart>https://cleeng.com/blog/wp-content/uploads/2017/02/Live-PPV-piracy-e1487848574731.jpg</fanart>
-</channel>
--->
-<channel>
-<name>[COLOR pink][B]M[/B][/COLOR][COLOR white][B]ore[/B][/COLOR] [COLOR red][B]S[/B][/COLOR][COLOR white][B]ports[/B][/COLOR] [COLOR red][B]E[/B][/COLOR][COLOR white][B]vents[/B][/COLOR]</name>
-<externallink>http://mullafabz.xyz/HOST/LiveTV/requests.xml</externallink>http://bit.ly/REQUESTSZZ1,http://bit.ly/REQUESTSZZ
-<thumbnail>http://mullafabz.xyz/HOST/Icons/moresportsevents.png</thumbnail>
-<fanart>https://i.imgur.com/AWutrFY.jpg</fanart>
-</channel>
-<!--
-<channel>
-<name>[COLOR pink][B]M[/B][/COLOR][COLOR white][B]ore[/B][/COLOR] [COLOR red][B]S[/B][/COLOR][COLOR white][B]ports[/B][/COLOR] [COLOR red][B]E[/B][/COLOR][COLOR white][B]vents[/B][/COLOR].Backup</name>
-<externallink>http://fabzmulla.xyz/HOST/LiveTV/requests.xml</externallink>http://bit.ly/REQUESTSZZ1,http://bit.ly/REQUESTSZZ
-<thumbnail>http://mullafabz.xyz/HOST/Icons/moresportsevents.png</thumbnail>
-<fanart>https://i.imgur.com/AWutrFY.jpg</fanart>
-</channel>
-
-<channel>
-<name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR] Backup</name>
-<externallink>http://mullafabz.xyz/HOST/LiveTV/sportsstreamz1.xml</externallink>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
-<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
-<info></info>
-</channel>
--->
-<channel>
-<name>[COLOR pink][B]T[/B][/COLOR][COLOR white][B]est[/B][/COLOR] [COLOR pink][B]A[/B][/COLOR][COLOR white][B]rea[/B][/COLOR]</name>
-<externallink>http://mullafabz.xyz/HOST/LiveTV/Testing.xml</externallink>
+<item>
+<title>[COLOR white][B]=====================================================[/B][/COLOR]</title>
+<folder>http://mullafabz.xyz/HOST/LiveTV/R</folder>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</channel>
-<!--
-<channel>
-<name>[COLOR pink][B]C[/B][/COLOR][COLOR white][B]ountry[/B][/COLOR] [COLOR red][B]C[/B][/COLOR][COLOR white][B]hannels[/B][/COLOR]</name>
-<externallink>http://bit.ly/NEW_COUNTRY</externallink>
-<thumbnail>https://i.imgur.com/vxcBTpG.jpg</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/4/4a/World_Flag_Map_V._2.3.png</fanart>
-</channel>
+</item>
 
-<channel>
-<name>[COLOR pink][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR] [COLOR red][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR]</name>
-<externallink>http://bit.ly/LIVEFOOTBALLBCKP</externallink>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
-<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
-<info></info>
-</channel>
+<item>
+<title>[COLOR orange][B]~[/B][/COLOR][COLOR yellow][B]Like to say thanks?[/B][/COLOR] [COLOR white][B]https://paypal.me/taylormulla[/B][/COLOR][COLOR orange][B]~[/B][/COLOR]</title>
+<folder>http://bit.ly</folder>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
-<channel>
-<name>[COLOR pink][B]S[/B][/COLOR][COLOR white][B]ports[/B][/COLOR] [COLOR red][B]C[/B][/COLOR][COLOR white][B]hannels[/B][/COLOR]</name>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/Live-Sport-Channel-TV.jpg</thumbnail>
-<externallink>http://bit.ly/SPORTZZ</externallink>http://bit.ly/SPORTZZ1
-<fanart>http://mullafabz.xyz/HOST/Icons/promo.jpg</fanart>
-<info></info>
-</channel>
--->
-</channels>
+<item>
+<title>[COLOR red][B]L[/B][/COLOR][COLOR white][B]ive PPV[/B][/COLOR]</title>
+<folder>https://mullafabz.xyz/HOST%202/Replays/others1.xml</folder>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]S[/B][/COLOR][COLOR white][B]OCCER[/B][/COLOR][COLOR orange][B](on request only)[/B][/COLOR]</title>
+<folder>https://mullafabz.xyz/HOST%202/Replays/soccer.xml</folder>http://bit.ly/SOCCEREPLAYER
+<thumbnail>https://i.imgur.com/ejWMjZ3.jpg</thumbnail>
+<fanart>https://i.imgur.com/YzRbKe6.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B]N[/B][/COLOR][COLOR white][B]BA[/B][/COLOR]</title>
+<folder>https://mullafabz.xyz/HOST%202/Replays/nba.xml</folder>http://bit.ly/NBAREPLAYER
+<thumbnail>https://i.imgur.com/zc16ZQf.png</thumbnail>
+<fanart>https://i.imgur.com/6KWgKCo.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]N[/B][/COLOR][COLOR white][B]HL[/B][/COLOR]</title>
+<folder>https://mullafabz.xyz/HOST%202/Replays/nhl.xml</folder>http://bit.ly/NHLREPLAYER
+<thumbnail>https://i.imgur.com/UqhgYqB.jpg</thumbnail>
+<fanart>https://i.imgur.com/PXodp5g.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]N[/B][/COLOR][COLOR white][B]FL[/B][/COLOR]</title>
+<folder>https://mullafabz.xyz/HOST%202/Replays/nfl.xml</folder>http://bit.ly/NFLREPLAYER
+<thumbnail>https://i.imgur.com/bU3h0Yf.jpg</thumbnail>
+<fanart>https://i.imgur.com/oScvoMm.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B]M[/B][/COLOR][COLOR white][B]LB[/B][/COLOR]</title>
+<folder>https://mullafabz.xyz/HOST%202/Replays/.xml</folder>http://bit.ly/MLBREPLAYER
+<thumbnail>https://i.imgur.com/HqfxlgW.png</thumbnail>
+<fanart>https://i.imgur.com/8c3zboa.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green][B]U[/B][/COLOR][COLOR white][B]FC[/B][/COLOR]/[COLOR green][B]M[/B][/COLOR][COLOR white][B]MA[/B][/COLOR]</title>
+<folder>https://mullafabz.xyz/HOST%202/Replays/ufc.xml</folder>http://bit.ly/UFCMMAREPLAYER
+<thumbnail>https://i.imgur.com/7jiwajh.jpg</thumbnail>
+<fanart>https://i.imgur.com/cuHToI8.png</fanart>
+</item>
+
+<item>
+<title>[COLOR green][B]B[/B][/COLOR][COLOR white][B]OXING[/B][/COLOR]</title>
+<folder>https://mullafabz.xyz/HOST%202/Replays/boxing.xml</folder>http://bit.ly/BOXINGREPLAYER
+<thumbnail>https://i.imgur.com/LIHGP14.jpg</thumbnail>
+<fanart>https://i.imgur.com/AQt5pwd.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]O[/B][/COLOR][COLOR white][B]THERS[/B][/COLOR]</title>
+<folder>https://mullafabz.xyz/HOST%202/Replays/others.xml</folder>http://bit.ly/OTHERSREPLAYER
+<thumbnail>https://i.imgur.com/ZyInUWb.png</thumbnail>
+<fanart>https://i.imgur.com/d5S3ZhB.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B]T[/B][/COLOR][COLOR white][B]esting[/B][/COLOR]</title>
+<folder>https://mullafabz.xyz/HOST%202/Replays/testing.xml</folder>http://bit.ly/TESTINZZZZ1
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
