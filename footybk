@@ -1559,7 +1559,7 @@
 <thumbnail>https://i2-prod.dailyrecord.co.uk/incoming/article2089077.ece/ALTERNATES/s298/Scottish-Premishership.jpg</thumbnail>
 <fanart>https://www.007soccerpicks.com/wp-content/uploads/2016/08/Scotland-Premiership.png</fanart>
 </item>
-
+-->
 <item>
 <title>   </title>
 <link>.</link>
@@ -1599,9 +1599,9 @@
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
-
+-->
 <item>
-<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]Sp0rt.1[/B][/COLOR]</title>
+<title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]Sp0rt.1080p1[/B][/COLOR]</title>
 <link>https://jsfile2.sportslive123.com/user/custom/dialog/userdata.js?main_new-daddylaliga1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36</link>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
@@ -1613,7 +1613,7 @@
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
-<!--
+
 <item>
 <title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]Sp0rt.2[/B][/COLOR]</title>
 <link>https://play7ba.peodlc.com/live/202_4350090_2.m3u8|Referer=https://prabashsapkota.github.io/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0</link>
@@ -1626,14 +1626,14 @@
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
-
+-->
 <item>
 <title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]Sp0rt.3[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://matchify.zip/home/blog4/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source\s*=\s*["']([^"']*?https[^"']*?)["']</expres>
-<page>https://matchify.zip/events/tracker4/</page>
+<page>https://matchify.zip/home/blog4/</page>
 <referer>https://new.sportsfeed24.to/</referer>games
 </regex>
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
@@ -1652,7 +1652,7 @@
 <thumbnail>https://i.imgur.com/JN7fUZW.jpg</thumbnail>
 <fanart>http://i.imgur.com/yIRAULw.jpg</fanart>
 </item>
-
+-->
 <item>
 <title>[COLOR red][B]LA[/COLOR] [COLOR yellow][B]LIGA[/B][/COLOR]:[COLOR white][B]All Games[/B][/COLOR] [COLOR orange][B]Sp0rt.5[/B][/COLOR]</title>
 <link>$doregex[get_sxstream]|Referer=https://streambtw.live/embed/ch6.php</link>
