@@ -5,24 +5,10 @@
 <channels>
 
 <channel>
-<name>[COLOR yellow][B]LATEST VERSION RELEASED[/B][/COLOR]</name>
-<externallink>http://bit.ly/PPVX</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>[COLOR yellow][B]UPDATE TO Version 3.2[/B][/COLOR]</name>
-<externallink>http://bit.ly/PPVX</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</channel>
-
-<channel>
-<name>[COLOR yellow][B]FOR BETTER LINKS[/B][/COLOR]</name>
-<externallink>http://bit.ly/PPVX</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
+    <name>[COLOR yellow][B]UPDATE TO Version 3.2.3 — CLICK HERE[/B][/COLOR]</name>
+    <externallink>https://mullafabz.xyz/Plugins/K19/Plugins/plugin.video.Rising.Tides/plugin.video.Rising.Tides-3.2.3.zip</externallink>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
 </channel>
 
 <channel>
