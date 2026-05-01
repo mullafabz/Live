@@ -17,7 +17,7 @@
     <thumbnail></thumbnail>
     <fanart></fanart>
 </channel>
-
+<!--
 <channel>
 <name>[COLOR pink][B]Live TV[/B][/COLOR] [COLOR red][B]C[/B][/COLOR][COLOR white][B]hannels[/B][/COLOR]</name>
 <thumbnail>http://mullafabz.xyz/HOST/Icons/Live-Sport-Channel-TV.jpg</thumbnail>
@@ -25,7 +25,7 @@
 <fanart>http://mullafabz.xyz/HOST/Icons/promo.jpg</fanart>
 <info></info>
 </channel>
-
+-->
 <channel>
 <name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR]</name>
 <externallink>http://bit.ly/FOOTYSTRMZ</externallink>http://bit.ly/FOOTYSTRMZ1,https://mullafabz.xyz/HOST/LiveTV/sportsstreamz.xml 
