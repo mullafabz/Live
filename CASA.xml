@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
- 
-<layouttype>thumbnail</layouttype
-<sortby>Name</sortby>
+
 <channels>
 
 <channel>
-    <name>[COLOR yellow][B]UPDATE TO v.3.2.4[/B][/COLOR]</name>
-    <externallink>https://mullafabz.xyz/Plugins/K19/Plugins/plugin.video.Rising.Tides/plugin.video.Rising.Tides-3.2.4.zip</externallink>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
+<name>[COLOR yellow][B]UPDATE TO v.3.2.5[/B][/COLOR]</name>
+<externallink>https://mullafabz.xyz/Plugins/K19/Plugins/plugin.video.Rising.Tides/plugin.video.Rising.Tides-3.2.4.zip</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </channel>
 
 <channel>
-    <name>[COLOR yellow][B]CHECK REPO UPDATE[/B][/COLOR]</name>
-    <externallink>https://mullafabz.xyz/Plugins/K19/Plugins/plugin.video.Rising.Tides/plugin.video.Rising.Tides-3.2.4.zip</externallink>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
+<name>[COLOR yellow][B]CHECK REPO UPDATE[/B][/COLOR]</name>
+<externallink>https://mullafabz.xyz/Plugins/K19/Plugins/plugin.video.Rising.Tides/plugin.video.Rising.Tides-3.2.4.zip</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </channel>
 <!--
 <channel>
